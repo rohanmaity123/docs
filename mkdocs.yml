@@ -1,0 +1,26 @@
+site_name: AppSeed
+site_description: Official Documentation - App Generator | AppSeed
+site_url: https://docs.appseed.us/
+repo_url: https://github.com/app-generator/docs/
+google_analytics: ['UA-104843706-2', 'docs.appseed.us']
+
+markdown_extensions:
+  - meta
+
+nav:
+- Generator:  
+  - 'Quick Start'     : 'app-generator/index.md'   
+
+- Backends:  
+  - 'Backends'        : 'backends/index.md'   
+  - 'Starter Express' : 'backends/starter-express.md'   
+  - 'Starter Flask'   : 'backends/starter-flask.md'   
+  - 'Starter Laravel' : 'backends/starter-laravel.md'   
+
+- Apps:  
+  - 'Full-Stack Apps' : 'apps/index.md'   
+  - 'React Apps'      : 'apps/react/index.md'   
+  - 'Vue.js Apps'     : 'apps/vuejs/index.md'   
+  - 'Flask Apps'      : 'apps/flask-apps/index.md'   
+  - 'Bulma CSS'       : 'apps/bulma-css/index.md'   
+  - 'GatsbyJS'        : 'apps/gatsbyjs/index.md'   
