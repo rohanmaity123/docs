@@ -1,14 +1,14 @@
 title: Full-Stack App Generator
 
-# Quick Start
+# App Generator
 Build React, Vue.js Full-Stack Apps integrated with Express, Laravel, Flask backends in no-time.
 
-A developer can get a Full-Stack app in many ways: using the [app generator](https://appseed.us/fullstack-apps-generator), check the latest starters from our official [Github repo](https://github.com/rosoftdeveloper/appseed/blob/master/README.md) or using **Yeoman**. 
+A developer can get a Full-Stack app in many ways: using the [app generator](https://appseed.us/app-generator), check the latest starters from our official [Github repo](https://github.com/rosoftdeveloper/appseed/blob/master/README.md) or using **Yeoman**. 
 Theoretically, all of them are providing the same stuff, but the **app generator will perform supplementary checks and tests**, making the delivery **100% stable**.  
 
 <br />
 
-## Using App Generator (recommended)
+## Using the visual Generator (recommended)
 ---
 **Note:** `The generator can be used by developers, without an account.`
 
@@ -19,16 +19,29 @@ Theoretically, all of them are providing the same stuff, but the **app generator
 
 <br />
 
+## Using pre-built Apps
+---
+Most of the apps are free and open-source. Feel free to choose a category
+
+* Full-Stack [apps index](https://appseed.us/apps) contains React, Vue, JAMstack apps  
+* [React Apps](https://appseed.us/apps/react) index
+* [Vue Apps](https://appseed.us/apps/vuejs) index
+* [JAMstack Apps](https://appseed.us/apps/jamstack) index
+* [Flask Apps](https://appseed.us/apps/flask) index
+* Apps built with [Argon Design](https://appseed.us/apps/argon-design-system)
+* Apps built with design from [HTML5 Up](https://appseed.us/apps/html5up)
+
+
+<br />
+
 ## Using Github Starters
 ---
 **Note:** `The repo can contain untested code.`
 
-* Access the official [Github repo](https://github.com/rosoftdeveloper/appseed/blob/master/README.md)
-* Checkout the preferred backend: [Express](https://github.com/rosoftdeveloper/appseed/blob/master/starter-express/README.md), [Laravel](https://github.com/rosoftdeveloper/appseed/blob/master/starter-laravel/README.md) or [Flask](https://github.com/rosoftdeveloper/appseed/blob/master/starter-flask/README.md)
-* Choose a frontend UI KIT: [Vue.js](https://github.com/rosoftdeveloper/appseed/blob/master/starter-vue/argon-design-system/README.md) or [React](https://github.com/rosoftdeveloper/appseed/blob/master/starter-react/material-kit/README.md)
+* Access the official [Github repo](https://github.com/app-generator/appseed)
+* Checkout the preferred backend: [Express](https://github.com/app-generator/express-starter), [Laravel](https://github.com/app-generator/laravel-starter) or [Flask](https://github.com/app-generator/flask-starter)
+* Choose a frontend UI KIT: [Vue.js](https://github.com/app-generator/vuejs-argon-design-system) or [React](https://github.com/app-generator/react-material-kit)
 * `Please` Follow the instructions saved in `README` files. 
-
-**Note:** `In case of any issue, please open a fault on @Github. We will provide a fix asap.`
 
 <br />
 
@@ -48,3 +61,8 @@ npm install -g generator-fullstack-apps
 ```bash
 yo fullstack-apps
 ```
+
+## Support
+---
+For support please access the official [support](https://appseed.us/support) page or contact us directly on [Discord](https://discord.gg/fZC6hup).
+

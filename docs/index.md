@@ -1,6 +1,6 @@
 title: React, Vue App Generator
 
-# App Generator
+# AppSeed
 Build React, Vue.js Full-Stack Apps integrated with Express, Laravel, Flask backends in no-time.
 
 <br />

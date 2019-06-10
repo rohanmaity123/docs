@@ -8,8 +8,8 @@ markdown_extensions:
   - meta
 
 nav:
-- Generator:  
-  - 'Quick Start'     : 'app-generator/index.md'   
+- About:  
+  - 'App Generator'   : 'app-generator/index.md'   
   - 'Geek Glossary'   : 'what-is/index.md'   
 
 - Backends:  
@@ -27,5 +27,5 @@ nav:
 
 - Made with:  
   - 'Argon Design'    : 'apps/argon-design-system/index.md'   
-  - 'HTML5 Up Design' : 'apps/html5up/index.md'   
   - 'Bulma CSS'       : 'apps/bulma-css/index.md'   
+  - 'HTML5 Up Design' : 'apps/html5up/index.md'   

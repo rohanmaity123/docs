@@ -1,6 +1,6 @@
 # Argon Design System 
 ---
-Full-Stack Apps coded in Argon Design, the amazing UI Kit crafted by [Creative-Tim](https://www.creative-tim.com).
+Full-Stack Apps coded in **Argon Design**, the amazing UI Kit crafted by [Creative-Tim](https://www.creative-tim.com).
 
 <br />
 
