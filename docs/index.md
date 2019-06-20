@@ -24,8 +24,9 @@ So basically, **AppSeed it's a problem solver** for this two issues mentioned ab
 
 <br />
 
-## Demo apps
+## Sample Apps
 ---
+* [Admin Dashboards](https://appseed.us/admin-dashboards) and [Github sources](https://github.com/app-generator/admin-dashboards)
 * [React Apps](https://appseed.us/apps/react) - [Material Design](https://appseed.us/apps/react/express/material-kit-creative-tim)
 * [Vue.js Apps](https://appseed.us/apps/vuejs) - [Argon Design](https://appseed.us/apps/vuejs/express/argon-design-system-creative-tim)
 * [JAMstack Apps](https://appseed.us/apps/jamstack) - [HTML5 Up Fractal](https://appseed.us/apps/jamstack/html5up-fractal) 

@@ -22,10 +22,12 @@ Technical terms used by geeks.
 - L terms
 - M terms
 - N terms
+    - [N Tier Architecture](/what-is/n-tier-architecture)
 - O terms
 - P terms
 - R terms
 - S terms
+    - [Single Tier Architecture](/what-is/single-tier-architecture)
 - T terms
     - [Two Tier Architecture](/what-is/two-tier-architecture)
 - W terms

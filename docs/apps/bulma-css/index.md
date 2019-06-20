@@ -1,6 +1,6 @@
 # Bulma CSS
 ---
-Apps built on top of [Bulma CSS](/what-is-bulma-css), the [open source](https://github.com/jgthms/bulma) [CSS Framework](https://en.wikipedia.org/wiki/CSS_framework) based on Flexbox.
+Apps built on top of [Bulma CSS](/what-is/bulma-css), the [open source](https://github.com/jgthms/bulma) [CSS Framework](https://en.wikipedia.org/wiki/CSS_framework) based on Flexbox.
 
 <br />
 

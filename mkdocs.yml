@@ -9,23 +9,25 @@ markdown_extensions:
 
 nav:
 - About:  
-  - 'App Generator'   : 'app-generator/index.md'   
-  - 'Geek Glossary'   : 'what-is/index.md'   
+  - 'App Generator'     : 'app-generator/index.md'   
+  - 'Geek Glossary'     : 'what-is/index.md'   
 
-- Backends:  
-  - 'Backends'        : 'backends/index.md'   
-  - 'Starter Express' : 'backends/express-starter.md'   
-  - 'Starter Flask'   : 'backends/flask-starter.md'   
-  - 'Starter Laravel' : 'backends/laravel-starter.md'   
-
-- Apps:  
-  - 'Full-Stack Apps' : 'apps/index.md'   
-  - 'React Apps'      : 'apps/react/index.md'   
-  - 'Vue.js Apps'     : 'apps/vuejs/index.md'   
-  - 'Flask Apps'      : 'apps/flask-apps/index.md'   
-  - 'GatsbyJS Apps'   : 'apps/gatsbyjs/index.md'   
+- Full-Stack Apps:  
+  - 'Pre-built Apps'    : 'apps/index.md'   
+  - 'React Apps'        : 'apps/react/index.md'   
+  - 'Vue.js Apps'       : 'apps/vuejs/index.md'   
+  - 'Admin Dashboards'  : 'admin-dashboards/index.md'   
+  - 'Flask Apps'        : 'apps/flask-apps/index.md'   
+  - 'GatsbyJS Apps'     : 'apps/gatsbyjs/index.md'   
+  - 'Starter Express'   : 'backends/express-starter.md'   
+  - 'Starter Flask'     : 'backends/flask-starter.md'   
+  - 'Starter Laravel'   : 'backends/laravel-starter.md'   
 
 - Made with:  
-  - 'Argon Design'    : 'apps/argon-design-system/index.md'   
-  - 'Bulma CSS'       : 'apps/bulma-css/index.md'   
-  - 'HTML5 Up Design' : 'apps/html5up/index.md'   
+  - 'Argon Design'      : 'apps/argon-design-system/index.md'   
+  - 'Bulma CSS'         : 'apps/bulma-css/index.md'   
+  - 'HTML5 Up Design'   : 'apps/html5up/index.md'   
+
+- Tutorials:  
+  - 'Flask - Learn by Coding' : 'tutorials/flask-learn-by-coding/index.md'   
+

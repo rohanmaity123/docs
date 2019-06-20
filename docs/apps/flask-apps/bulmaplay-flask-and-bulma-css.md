@@ -28,7 +28,7 @@ Before trying to build the app, pelase also read the [README](https://github.com
 $ git clone https://github.com/app-generator/flask-bulma-css.git
 $ cd flask-bulma-css
 
-$ yarnpip install -r requirements.txt # install modules
+$ pip install -r requirements.txt # install modules
 $ python app.py # start the app in development mode
 
 ```
