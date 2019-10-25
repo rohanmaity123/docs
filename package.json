@@ -11,14 +11,14 @@
     "scripts": {
         "start"    : "mkdocs serve",
         "build"    : "mkdocs build",
-        "deploy"   : "node deploy"
+        "deploy"   : "rimraf ./site && mkdocs build && node deploy"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/simpllowebsites/simpllo.com"
+        "url": "https://github.com/app-generator/docs"
     },
     "bugs": {
-        "url": "https://github.com/simpllowebsites/simpllo.com/issues",
+        "url": "https://github.com/app-generator/docs/issues",
         "email": "support@appseed.us"
     },
     "author": "AppSeed.us <support@appseed.us> (https://appseed.us)",

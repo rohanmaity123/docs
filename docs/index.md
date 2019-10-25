@@ -1,6 +1,9 @@
-title: React, Vue App Generator
+
+title: App Generator, Full-Stack Boilerplates and Tools | AppSeed
+description: Nullam urna elit, malesuada eget finibus ut, ac tortor.
 
 # AppSeed
+
 Build React, Vue.js Full-Stack Apps integrated with Express, Laravel, Flask backends in no-time.
 
 <br />

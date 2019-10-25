@@ -1,51 +1,77 @@
-title: Black Dashboard - coded in Flask
+title: Flask Dashboard Black - Open-Source Admin Panel
 
-# Black Dashboard
-**Black Dashboard**  is built on top of a fully responsive, pixel-perfect design, designed by [Creative-Tim](https://www.creative-tim.com/product/black-dashboard), coded in [Flask](http://flask.pocoo.org/) Microframework by [AppSeed](https://appseed.us).
+# [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black)
 
-<br />
-
-## App Links
----
- - [Black Dashboard](https://appseed.us/apps/flask-dashboard/black-dashboard) - product page
- - Live [demo](https://flask-black-dashboard.appseed.us/)
- - The [source code](https://github.com/app-generator/flask-black-dashboard)
-
-![Flask Black Dashboard, coded in Flask.](https://raw.githubusercontent.com/app-generator/static/master/flask-black-dashboard/black-dashboard-coded-in-flask-cover.jpg)
-
-### App Features
----
- - License MIT
- - Database: [SQLite](https://www.sqlite.org/index.html)
- - ORM [SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/2.x/)
- - Jinja2 Templating
- - Authentication - login and register
+Open-Source and Free **[admin dashboard](https://appseed.us/admin-dashboards)** with Black Design coded in **[Flask](https://palletsprojects.com/p/flask/)**. **Dashboard** features:
 
 <br />
 
-### How to use it
+- SQLite database, SQLAlchemy ORM
+- Session based authentication flow (login, register)
+- Static Build via Frozen-Flask
+- **MIT License**
+
+<br />
+
+![Flask Dashboard Black - Open-Source Admin Panel](https://raw.githubusercontent.com/app-generator/flask-black-dashboard/master/screenshots/flask-black-dashboard-intro.gif)
+
+<br />
+
+## [Flask](https://palletsprojects.com/p/flask/) (for newcomers)
 ---
-**Black Dashboard** app can be easily built from sources, available on [Github](https://github.com/app-generator/flask-black-dashboard).
-Before trying to build the app, pelase also read the [README](https://github.com/app-generator/flask-black-dashboard/blob/master/README.md) file.
+
+[Flask](https://palletsprojects.com/p/flask/) ([source code](https://github.com/pallets/flask)) is a Python web framework built with a small core and modularity in mind. With a small footprint, well documented and supported by a growing community, Flask can be a good choice to implement on top a nice production-ready Admin Dashboard.
+
+### Setup the environment
+In order to use the boilerplates, we need Python and Flask installed on the workstation. The Python can be downloaded from the official website and Flask can be easily added using PIP command:
+
+```bash
+
+$ # Test the Python install 
+$ python --version
+$ Python 3.7.2
+
+$ # install Flask using PIP
+$ pip install Flask
 
 ```
-$ git clone https://github.com/app-generator/flask-black-dashboard.git 
+
+<br />
+
+## Build from sources
+---
+
+```bash
+$ # clone the sources
+$ git clone https://github.com/app-generator/flask-black-dashboard.git
 $ cd flask-black-dashboard
-
-$ pip install -r requirements.txt # install modules
-$ python app.py # start the app in development mode
+$
+$ # install modules using a virtualenv
+$ virtualenv --no-site-packages env
+$ source env/bin/activate
+$
+$ python app.py
+$ # app is running on port 5000
 ```
 
 <br />
 
-## Support
+### Live [Support](https://appseed.us/support)
 ---
-For support please access the official [support](https://appseed.us/support) page or contact us directly on [Discord](https://discord.gg/fZC6hup).
+
+**24/7 LIVE** [support](https://appseed.us/support) (via [Discord](https://discord.gg/fZC6hup)) available for paid products / [plans](https://appseed.us/pricing).
 
 <br />
 
-## Related resources
+### Resources
 ---
- - [Flask](http://flask.pocoo.org/) - the official website 
- - Related [blog articles](https://blog.appseed.us/tag/flask-dashboard/)
- - [Admin Dashboards](https://appseed.us/admin-dashboards) - index provided by AppSeed
+
+- [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) - product page
+- [Flask Dashboard Black](https://flask-black-dashboard.appseed.us/) - live DEMO
+- [Black Dashboard](https://www.creative-tim.com/product/black-dashboard) - design information (Creative-Tim)
+- [Flask Framework](https://palletsprojects.com/p/flask/) - official website
+ 
+<br />
+ 
+---
+[Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) provided by **AppSeed**
