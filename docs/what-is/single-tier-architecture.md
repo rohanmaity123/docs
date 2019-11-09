@@ -1,3 +1,5 @@
+title:  Single Tier Architecture
+
 # Single Tier Architecture
 Or, One-tier architecture involves putting all of the required components for a software application or technology on a single server or platform.
 Basically, a one-tier architecture keeps all of the elements of an application, including the interface, middleware and back-end data, in one place.

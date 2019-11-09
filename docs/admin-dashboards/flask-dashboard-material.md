@@ -1,23 +1,43 @@
-title: Flask Dashboard Material - Open-Source Admin Panel
+title: Flask Dashboard Material
 
-# [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-material-design)
+# [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-black)
 
-Open-Source and Free **[admin dashboard](https://appseed.us/admin-dashboards)** with Material Design coded in **[Flask](https://palletsprojects.com/p/flask/)**. **Dashboard** features:
+Open-Source Admin Dashboard with Material Dashboard Design coded in **[Flask](https://palletsprojects.com/p/flask/)** - features:
 
 <br />
 
-- SQLite database, SQLAlchemy ORM
+- [SQLite database](https://www.sqlite.org/index.html)
+- [SQLAlchemy ORM](https://www.sqlalchemy.org/)
 - Session based authentication flow (login, register)
 - Static Build via Frozen-Flask
-- **MIT License**
 
 <br />
 
-![Flask Dashboard Material - Open-Source Admin Panel](https://raw.githubusercontent.com/app-generator/flask-material-dashboard/master/screenshots/flask-material-dashboard-intro.gif)
+![Flask Material Dashboard - Open-Source Flask Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-design-intro.gif)
+
+<br />
+
+## Setup the environment
+---
+
+In order to use the boilerplate, we need [Python](/what-is/python/) and [Flask](/what-is/flask/) installed on the workstation. 
+The Python can be downloaded from the [official website](https://www.python.org/) and Flask can be easily added using `PIP` command:
+
+```bash
+$
+$ # Test the Python install 
+$ python --version
+$ Python 3.7.2
+$
+$ # install Flask using PIP
+$ pip install Flask
+$
+```
 
 <br />
 
 ## Build from sources
+---
 
 ```bash
 $ # clone the sources
@@ -28,27 +48,31 @@ $ # install modules using a virtualenv
 $ virtualenv --no-site-packages env
 $ source env/bin/activate
 $
-$ python app.py
+$ # install deps 
+$ pip install -r requirements.txt
+$
+$ # Create SQLite database using the Flask console
+$ flask shell
+>> from app import db
+>> db.create_all()
+>> quit() 
+$
+$ # SQLite database.db should be created in the app folder:
+$ # app\database.db
+$
+$ # Set the FLASK_APP environment variable
+$ (Windows) set FLASK_APP=app.py
+$ (Unix) export FLASK_APP=app.py
+$ (Powershell) $env:FLASK_APP = ".\app.py"
+$ 
+$ flask app.py
 $ # app is running on port 5000
 ```
 
 <br />
 
-### Live [Support](https://appseed.us/support)
----
-
-**24/7 LIVE** [support](https://appseed.us/support) (via [Discord](https://discord.gg/fZC6hup)) available for paid products / [plans](https://appseed.us/pricing).
-
-<br />
-
-
 ## Resources
 
 - [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-material-design) - product page
 - [Flask Dashboard Material](https://flask-material-dashboard.appseed.us/) - live DEMO
-- [Flask Framework](https://palletsprojects.com/p/flask/) - official website
- 
-<br />
- 
----
-[Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-material-design) provided by **AppSeed**
+- [Flask Dashboard Material](https://github.com/app-generator/flask-material-dashboard) - the source code published on Github

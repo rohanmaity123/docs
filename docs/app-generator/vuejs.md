@@ -1,10 +1,12 @@
-title: Vue.js App Generator
+title: Vue Web App Generator
 
-# Vue.js App Generator 
-Build React, Vue.js Full-Stack Apps integrated with Express, Laravel, Flask backends in no-time.
+# [Vue App Generator](https://appseed.us/app-generator/vuejs)
+
+Using this visual interface, any developer can generate a Full-Stack Web app coded in [Vue](https://vuejs.org/)
 
 <br />
 
-### What is AppSeed
+## Section 1
 ---
-[AppSeed](https://appseed.us) is a **Full-Stack** web [app generator](https://appseed.us/app-generator) that allows you to choose a visual theme and apply it on a full, but flexible, technology stack in just a few minutes, greatly improving development time from visual design to application deployment.
+
+@ToDo

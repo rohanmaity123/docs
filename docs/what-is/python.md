@@ -1,3 +1,5 @@
+title: What is Python
+
 # [Python](https://www.python.org/)
 
 [Python](https://www.python.org/) is a general-purpose coding language—which means that, unlike HTML, CSS, and JavaScript, it can be used for other types of programming and software development besides web development.

@@ -1,3 +1,5 @@
+title: What is JAMstack 
+
 # JAMstack
 Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup
 

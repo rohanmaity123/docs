@@ -1,3 +1,5 @@
+title: N Tier (Multi-Tier Architecture)
+
 # N Tier (Multi-Tier Architecture)
 Multi-tier architecture (often referred to as n-tier architecture) or multilayered architecture is a client–server architecture in which presentation, application processing, and data management functions are physically separated. 
 Using a N-tier architecture, web developers can create modular applications.

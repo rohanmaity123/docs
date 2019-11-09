@@ -1,3 +1,5 @@
+title: What is Bulma CSS
+
 # Bulma CSS
 [Bulma](https://bulma.io/) is a free, [open source](https://github.com/jgthms/bulma) [CSS framework](https://en.wikipedia.org/wiki/CSS_framework) based on [Flexbox](https://www.w3schools.com/css/css3_flexbox.asp).
 

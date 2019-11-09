@@ -1,4 +1,6 @@
-# Geek Glossary
+title: What is Glossary
+
+# Geeks Glossary
 Technical terms used by geeks.
 
 <br />
@@ -8,10 +10,11 @@ Technical terms used by geeks.
 ---
 
 - A terms
-    - [App Generator](/what-is/app-generator) 
-    - [Argon Design System](/what-is/argon-design-system) - the UI Kit crafted by [Creative-Tim](https://www.creative-tim.com/)
+    - [App Generator](/what-is/app-generator/)
+    - [Argon Design System](/what-is/argon-design-system/) - the UI Kit crafted by [Creative-Tim](https://www.creative-tim.com/)
 - B terms
-    - [Bulma CSS](/what-is/bulma-css)
+    - [Bulma CSS](/what-is/bulma-css/)
+    - [Boilerplate code](/what-is/boilerplate-code/)
 - D terms
 - E terms
 - F terms

@@ -1,6 +1,7 @@
-title: Full-Stack App Generator
+title: Web App Generator
 
-# App Generator
+# [Web App Generator](https://appseed.us/app-generator)
+
 Build React, Vue.js Full-Stack Apps integrated with Express, Laravel, Flask backends in no-time.
 
 A developer can get a Full-Stack app in many ways: using the [app generator](https://appseed.us/app-generator), check the latest starters from our official [Github repo](https://github.com/rosoftdeveloper/appseed/blob/master/README.md) or using **Yeoman**. 
@@ -24,45 +25,16 @@ Theoretically, all of them are providing the same stuff, but the **app generator
 Most of the apps are free and open-source. Feel free to choose a category
 
 * Full-Stack [apps index](https://appseed.us/apps) contains React, Vue, JAMstack apps  
-* [React Apps](https://appseed.us/apps/react) index
-* [Vue Apps](https://appseed.us/apps/vuejs) index
-* [JAMstack Apps](https://appseed.us/apps/jamstack) index
-* [Flask Apps](https://appseed.us/apps/flask) index
-* Apps built with [Argon Design](https://appseed.us/apps/argon-design-system)
-* Apps built with design from [HTML5 Up](https://appseed.us/apps/html5up)
-
+* [Admin Dashboards](https://appseed.us/admin-dashboards) - Open-Source and Paid 
+* [Static Sites](https://appseed.us/static-site) blazing fast boilerplates built on top of Eleventy and Panini SSG
+* [JAMstack Apps](https://appseed.us/apps/jamstack) - web apps built in JAMstack pattern
+* [Flask Apps](https://appseed.us/apps/flask-apps) - fully-coded web apps coded with authentication, database, ORM and basic modules 
 
 <br />
 
-## Using Github Starters
----
-**Note:** `The repo can contain untested code.`
+### [Support](https://appseed.us/support)
 
-* Access the official [Github repo](https://github.com/app-generator/appseed)
-* Checkout the preferred backend: [Express](https://github.com/app-generator/express-starter), [Laravel](https://github.com/app-generator/laravel-starter) or [Flask](https://github.com/app-generator/flask-starter)
-* Choose a frontend UI KIT: [Vue.js](https://github.com/app-generator/vuejs-argon-design-system) or [React](https://github.com/app-generator/react-material-kit)
-* `Please` Follow the instructions saved in `README` files. 
+Support is an important part of our business model. A good product, in order to be usefull should have a good support. We are providing support for all our products using two tiers: 
 
-<br />
-
-## Using Yeoman
----
-The official [Yeoman AppSeep wrapper](https://github.com/rosoftdeveloper/generator-fullstack-apps)
-
-* Install [Yeoman](http://yeoman.io) and generator-fullstack-apps using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
-
-```bash
-npm install -g yo
-npm install -g generator-fullstack-apps
-```
-
-* Then generate your new project (follow the installer steps):
-
-```bash
-yo fullstack-apps
-```
-
-## Support
----
-For support please access the official [support](https://appseed.us/support) page or contact us directly on [Discord](https://discord.gg/fZC6hup).
-
+- **Free Support** via Github and eMail < support @ appseed.us >
+- **24/7 Live Support** for paid plans and paid products 

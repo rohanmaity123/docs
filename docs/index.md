@@ -1,40 +1,50 @@
 
-title: App Generator, Full-Stack Boilerplates and Tools | AppSeed
-description: Nullam urna elit, malesuada eget finibus ut, ac tortor.
+title: Web App Generator
 
-# AppSeed
+# [AppSeed](https://appseed.us/) Documentation
 
-Build React, Vue.js Full-Stack Apps integrated with Express, Laravel, Flask backends in no-time.
+Web App Generator - the official documentation. 
 
 <br />
 
 ## What is AppSeed
 ---
-[AppSeed](https://appseed.us) is a **Full-Stack** web [app generator](https://appseed.us/app-generator) that allows you to choose a visual theme and apply it on a full, but flexible, technology stack in just a few minutes, greatly improving development time from visual design to application deployment.
+
+Anyone, even without an account, can use AppSeed to [generate web apps](/app-generator/) and code modern apps on top of our [boilerplates](/boilerplate-code/). The official repository contains more than 100 projects released under the MIT license. 
 
 <br />
 
-## Motivation
+## What we provide
 ---
-AppSeed aim to automate the boring part of the development, especially the bottom layer of a **Full-Stack** application. The majority of Github Full-Stack starters are facing two major issues:
 
-* **Lack of support** if you want to use a starter and hit a problem that you can't handle, you're stuck at that point.
-* **The missing UI kit** It's quite usefull to have a stable stack in React and Express, or Vue and Flask, but the UI kit it's a must to move forward with your project.
+AppSeed is a service built for developers. We provide a cutting-edge web app generator, pre-build boilerplate code and web apps prototyped on different languages and architectures. 
 
 <br />
 
-So basically, **AppSeed it's a problem solver** for this two issues mentioned above. As a conclusion, all developers that interact with our service in any way, will receive free or paid **support** and a **UI Kit integrated** into their preferred stack. 
+### [Web App Generator](/app-generator/) 
+
+Using this visual generator, anyone can generate Full-Stack web apps coded in React, Vue with Flask, Laravel or Express in the backend.
 
 <br />
 
-## Sample Apps
----
-* [Admin Dashboards](https://appseed.us/admin-dashboards) and [Github sources](https://github.com/app-generator/admin-dashboards)
-* [React Apps](https://appseed.us/apps/react) - [Material Design](https://appseed.us/apps/react/express/material-kit-creative-tim)
-* [Vue.js Apps](https://appseed.us/apps/vuejs) - [Argon Design](https://appseed.us/apps/vuejs/express/argon-design-system-creative-tim)
-* [JAMstack Apps](https://appseed.us/apps/jamstack) - [HTML5 Up Fractal](https://appseed.us/apps/jamstack/html5up-fractal) 
-* [Bulma CSS Apps](https://appseed.us/apps/jamstack) - [HTML5 Up Fractal](https://appseed.us/apps/jamstack/html5up-fractal) 
-* [GatbsyJS Apps](https://appseed.us/apps/gatsbyjs) - [HTML5 Up Dimension](https://appseed.us/apps/gatsbyjs/html5up-dimension)
+### [Boilerplate Code](/boilerplate-code/) 
 
+Pre-built boilerplate code prototyped in different patterns and programming languages.
 
+<br />
 
+### Pre-built Web Apps
+
+- [Admin Dashboards](/admin-dashboards/) - free and paid admin panels
+- [Static Sites](/static-site/) - prototyped in Eleventy, Panini SSG 
+- [JAMstack apps](/apps/jamstack/) - simple UI ready JAMstack apps
+- [Flask apps](/apps/flask-apps/) - UI ready web apps coded in Flask with a minimum set of features: database, ORM, authentication.
+
+<br />
+
+### [Support](https://appseed.us/support)
+
+Support is an important part of our business model. A good product, in order to be usefull should have a good support. We are providing support for all our products using two tiers: 
+
+- **Free Support** via Github and eMail < support @ appseed.us >
+- **24/7 Live Support** for paid plans and paid products 
