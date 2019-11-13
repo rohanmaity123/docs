@@ -31,5 +31,3 @@ $ npm install -g @11ty/eleventy # global installation
 - [11ty](https://www.11ty.io/) - official website
 - [11ty](https://www.11ty.io/docs/) - documentation
 - [11ty](https://github.com/11ty/eleventy/) - the Github repository
- 
-

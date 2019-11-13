@@ -1,7 +1,7 @@
-title: What is Glossary
+title: Glossary for Geeks
 
-# Geeks Glossary
-Technical terms used by geeks.
+# Glossary for Geeks
+Technical terms used by geeks, programmers and hackers.
 
 <br />
 
@@ -10,33 +10,42 @@ Technical terms used by geeks.
 ---
 
 - A terms
-    - [App Generator](/what-is/app-generator/)
-    - [Argon Design System](/what-is/argon-design-system/) - the UI Kit crafted by [Creative-Tim](https://www.creative-tim.com/)
+    - [Apache Server](./apache/)
+    - [App Generator](./app-generator/)
+    - [Argon Design System](./argon-design-system/) - the UI Kit crafted by [Creative-Tim](https://www.creative-tim.com/)
 - B terms
-    - [Bulma CSS](/what-is/bulma-css/)
-    - [Boilerplate code](/what-is/boilerplate-code/)
+    - [Bulma CSS](./bulma-css/)
+    - [Boilerplate code](./boilerplate-code/)
+- C terms
+    - [CentOS](./centos/)
 - D terms
 - E terms
 - F terms
-    - [Flask](/what-is/flask)
+    - [Flask](./flask/)
 - G terms
+    - [Gunicorn](./gunicorn/)
 - H terms
 - I terms
 - J terms
-    - [JAMstack](/what-is/jamstack)
+    - [JAMstack](./jamstack/)
 - K terms
 - L terms
 - M terms
 - N terms
-    - [N Tier Architecture](/what-is/n-tier-architecture)
+    - [Nginx](./nginx/)
+    - [N Tier Architecture](./n-tier-architecture)
 - O terms
 - P terms
-    - [Python](/what-is/python)
+    - [Python](./python/)
+    - [Panini SSG](./panini/)
 - R terms
 - S terms
-    - [Single Tier Architecture](/what-is/single-tier-architecture)
+    - [Single Tier Architecture](./single-tier-architecture)
 - T terms
-    - [Two Tier Architecture](/what-is/two-tier-architecture)
+    - [Two Tier Architecture](./two-tier-architecture)
+- U terms
+    - [uWSGI](./uwsgi/)
+- V terms
 - W terms
 - X terms
 - Y terms

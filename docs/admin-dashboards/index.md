@@ -13,7 +13,8 @@ All apps share a common set of features: Database, ORM, Authentication flow (log
 
 <br />
 
-**Dashboard Links**: [demo](https://www.youtube.com/watch?v=bnCuQzDE3Ks), [sources](https://github.com/app-generator/flask-boilerplate-dashboard-argon)
+Access **[product documentation](./flask-boilerplate-dashboard-argon/)**.
+
 ![Flask Boilerplate Dashboard Argon - Open-source Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-boilerplate-dashboard-argon-intro.gif)
 
 <br />
@@ -25,7 +26,7 @@ All apps share a common set of features: Database, ORM, Authentication flow (log
 
 <br />
 
-**Dashboard Links**: [demo](https://flask-black-dashboard.appseed.us/), [sources](https://github.com/app-generator/flask-black-dashboard)
+Access **[product documentation](./flask-dashboard-black/)**.
 
 ![Flask Dashboard Black - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-black-dashboard-intro.gif)
 
@@ -36,7 +37,7 @@ All apps share a common set of features: Database, ORM, Authentication flow (log
 
 [Flask Dashboard NowUI](./flask-dashboard-now-ui/) use the latest state-of-the-art design provided by Creative-Tim. This app, released as an open-source project includes an SQLite database, SQLAlchemy ORM, HTML files converted to Jinja2 templating. Other features: Authentication (Register, Login), static export via Frozen-Flask and LIVE deploy via FTP.
 
-**Dashboard Links**: [demo](https://flask-now-ui-dashboard.appseed.us/), [sources](https://github.com/app-generator/flask-now-ui-dashboard)
+Access **[product documentation](./flask-dashboard-now-ui/)**.
 
 ![Flask Dashboard NowUI - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-nowui-intro.gif)
 
@@ -49,7 +50,7 @@ All apps share a common set of features: Database, ORM, Authentication flow (log
 
 <br />
 
-**Dashboard Links**: [demo](https://flask-material-dashboard.appseed.us/), [sources](https://github.com/app-generator/flask-material-dashboard)
+Access **[product documentation](./flask-dashboard-material/)**.
 
 ![Flask Dashboard Material - GIF Animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-kit-intro.gif)
 
@@ -62,7 +63,7 @@ All apps share a common set of features: Database, ORM, Authentication flow (log
 
 <br />
 
-**Dashboard Links**: [demo](https://flask-dashboard-light-bootstrap.appseed.us/), [sources](https://github.com/app-generator/flask-dashboard-light-bootstrap)
+Access **[product documentation](./flask-dashboard-light/)**.
 
 ![Flask Dashboard Light - Dashboard Screen Shot.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-light-bootstrap-intro.gif)
 
@@ -74,7 +75,8 @@ All apps share a common set of features: Database, ORM, Authentication flow (log
 
 <br />
 
-**Dashboard Links**: [demo](https://flask-argon-dashboard.appseed.us/), [sources](https://github.com/app-generator/flask-argon-dashboard)
+Access **[product documentation](./flask-dashboard-argon/)**.
+
 ![Flask Dashboard Argon - GIF animated intro.](https://github.com/app-generator/static/blob/master/products/flask-argon-dashboard-intro.gif?raw=true)
 
 <br />

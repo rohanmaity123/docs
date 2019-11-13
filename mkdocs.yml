@@ -8,14 +8,16 @@ markdown_extensions:
   - meta
 
 nav:
-- Generator:  
-  - 'App Generator'     : 'app-generator/index.md'   
+- Sections:  
+  - 'App Generator'        : 'app-generator/index.md'   
+  - 'How To'               : 'how-to/index.md'   
+  - 'What Is'              : 'what-is/index.md'   
 
 - Web Apps:  
-  - 'Admin Dashboards'  : 'admin-dashboards/index.md'   
-  - 'Static Sites'      : 'static-site/index.md'   
-  - 'JAMstack'          : 'apps/jamstack/index.md'   
-  - 'Flask Apps'        : 'apps/flask-apps/index.md'   
+  - 'Admin Dashboards'     : 'admin-dashboards/index.md'   
+  - 'Static Sites'         : 'static-site/index.md'   
+  - 'JAMstack'             : 'apps/jamstack/index.md'   
+  - 'Flask Apps'           : 'apps/flask-apps/index.md'   
 
 - Boilerplate Code:  
   - 'Boilerplate Code'     : 'boilerplate-code/index.md'   
