@@ -10,6 +10,7 @@ Technical terms used by geeks, programmers and hackers.
 ---
 
 - A terms
+    - [AppSeed](./appseed/)
     - [Apache Server](./apache/)
     - [App Generator](./app-generator/)
     - [Argon Design System](./argon-design-system/) - the UI Kit crafted by [Creative-Tim](https://www.creative-tim.com/)
@@ -40,6 +41,7 @@ Technical terms used by geeks, programmers and hackers.
     - [Panini SSG](./panini/)
 - R terms
 - S terms
+    - [Static Site](./static-site/)
     - [Single Tier Architecture](./single-tier-architecture)
 - T terms
     - [Two Tier Architecture](./two-tier-architecture)

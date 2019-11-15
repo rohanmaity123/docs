@@ -62,13 +62,7 @@ Static Site prototyped on top of **Eleventy SSG** with Alpha Design - **[product
 
 ## [Eleventy Html5Up Helios](https://appseed.us/static-site/eleventy-html5up-helios)
 
-**[Static Site](https://appseed.us/static-site)** prototyped on top of [Eleventy SSG](https://www.11ty.io/) with Helios Design. Features:
-
-- SSG: [Eleventy](https://www.11ty.io/)
-- Tooling: Webpack, Babel, Sass/SCSS, PostCSS, Light-server
-- Design: HTML5up Helios
-
-App Resources: [demo](https://eleventy-html5up-helios.appseed.us/), [product page](https://appseed.us/static-site/eleventy-html5up-helios)
+Static Site prototyped on top of **Eleventy SSG** with Helios Design - **[product documentation](./eleventy-html5up-helios/)**.
 
 ![Eleventy Html5UP Helios - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-helios-intro.gif)
 
@@ -76,13 +70,7 @@ App Resources: [demo](https://eleventy-html5up-helios.appseed.us/), [product pag
 
 ## [Eleventy Html5Up Tessellate](https://appseed.us/static-site/eleventy-html5up-tessellate)
 
-**[Static Site](https://appseed.us/static-site)** prototyped on top of [Eleventy SSG](https://www.11ty.io/) with Tessellate Design. Features:
-
-- SSG: [Eleventy](https://www.11ty.io/)
-- Tooling: Webpack, Babel, Sass/SCSS, PostCSS, Light-server
-- Design: HTML5up Tessellate
-
-App Resources: [demo](https://eleventy-html5up-tessellate.appseed.us/), [product page](https://appseed.us/static-site/eleventy-html5up-tessellate)
+Static Site prototyped on top of **Eleventy SSG** with Tessellate Design - **[product documentation](./eleventy-html5up-tessellate/)**.
 
 ![Eleventy Html5UP Tessellate - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-tessellate-intro.gif)
 
@@ -90,13 +78,7 @@ App Resources: [demo](https://eleventy-html5up-tessellate.appseed.us/), [product
 
 ## [Eleventy Html5Up Aerial](https://appseed.us/static-site/eleventy-html5up-aerial)
 
-**[Static Site](https://appseed.us/static-site)** prototyped on top of [Eleventy SSG](https://www.11ty.io/) with Aerial Design. Features:
-
-- SSG: [Eleventy](https://www.11ty.io/)
-- Tooling: Webpack, Babel, Sass/SCSS, PostCSS, Light-server
-- Design: HTML5up Aerial
-
-App Resources: [demo](https://eleventy-html5up-aerial.appseed.us/), [product page](https://appseed.us/static-site/eleventy-html5up-aerial)
+Static Site prototyped on top of **Eleventy SSG** with Aerial Design - **[product documentation](./eleventy-html5up-aerial/)**.
 
 ![Eleventy Html5UP Aerial - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-aerial-intro.gif)
 
@@ -104,13 +86,7 @@ App Resources: [demo](https://eleventy-html5up-aerial.appseed.us/), [product pag
 
 ## [Eleventy Html5Up TXT](https://appseed.us/static-site/eleventy-html5up-txt)
 
-**[Static Site](https://appseed.us/static-site)** prototyped on top of [Eleventy SSG](https://www.11ty.io/) with TXT Design. Features:
-
-- SSG: [Eleventy](https://www.11ty.io/)
-- Tooling: Webpack, Babel, Sass/SCSS, PostCSS, Light-server
-- Design: HTML5up TXT
-
-App Resources: [demo](https://eleventy-html5up-txt.appseed.us/), [product page](https://appseed.us/static-site/eleventy-html5up-txt)
+Static Site prototyped on top of **Eleventy SSG** with TXT Design - **[product documentation](./eleventy-html5up-txt/)**.
 
 ![Eleventy Html5UP TXT - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-txt-intro.gif)
 
@@ -118,13 +94,7 @@ App Resources: [demo](https://eleventy-html5up-txt.appseed.us/), [product page](
 
 ## [Eleventy Html5Up Miniport](https://appseed.us/static-site/eleventy-html5up-miniport)
 
-**[Static Site](https://appseed.us/static-site)** prototyped on top of [Eleventy SSG](https://www.11ty.io/) with Miniport Design. Features:
-
-- SSG: [Eleventy](https://www.11ty.io/)
-- Tooling: Webpack, Babel, Sass/SCSS, PostCSS, Light-server
-- Design: HTML5up TXT
-
-App Resources: [demo](https://eleventy-html5up-miniport.appseed.us/), [product page](https://appseed.us/static-site/eleventy-html5up-miniport)
+Static Site prototyped on top of **Eleventy SSG** with Miniport Design - **[product documentation](./eleventy-html5up-miniport/)**.
 
 ![Eleventy Html5UP Miniport - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-miniport-intro.gif)
 
@@ -132,13 +102,7 @@ App Resources: [demo](https://eleventy-html5up-miniport.appseed.us/), [product p
 
 ## [Eleventy Html5Up Dopetrope](https://appseed.us/static-site/eleventy-html5up-dopetrope)
 
-**[Static Site](https://appseed.us/static-site)** prototyped on top of [Eleventy SSG](https://www.11ty.io/) with Dopetrope Design. Features:
-
-- SSG: [Eleventy](https://www.11ty.io/)
-- Tooling: Webpack, Babel, Sass/SCSS, PostCSS, Light-server
-- Design: HTML5up TXT
-
-App Resources: [demo](https://eleventy-html5up-dopetrope.appseed.us/), [product page](https://appseed.us/static-site/eleventy-html5up-dopetrope)
+Static Site prototyped on top of **Eleventy SSG** with Dopetrope Design - **[product documentation](./eleventy-html5up-dopetrope/)**.
 
 ![Eleventy Html5UP Dopetrope - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-dopetrope-intro.gif)
 
@@ -146,13 +110,7 @@ App Resources: [demo](https://eleventy-html5up-dopetrope.appseed.us/), [product 
 
 ## [Eleventy Html5Up Astral](https://appseed.us/static-site/eleventy-html5up-astral)
 
-**[Static Site](https://appseed.us/static-site)** prototyped on top of [Eleventy SSG](https://www.11ty.io/) with Astral Design. Features:
-
-- SSG: [Eleventy](https://www.11ty.io/)
-- Tooling: Webpack, Babel, Sass/SCSS, PostCSS, Light-server
-- Design: HTML5up TXT
-
-App Resources: [demo](https://eleventy-html5up-astral.appseed.us/), [product page](https://appseed.us/static-site/eleventy-html5up-astral)
+Static Site prototyped on top of **Eleventy SSG** with Astral Design - **[product documentation](./eleventy-html5up-astral/)**.
 
 ![Eleventy Html5UP Astral - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-astral-intro.gif)
 
@@ -160,13 +118,7 @@ App Resources: [demo](https://eleventy-html5up-astral.appseed.us/), [product pag
 
 ## [Eleventy Html5Up Fractal](https://appseed.us/static-site/eleventy-html5up-fractal)
 
-**[Static Site](https://appseed.us/static-site)** prototyped on top of [Eleventy SSG](https://www.11ty.io/) with Fractal Design. Features:
-
-- SSG: [Eleventy](https://www.11ty.io/)
-- Tooling: Webpack, Babel, Sass/SCSS, PostCSS, Light-server
-- Design: HTML5up Fractal
-
-App Resources: [demo](https://eleventy-html5up-fractal.appseed.us/), [product page](https://appseed.us/static-site/eleventy-html5up-fractal)
+Static Site prototyped on top of **Eleventy SSG** with Fractal Design - **[product documentation](./eleventy-html5up-fractal/)**.
 
 ![Eleventy Html5UP Fractal - Static Site built with 11ty.](https://github.com/app-generator/static/blob/master/products/eleventy-html5up-fractal-intro.gif?raw=true)
 
@@ -174,27 +126,15 @@ App Resources: [demo](https://eleventy-html5up-fractal.appseed.us/), [product pa
 
 ## [Eleventy Html5Up Stellar](https://github.com/app-generator/eleventy-html5up-stellar)
 
-**[Static Site](https://appseed.us/static-site)** prototyped on top of [Eleventy SSG](https://www.11ty.io/) with Stellar Design. Features:
-
-- SSG: [Eleventy](https://www.11ty.io/)
-- Tooling: Webpack, Babel, Sass/SCSS, PostCSS, Light-server
-- Design: HTML5up Stellar
-
-App Resources: [demo](https://eleventy-html5up-stellar.appseed.us/), [product info](https://github.com/app-generator/eleventy-html5up-stellar)
+Static Site prototyped on top of **Eleventy SSG** with Stellar Design - **[product documentation](./eleventy-html5up-stellar/)**.
 
 ![Eleventy Html5UP Stellar - Static Site built with 11ty.](https://github.com/app-generator/static/blob/master/products/eleventy-html5up-stellar-intro.gif?raw=true)
 
 <br />
 
-## [Eleventy Html5Up Photon](https://github.com/app-generator/eleventy-html5up-stellar)
+## [Eleventy Html5Up Photon](https://github.com/app-generator/eleventy-html5up-photon)
 
-**[Static Site](https://appseed.us/static-site)** prototyped on top of [Eleventy SSG](https://www.11ty.io/) with Photon Design. Features:
-
-- SSG: [Eleventy](https://www.11ty.io/)
-- Tooling: Webpack, Babel, Sass/SCSS, PostCSS, Light-server
-- Design: HTML5up Photon
-
-App Resources: [demo](https://eleventy-html5up-photon.appseed.us/), [sources](https://github.com/app-generator/eleventy-html5up-photon)
+Static Site prototyped on top of **Eleventy SSG** with Photon Design - **[product documentation](./eleventy-html5up-photon/)**.
 
 ![Eleventy Html5UP Photon - Static Site built with 11ty.](https://github.com/app-generator/static/blob/master/products/eleventy-html5up-photon-intro.gif?raw=true)
 
