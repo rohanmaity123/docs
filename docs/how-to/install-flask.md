@@ -10,4 +10,3 @@ $ pip freeze | grep Flask
 ```
 
 ## Install using a [virtual environment](https://www.geeksforgeeks.org/python-virtual-environment/)
-
