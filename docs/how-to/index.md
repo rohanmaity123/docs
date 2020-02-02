@@ -2,7 +2,11 @@ title: How to do stuff in Programming
 
 # Geek Glossary
 
-How to do stuff in programming.
+How to do stuff in programming, simple guide. 
+
+<br />
+
+> Something is missing? contact us on [Discord](https://discord.gg/fZC6hup) and suggest a topic. Thank you!
 
 <br />
 
@@ -10,7 +14,21 @@ How to do stuff in programming.
 
 ---
 
-- [Flask Deploy on Apache](/how-to/flask-apache-centos-virtualenv-minimal-configuration/)
+<br />
+
+## Basic set up
+
 - [Setup CentOS for development](/how-to/setup-centos-for-development/)
+- [Setup Ubuntu for development](/how-to/setup-ubuntu-for-development/)
+- [Setup Windows for development](/how-to/setup-windows-for-development/)
+
+<br />
+
+## Software installation
+
 - [Install Pyhton](/how-to/install-python/)
 - [Install Flask](/how-to/install-flask/)
+
+## Deployments 
+
+- [Flask Deploy on Apache](/how-to/flask-apache-centos-virtualenv-minimal-configuration/)
