@@ -1,102 +1,64 @@
-title: Flask Dashboard Argon
+title: Flask Boilerplate Dashboard Argon
 
-# [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-dashboard-argon)
+# [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon)
 
-**[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-argon)** coded in **Flask Web Framework** on top of **Argon Dashboard** design, crafted by Creative-Tim agency. **Dashboard** features:
+**Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+
+## Dashboard Features
+
+- SQLite, PostgreSQL, SQLAlchemy ORM
+- Alembic (DB schema migrations)
+- Modular design with **Blueprints**
+- Session-Based authentication (via **flask_login**)
+- Forms validation
+- Deployment scripts: Docker, Gunicorn
+- UI Kit: **Black Dashboard** provided by **Creative-Tim**
 
 <br />
 
-- SQLite database
-- SQLAlchemy ORM
-- Session-Based authentication flow (login, register)
+## Dashboard Links
+
+- [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) - the product page
+- [Flask Dashboard Argon](https://github.com/app-generator/flask-boilerplate-dashboard-argon) - the source code
+- [Flask Dashboard Argon](https://www.youtube.com/watch?v=bnCuQzDE3Ks) - yTube presentation
 
 <br />
 
-![Flask Dashboard Argon - Open-Source Admin Panel](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-argon-intro.gif)
+
+![Flask Dashboard Argon - Open-Source Admin Panel](https://raw.githubusercontent.com/app-generator/static/master/products/flask-boilerplate-dashboard-argon-screen.png)
 
 <br />
 
-## Setup the environment
+## Dependencies and Environment
 ---
 
-In order to use the boilerplate, we need [Python3](/what-is/python/) and `virtualenv` python library.
+To use the apps, the workstation (or the deployment server) must have [Python3](https://www.python.org/) installed and basic development tools required to compile the Python packages. If you are not sure or familiar with the `development environment` concept, please access the links and learn how to set up your workstation.  
 
-<br />
-
-> *Note*: **Python2 is not supported**, the EOL of this version announced [here](https://www.python.org/doc/sunset-python-2/). In order to use our kits, please migrate to Pyhton3. Thank you!
-
-<br />
-
-```bash
-$ # Test the Python install
-$ python --version
-$ Python 3.7.2
-$
-$ # install Virtualenv using PIP
-$ pip install virtualenv
-```
-
-<br />
-
-## Build from [sources](https://github.com/app-generator/flask-argon-dashboard)
----
-
-```bash
-$ # clone the sources
-$ git clone https://github.com/app-generator/flask-argon-dashboard.git
-$ cd flask-argon-dashboard
-$
-$ # install modules using a virtualenv
-$ virtualenv --no-site-packages env
-$ source env/bin/activate
-$
-$ # install deps
-$ pip install -r requirements.txt
-$
-$ # Set the FLASK_APP environment variable
-$ (Unix) export FLASK_APP=run.py
-$ (Windows) set FLASK_APP=run.py
-$ (Powershell) $env:FLASK_APP = ".\run.py"
-$ 
-$ # Create SQLite database using the Flask console
-$ flask shell
->> from app import db
->> db.create_all()
->> quit()
-$ # SQLite database.db should be created in the app folder:
-$ # app\database.db
-$
-$ flask run
-$ # app is running on port 5000
-```
+- Learn [how to install Python](/how-to/install-python)
+- Set up [CentOS](/how-to/setup-centos-for-development), [Ubuntu](/how-to/setup-ubuntu-for-development) or [Windows OS](/how-to/setup-windows-for-development) for development
 
 <br />
 
 ## Project Structure
 ---
 
-The boilerplate code is built with a modular structure that follows the recommended pattern used by many open-source projects. The most important files / directories are listed bellow:
-
-- [run.py](https://github.com/app-generator/flask-argon-dashboard/blob/master/run.py)
-- [app /](https://github.com/app-generator/flask-argon-dashboard/tree/master/app)
-- [app / __init__.py](https://github.com/app-generator/flask-argon-dashboard/blob/master/app/__init__.py)
-- [app / forms.py](https://github.com/app-generator/flask-argon-dashboard/blob/master/app/forms.py)
-- [app / models.py](https://github.com/app-generator/flask-argon-dashboard/blob/master/app/models.py)
-- [app / views.py](https://github.com/app-generator/flask-argon-dashboard/blob/master/app/views.py)
+The boilerplate code is built with a modular structure that follows the recommended pattern used by many open-source projects. The most important files and  directories are shown below:
 
 <br />
 
 ```bash
-< ROOT > - Flask Dashboard Argon  # application root folder
+< PROJECT ROOT >                  # application root folder
     |
-    |--- app/                     # application folder  
     |--- app/__init__.py          # application constructor  
-    |--- app/configuration.py     # application config  
-    |--- app/forms.py             # application forms  
-    |--- app/models.py            # application models  
-    |--- app/views.py             # application routing
-    |  
-    |--- requirements.txt         # Requirements for development - SQLite storage
+    |--- app/base/                # base blueprint
+    |--- app/home/                # home blueprint
+    |
+    |--- .env                     # store env variables
+    |--- config.py                # app configuration profiles: Debug, Production
+    |
+    |--- requirements.txt         # Requirements for production PostgreSQL BDMS
+    |--- requirements-sqlite.txt  # Requirements for development - SQLite storage
+    |
     |--- run.py                   # bootstrap the app
     |
     |-----------------------------
@@ -104,19 +66,89 @@ The boilerplate code is built with a modular structure that follows the recommen
 
 <br />
 
-## Support
----
+## How to use it
 
-- Free support via eMail < [support @ appseed.us](https://appseed.us/support) > and [Github](https://github.com/app-generator/flask-argon-dashboard/issues/)
-- 24/7 Live Support via [Discord](https://discord.gg/fZC6hup) for paid plans and commercial products.
+```bash
+$ # Get the code
+$ git clone https://github.com/app-generator/flask-boilerplate-dashboard-argon.git
+$ cd flask-boilerplate-dashboard-argon
+$
+$ # Virtualenv modules installation (Unix based systems)
+$ virtualenv --no-site-packages env
+$ source env/bin/activate
+$
+$ # Virtualenv modules installation (Windows based systems)
+$ # virtualenv --no-site-packages env
+$ # .\env\Scripts\activate
+$ 
+$ # Install modules
+$ # SQLIte version (no PostgreSQL)
+$ pip3 install -r requirements-sqlite.txt
+$ 
+$ # OR with PostgreSQL connector
+$ pip install -r requirements.txt
+$
+$ # Set the FLASK_APP environment variable
+$ (Unix/Mac) export FLASK_APP=run.py
+$ (Windows) set FLASK_APP=run.py
+$ (Powershell) $env:FLASK_APP = ".\run.py"
+$
+$ # Set up the DEBUG environment
+$ # (Unix/Mac) export FLASK_ENV=development
+$ # (Windows) set FLASK_ENV=development
+$ # (Powershell) $env:FLASK_ENV = "development"
+$
+$ # Start the application (development mode)
+$ # --host=0.0.0.0 - expose the app on all network interfaces (default 127.0.0.1)
+$ # --port=5000    - specify the app port (default 5000)  
+$ flask run --host=0.0.0.0 --port=5000
+$
+$ # Access the dashboard in browser: http://127.0.0.1:5000/
+```
 
 <br />
 
-## Resources
+## Docker execution
 
-- [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-dashboard-argon) - Product page
-- [Flask Dashboard Argon](https://flask-argon-dashboard.appseed.us/) - Live DEMO
-- [Flask Dashboard Argon](https://github.com/app-generator/flask-argon-dashboard) - The source code
-- [Flask Framework](https://www.palletsprojects.com/p/flask/) - The offcial website
-- [Flask Dashboard - Open-Source Boilerplates](https://dev.to/sm0ke/flask-dashboard-open-source-boilerplates-dkg) - A popular article published on Dev.to platform
-- [Flask Dashboard](https://admin-dashboards.com/tags/flask-dashboard) - Index provided by **Admin-Dashboards.com**
+The application can be easily executed in a docker container. The steps:
+
+> Get the code
+
+```bash
+$ git clone https://github.com/app-generator/flask-boilerplate-dashboard-argon.git
+$ cd flask-boilerplate-dashboard-argon
+```
+
+> Start the app in Docker
+
+```bash
+$ sudo docker-compose pull && sudo docker-compose build && sudo docker-compose up -d
+```
+
+Visit `http://localhost:5000` in your browser. The app should be up & running.
+
+<br />
+
+## Support
+
+- Free support via eMail < [support @ appseed.us](https://appseed.us/support) > and **Github** issues tracker
+- (Paid) LIVE 24/7 Support via [Discord](https://discord.gg/fZC6hup)
+
+<br />
+
+## Credits & Links
+
+- [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) - Product page
+- [Flask Framework](https://www.palletsprojects.com/p/flask/) - Offcial website
+- [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - provided by AppSeed
+
+<br />
+
+## License
+
+@MIT
+
+<br />
+
+---
+[Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
