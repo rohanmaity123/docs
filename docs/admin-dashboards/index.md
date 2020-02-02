@@ -59,7 +59,7 @@ The AppSeed service provides digital products balanced on 75% open-source and fr
 - [Flask Dashboard Black PRO](./flask-dashboard-black-pro) - Premium admin dashboard with Black Dashboard PRO design
 - [Flask Dashkit PRO](./flask-dashboard-dashkit-pro) - Premium admin dashboard built with Bulma CSS
 - [Flask Dashboard Material PRO](./flask-dashboard-material-pro) - Premium Material Dashboard design coded in Flask Framework
-- [Flask Atlantis Dark PRO](https://appseed.us/admin-dashboards/flask-dashboard-dashkit-pro) - PRO dashboard coded in Flask
+- [Flask Atlantis Dark PRO](./flask-dashboard-atlantis-dark-pro) - PRO dashboard coded in Flask
 - [Flask Dashboard Argon PRO](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro) - Premium admin dashboard with [Argon Design](https://appseed.us/ui-kit/argon-design-system) coded in Flask
 - [Flask Atlantis PRO](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-pro) - Atlantis design (PRO version) coded in Flask
 - [Flask Dashboard Paper PRO](https://appseed.us/admin-dashboards/flask-dashboard-paper-pro) - Light Paper design coded in Flask
