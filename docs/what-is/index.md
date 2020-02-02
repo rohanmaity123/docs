@@ -1,7 +1,11 @@
 title: Glossary for Geeks
 
 # Glossary for Geeks
-Technical terms used by geeks, programmers and hackers.
+Technical terms used by geeks, programmers, and hackers.
+
+<br />
+
+> Something is missing? contact us on [Discord](https://discord.gg/fZC6hup) and suggest a topic. Thank you!
 
 <br />
 
