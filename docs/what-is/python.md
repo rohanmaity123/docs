@@ -9,7 +9,7 @@ title: What is Python
 ## Can be used for things like
 
 - Back end (or server-side) web and mobile app development
-- Desktop app and software development
+- Desktop apps and software development
 - Processing big data and performing mathematical computations
 - Writing system scripts (creating instructions that tell a computer system to “do” something)
 
@@ -17,7 +17,7 @@ title: What is Python
 
 ## [Install Python](/how-to/install-python)
 
-The **Python** can be downloaded from the [official website](https://www.python.org/). Choose the installer for your operating system, download, and click a few times.By typing python --version in a terminal window, you should see something like this:
+The **Python** can be downloaded from the [official website](https://www.python.org/). Choose the installer for your operating system, download, and click a few times. By typing python --version in a terminal window, you should see something like this:
 
 ```bash
 $ python --version
