@@ -33,16 +33,11 @@ $ sudo yum install git
 
 ## Install Python3
 
-By default, CentOS is not installing python3, but we can easily setup the installation.
+By default, CentOS is not installing python3, but we can easily set up the installation.
 
 ```bash
 $ sudo yum install python3
-$ 
-$ # alias pip3 to pip
-$ sudo ln -s /bin/pip3 /bin/pip
 $
-$ # install virtualenv
-$ sudo pip install virtualenv
 ```
 
 > And Python3 libraries for development
@@ -111,7 +106,7 @@ $ yarn -v
 ## Installing Container Tools
 ---
 
-RHEL 8 does not officially support Docker; in this section, we will show how to install the new set of container tools as well as the old lady, docker package. The docker package is replaced by the Container Tools module, which consists of tools such as Podman, Buildah, Skopeo and several others.
+RHEL 8 does not officially support Docker; in this section, we will show how to install the new set of container tools as well as the old lady, docker package. The docker package is replaced by the Container Tools module, which consists of tools such as Podman, Buildah, Skope, and several others.
 
 ```bash
 $ dnf module install -y container-tools
@@ -135,9 +130,9 @@ $ dnf install containerd.io docker-ce docker-ce-cli
 ## Installation of DNF
 ---
 
-For packages installation we can use `dnf` tool instead of traditional `yum` package manager. DNF is same as Yum that installs, updates and removes packages on RPM bas4ed Linux systems. DNF is introduced for improving the bottlenecks of Yum such as performance, Memory usages, Dependency resolution, speed, and some other factors.
+For packages installation, we can use `dnf` tool instead of the traditional `yum` package manager. DNF is same as Yum that installs, updates and removes packages on RPM bas4ed Linux systems. DNF is introduced for improving the bottlenecks of Yum such as performance, Memory usages, Dependency resolution, speed, and some other factors.
 
-To install DNF on RHEL/CentOS 7 systems, you need to set up and enable epel YUM REPO before installing DNF
+To install DNF on RHEL/CentOS 7 systems, you need to set up and enable `epel` Yum repository before installing DNF
 
 ```bash
 $ # Initial Setup
@@ -149,3 +144,4 @@ $
 $ # test the installation
 $ dnf –help
 ```
+
