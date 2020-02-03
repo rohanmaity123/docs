@@ -13,7 +13,7 @@ title: Flask Boilerplate Dashboard Argon
 - Session-Based authentication (via **flask_login**)
 - Forms validation
 - Deployment scripts: Docker, Gunicorn
-- UI Kit: **Black Dashboard** provided by **Creative-Tim**
+- UI Kit: **Argon Dashboard** (Free version) provided by **Creative-Tim**
 
 <br />
 
@@ -189,7 +189,7 @@ Visit `http://localhost:5000` in your browser. The app should be up & running.
 
 <br />
 
-## Flask Dashboard Black - app screens
+## Flask Dashboard Argon - app screens
 ---
 
 <br />
