@@ -5,6 +5,7 @@ title: Flask Dashboard Black
 **Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 
 ## Dashboard Features
+---
 
 - SQLite, PostgreSQL, SQLAlchemy ORM
 - Alembic (DB schema migrations)
@@ -12,11 +13,22 @@ title: Flask Dashboard Black
 - Session-Based authentication (via **flask_login**)
 - Forms validation
 - Deployment scripts: Docker, Gunicorn
-- UI Kit: **Black Dashboard** provided by **Creative-Tim**
+- UI Kit: **Black Dashboard** (Free version) provided by **Creative-Tim**
+
+<br />
+
+## Dashboard technology stack
+---
+
+- Used Language: [Python3](https://www.python.org/) (Python2 is not supported)
+- Web Framework: [Flask](https://www.palletsprojects.com/p/flask/)
+- CSS Framework: [Bootstrap CSS](https://getbootstrap.com/)
+- Javascript: [jQuery](https://jquery.com/)
 
 <br />
 
 ## Dashboard Links
+---
 
 - [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) - the product page
 - [Flask Dashboard Black](https://github.com/app-generator/flask-black-dashboard) - the source code
@@ -28,13 +40,22 @@ title: Flask Dashboard Black
 
 <br />
 
-## Dependencies and Environment
+## Prepare your environment
 ---
 
-To use the apps, the workstation (or the deployment server) must have [Python3](https://www.python.org/) installed and basic development tools required to compile the Python packages. If you are not sure or familiar with the `development environment` concept, please access the links and learn how to set up your workstation.  
+The product is built on top of [Flask](https://palletsprojects.com/p/flask/), a popular Python Web Framework. To build the app, Python3 should be installed properly in the workstation. If you are not sure if Python is properly installed, please open a terminal and type `python --version`. The full-list with dependencies and tools required to build the app:
 
-- Learn [how to install Python](/how-to/install-python)
-- Set up [CentOS](/how-to/setup-centos-for-development), [Ubuntu](/how-to/setup-ubuntu-for-development) or [Windows OS](/how-to/setup-windows-for-development) for development
+- [Python3](https://www.python.org/) - the programming language used to code the app
+- [Git](https://git-scm.com/) - used to clone the source code from the Github repository
+- A [Github](https://github.com/) account - the invitation to the source code, will be sent on your account.
+- Basic development tools (g++ compiler, python development libraries ..etc) used by Python to compile the app dependencies in your environment. 
+
+For more information on how to set up your environment please access the resources listed below. In case we've missed something, contact us on Discord.
+
+- [How to set up Python](/how-to/install-python)
+- [Setup CentOS for development](/how-to/setup-centos-for-development/)
+- [Setup Ubuntu for development](/how-to/setup-ubuntu-for-development/)
+- [Setup Windows for development](/how-to/setup-windows-for-development/)
 
 <br />
 
@@ -46,19 +67,32 @@ The boilerplate code is built with a modular structure that follows the recommen
 <br />
 
 ```bash
-< PROJECT ROOT >                  # application root folder
+< PROJECT ROOT >                          # application root folder
     |
-    |--- app/__init__.py          # application constructor  
-    |--- app/base/                # base blueprint
-    |--- app/home/                # home blueprint
+    |--- app/__init__.py                  # application constructor  
+    |--- app/base/                        # base blueprint
+    |--- app/base/static/assets           # Img, CSS, Janascript files
+    |--- app/base/templates               # Jinja2 files (layouts, login pages)
+    |                |---<errors>         # Dir with Error pages: 404, 500
+    |                |---<login>          # Dir with Login and Registration pages
+    |                |---<site_template>  # Dir with Login and Registration pages
     |
-    |--- .env                     # store env variables
-    |--- config.py                # app configuration profiles: Debug, Production
     |
-    |--- requirements.txt         # Requirements for production PostgreSQL BDMS
-    |--- requirements-sqlite.txt  # Requirements for development - SQLite storage
+    |--- app/home/                        # home blueprint
+    |--- app/home/templates               # Jinja2 files (Pages): index, icons, tables
+    |                |---- index.html     # Main dashboard page
+    |                |---- maps.html      # Maps page
+    |                |---- profile.html   # Profile Page
+    |                |---- tables.html    # UI Tables
+    |                |---- icons.html     # Ui Icons
     |
-    |--- run.py                   # bootstrap the app
+    |--- .env                             # store env variables
+    |--- config.py                        # app configuration profiles: Debug, Production
+    |
+    |--- requirements.txt                 # Requirements for production PostgreSQL BDMS
+    |--- requirements-sqlite.txt          # Requirements for development - SQLite storage
+    |
+    |--- run.py                           # bootstrap the app
     |
     |-----------------------------
 ```
@@ -66,6 +100,7 @@ The boilerplate code is built with a modular structure that follows the recommen
 <br />
 
 ## How to use it
+---
 
 ```bash
 $ # Get the code
@@ -79,11 +114,11 @@ $
 $ # Virtualenv modules installation (Windows based systems)
 $ # virtualenv --no-site-packages env
 $ # .\env\Scripts\activate
-$ 
+$
 $ # Install modules
 $ # SQLIte version (no PostgreSQL)
 $ pip3 install -r requirements-sqlite.txt
-$ 
+$
 $ # OR with PostgreSQL connector
 $ pip install -r requirements.txt
 $
@@ -108,6 +143,7 @@ $ # Access the dashboard in browser: http://127.0.0.1:5000/
 <br />
 
 ## Docker execution
+---
 
 The application can be easily executed in a docker container. The steps:
 
@@ -129,6 +165,7 @@ Visit `http://localhost:5000` in your browser. The app should be up & running.
 <br />
 
 ## Support
+---
 
 - Free support via eMail < [support @ appseed.us](https://appseed.us/support) > and **Github** issues tracker
 - (Paid) LIVE 24/7 Support via [Discord](https://discord.gg/fZC6hup)
@@ -136,6 +173,7 @@ Visit `http://localhost:5000` in your browser. The app should be up & running.
 <br />
 
 ## Credits & Links
+---
 
 - [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) - Product page
 - [Flask Framework](https://www.palletsprojects.com/p/flask/) - Offcial website
@@ -144,8 +182,26 @@ Visit `http://localhost:5000` in your browser. The app should be up & running.
 <br />
 
 ## License
+---
 
 @MIT
+
+<br />
+
+## Flask Dashboard Black - app screens
+---
+
+<br />
+
+![Flask Dashboard Black - UI Notifications Page.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-screen-1.png)
+
+<br />
+
+![Flask Dashboard Black - UI Typography Page.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-screen-2.png)
+
+<br />
+
+![Flask Dashboard Black - User Profile Page.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-screen-3.png)
 
 <br />
 
