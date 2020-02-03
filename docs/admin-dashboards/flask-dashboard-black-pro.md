@@ -27,7 +27,7 @@ title: Flask Dashboard Black PRO
 - Used Language: [Python3](https://www.python.org/) (Python2 is not supported)
 - Web Framework: [Flask](https://www.palletsprojects.com/p/flask/)
 - CSS Framework: [Bootstrap CSS](https://getbootstrap.com/)
-- Design Theme: **Black Dashboard PRO** provided by Creative-Tim
+- Javascript: [jQuery](https://jquery.com/)
 
 <br />
 
@@ -70,6 +70,33 @@ For more information on how to set up your environment please access the resourc
 - [Setup CentOS for development](/how-to/setup-centos-for-development/)
 - [Setup Ubuntu for development](/how-to/setup-ubuntu-for-development/)
 - [Setup Windows for development](/how-to/setup-windows-for-development/)
+
+<br />
+
+## Project Structure
+---
+
+The boilerplate code is built with a modular structure that follows the recommended pattern used by many open-source projects. The most important files and  directories are shown below:
+
+<br />
+
+```bash
+< PROJECT ROOT >                  # application root folder
+    |
+    |--- app/__init__.py          # application constructor  
+    |--- app/base/                # base blueprint
+    |--- app/home/                # home blueprint
+    |
+    |--- .env                     # store env variables
+    |--- config.py                # app configuration profiles: Debug, Production
+    |
+    |--- requirements.txt         # Requirements for production PostgreSQL BDMS
+    |--- requirements-sqlite.txt  # Requirements for development - SQLite storage
+    |
+    |--- run.py                   # bootstrap the app
+    |
+    |-----------------------------
+```
 
 <br />
 
@@ -168,3 +195,8 @@ Visit `http://localhost:5000` in your browser. The app should be up & running.
 <br />
 
 ![Flask Dashboard Black PRO - App Screen-Shot.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-pro-screen-3.png)
+
+<br />
+
+---
+[Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
