@@ -104,8 +104,8 @@ The boilerplate code is built with a modular structure that follows the recommen
 
 ```bash
 $ # Get the code
-$ git clone https://github.com/app-generator/flask-black-dashboard.git
-$ cd flask-black-dashboard
+$ git clone https://github.com/app-generator/flask-dashboard-light-blue.git
+$ cd flask-dashboard-light-blue
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv --no-site-packages env
