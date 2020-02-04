@@ -12,6 +12,19 @@ Open-Source fully-coded apps (free & commercial) built with automation tools by 
 
 <br />
 
+## [Flask Html5Up Phantom](./flask-html5up-phantom/)
+
+---
+
+Open-Source Flask app enhanced with [SQLite](https://www.sqlite.org/index.html) database, authentication, [SQLAlchemy ORM](https://www.sqlalchemy.org/) and a beautiful UI - **Phantom** provided by Html5Up.
+
+> [Product documentation](./flask-html5up-phantom/)
+
+![Flask Html5Up Phantom - Open-Source Flask App with Phantom Design.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-html5up-phantom-screen.png)
+
+<br />
+
+
 ## [Flask Paper Kit](./flask-paper-kit/)
 
 ---
@@ -20,7 +33,7 @@ Open-Source Flask app enhanced with [SQLite](https://www.sqlite.org/index.html) 
 
 > [Product documentation](./flask-paper-kit/)
 
-![Flask Paper Kit - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-paper-kit-screen.png)
+![Flask Paper Kit - Open-Source Flask App with Paper Design.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-paper-kit-screen.png)
 
 <br />
 
@@ -30,7 +43,7 @@ Open-Source [Flask](https://palletsprojects.com/p/flask/) app enhanced with [SQL
 
 > [Product documentation](./flask-now-ui-kit/)
 
-![Flask Now UI Kit - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-now-ui-kit-screen.png)
+![Flask Now UI Kit - Open-Source Flask App with NowUI Design.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-now-ui-kit-screen.png)
 
 <br />
 
@@ -40,7 +53,7 @@ Open-Source [Flask](https://palletsprojects.com/p/flask/) app enhanced with [SQL
 
 > [Product documentation](./flask-material-kit/)
 
-![Flask Material Kit - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-material-kit-screen.png)
+![Flask Material Kit - Open-Source Flask App with Material Design.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-material-kit-screen.png)
 
 <br />
 
