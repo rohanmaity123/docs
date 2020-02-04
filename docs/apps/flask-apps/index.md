@@ -24,6 +24,17 @@ Open-Source Flask app enhanced with [SQLite](https://www.sqlite.org/index.html) 
 
 <br />
 
+## [Flask Argon Design](./flask-argon-design-system/)
+
+---
+
+Open-Source Flask app enhanced with [SQLite](https://www.sqlite.org/index.html) database, authentication, [SQLAlchemy ORM](https://www.sqlalchemy.org/) and a beautiful UI - **Argon Design** provided by Creative-Tim.
+
+> [Product documentation](./flask-argon-design-system/)
+
+![Flask Argon Design - Open-Source Flask App with Phantom Design.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-argon-design-system-screen.png)
+
+<br />
 
 ## [Flask Paper Kit](./flask-paper-kit/)
 
