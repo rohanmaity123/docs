@@ -32,7 +32,7 @@ title: Flask Html5up Phantom
 - [Flask Html5up Phantom](https://github.com/app-generator/flask-html5up-phantom) - the source code
 - [Flask Html5up Phantom](https://www.youtube.com/watch?v=P12xL7ExQZQ) - yTube presentation
 
-![Flask Html5up Phantom - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-boilerplate-flaskplay-screen.png)
+![Flask Html5up Phantom - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-html5up-phantom-screen.png)
 
 <br />
 
