@@ -17,11 +17,11 @@ title: Flask Dashboard Material
 ## Setup the environment
 ---
 
-In order to use the boilerplate, we need [Python3](/what-is/python/) and `virtualenv` python library.
+To use the boilerplate, we need [Python3](/what-is/python/) and `virtualenv` python library.
 
 <br />
 
-> *Note*: **Python2 is not supported**, the EOL of this version announced [here](https://www.python.org/doc/sunset-python-2/). In order to use our kits, please migrate to Pyhton3. Thank you!
+> *Note*: **Python2 is not supported**, the EOL of this version announced [here](https://www.python.org/doc/sunset-python-2/). To use our kits, please migrate to Pyhton3. Thank you!
 
 <br />
 
