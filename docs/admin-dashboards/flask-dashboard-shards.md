@@ -12,7 +12,7 @@ title: Flask Dashboard Shards
 - Modular design with **Blueprints**
 - Session-Based authentication (via **flask_login**), Forms validation
 - Deployment scripts: Docker, Gunicorn / Nginx
-- UI Kit: **[Shards Dashboard](https://flask-dashboard-black.appseed.us/login)** (Free version) provided by **DesignRevision**
+- UI Kit: **[Shards Dashboard](https://flask-dashboard-shards.appseed.us/login)** (Free version) provided by **DesignRevision**
 - **MIT License**
 - Support: Free support via **Github** and (Paid) **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup)
 
