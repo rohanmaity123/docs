@@ -2,7 +2,7 @@ title: Flask Dashboard Purple Admin
 
 # [Flask Dashboard Purple Admin](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin)
 
-**Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** on top of **Black Dashboard** design (free version) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+**Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** on top of **Purple Admin Dashboard** design (free version) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 
 ## Dashboard Features
 ---
@@ -12,7 +12,7 @@ title: Flask Dashboard Purple Admin
 - Modular design with **Blueprints**
 - Session-Based authentication (via **flask_login**), Forms validation
 - Deployment scripts: Docker, Gunicorn / Nginx
-- UI Kit: **[Purple Admin Dashboard](https://flask-dashboard-purpleadmin.appseed.us/login)** (Free version) provided by **ColorLib**
+- UI Kit: **[Purple Admin Dashboard](https://flask-dashboard-purpleadmin.appseed.us/login)** (Free version) provided by **BootstrapDash**
 - **MIT License**
 - Support: Free support via **Github** and (Paid) **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup)
 
