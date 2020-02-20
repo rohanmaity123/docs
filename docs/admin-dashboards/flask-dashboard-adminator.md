@@ -2,15 +2,18 @@ title: Flask Dashboard Adminator
 
 # [Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-adminator)
 
-**Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+**Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** on top of **Black Dashboard** design (free version) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 
 ## Dashboard Features
 ---
 
-- SQLite database
+- UI-Ready, SQLite database
 - SQLAlchemy ORM
 - Session-Based authentication flow (login, register)
-- UI Kit: **Adminator Dashboard** (Free version) provided by **ColorLib**
+- Forms validation
+- UI Kit: **[Adminator Dashboard](https://flask-dashboard-adminator.appseed.us/login)** (Free version) provided by **ColorLib**
+- **MIT License**
+- Support: Free support via **Github** and (Paid) **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup)
 
 <br />
 
@@ -27,10 +30,9 @@ title: Flask Dashboard Adminator
 ## Dashboard Links
 ---
 
-- [Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-adminator) - the product page
-- [Flask Dashboard Adminator](https://github.com/app-generator/flask-dashboard-adminator) - the source code
+- [Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-adminator) - Product page
+- [Flask Dashboard Adminator](https://github.com/app-generator/flask-dashboard-adminator) - Documentation
 - [Flask Dashboard Adminator](https://flask-dashboard-adminator.appseed.us/login.html) - LIVE Demo
-- [Flask Dashboard Adminator](https://www.youtube.com/watch?v=TZh91sXGAKg) - yTube presentation
 
 <br />
 
@@ -46,7 +48,29 @@ The product is built on top of [Flask](https://palletsprojects.com/p/flask/), a 
 - [Python3](https://www.python.org/) - the programming language used to code the app
 - [Git](https://git-scm.com/) - used to clone the source code from the Github repository
 - A [Github](https://github.com/) account - the invitation to the source code, will be sent on your account.
-- Basic development tools (g++ compiler, python development libraries ..etc) used by Python to compile the app dependencies in your environment. 
+- Basic development tools (g++ compiler, python development libraries ..etc) used by Python to compile the app dependencies in your environment.
+
+<br />
+
+> Check Python (using the terminal)
+
+```bash
+$ # Check Python version
+$ python --version
+Python 3.7.2 # <--- All good
+```
+
+<br />
+
+> Check GIT command tool (using the terminal)
+
+```bash
+$ # Check git
+$ git --version
+$ git version 2.10.1.windows.1 # <--- All good
+```
+
+<br />
 
 For more information on how to set up your environment please access the resources listed below. In case we've missed something, contact us on Discord.
 
@@ -88,7 +112,7 @@ The boilerplate code is built with a modular structure that follows the recommen
 
 <br />
 
-## How to use it
+## Build from sources
 ---
 
 ```bash
@@ -199,25 +223,27 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
 
-## App screens
+## Flask Dashboard Adminator - App screens
 ---
 
-> Calendar
+<br />
 
 ![Flask Dashboard Adminator - Calendar Page.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-adminator-screen-1.png)
 
-> Charts Page
+<br />
 
 ![Flask Dashboard Adminator - Charts Page.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-adminator-screen-2.png)
 
-> Google Maps Page
+<br />
 
 ![Flask Dashboard Adminator - Maps Page.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-adminator-screen-3.png)
 
 <br />
 
-## Links & Resources
+## Credits & Links
 ---
+
+<br />
 
 ### [Flask Framework](https://www.palletsprojects.com/p/flask/)
 
@@ -225,18 +251,15 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
 
-### [Adminator Dashboard](https://colorlib.com/polygon/adminator/index.html)
+## [What is dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))
 
-[Adminator](https://colorlib.com/polygon/adminator/index.html) is a responsive Bootstrap 4 Admin Template. It provides you with a collection of ready to use code snippets and utilities, custom pages, a collection of applications and some useful widgets. Adminator is licensed under The MIT License (MIT).
+In information technology, a **[dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))** is a user interface that, somewhat resembling an automobile's dashboard, organizes and presents information in a way that is easy to read. However, a computer dashboard is more likely to be interactive than an automobile dashboard (unless it is also computer-based). To some extent, most graphical user interfaces (GUIs) resemble a dashboard - by [Techtarget](https://searchcio.techtarget.com/definition/dashboard)
 
 <br />
 
-### More [Flask Dashboards](https://appseed.us/admin-dashboards/flask)
+### [Adminator Dashboard](https://colorlib.com/polygon/adminator/index.html)
 
-- [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-material-design) - Free, MIT License
-- [Flask Dashboard Material Dark](https://appseed.us/admin-dashboards/flask-dashboard-material-dark) - Free, MIT License
-- [Flask Dashboard Material PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro) - Commercial Product
-- [Flask Dashboard Dashkit PRO](https://appseed.us/admin-dashboards/flask-dashboard-dashkit-pro) - Commercial Product
+[Adminator](https://colorlib.com/polygon/adminator/index.html) is a responsive Bootstrap 4 Admin Template. It provides you with a collection of ready to use code snippets and utilities, custom pages, a collection of applications and some useful widgets. Adminator is licensed under The MIT License (MIT) by **ColorLib** agency.
 
 <br />
 
