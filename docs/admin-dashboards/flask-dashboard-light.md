@@ -34,7 +34,7 @@ title: Flask Dashboard Light
 
 - [Flask Dashboard Light](https://appseed.us/admin-dashboards/flask-dashboard-light-bootstrap) - Product page
 - [Flask Dashboard Light](https://github.com/app-generator/flask-dashboard-light-bootstrap) - Source code (published on Github)
-- [Flask Dashboard Light](https://flask-dashboard-argon.appseed.us/login) - LIVE demo
+- [Flask Dashboard Light](https://flask-dashboard-light.appseed.us/login) - LIVE demo
 
 <br />
 
