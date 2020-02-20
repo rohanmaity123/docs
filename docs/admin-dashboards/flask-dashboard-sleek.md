@@ -2,7 +2,7 @@ title: Flask Dashboard Sleek
 
 # [Flask Dashboard Sleek](https://appseed.us/admin-dashboards/flask-dashboard-sleek)
 
-**Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+**Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** on top of **Sleek Dashboard** design (free version) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 
 ## Dashboard Features
 ---
@@ -10,11 +10,11 @@ title: Flask Dashboard Sleek
 - SQLite, PostgreSQL, SQLAlchemy ORM
 - Alembic (DB schema migrations)
 - Modular design with **Blueprints**
-- Session-Based authentication (via **flask_login**)
-- Forms validation
-- Deployment scripts: Docker, Gunicorn
-- UI Kit: **Sleek Dashboard** provided by **TafCoder** agency
-- MIT License
+- Session-Based authentication (via **flask_login**), Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx
+- UI Kit: **[Sleek Dashboard](https://flask-dashboard-sleek.appseed.us/login)** (Free version) provided by **TafCoder**
+- **MIT License**
+- Support: Free support via **Github** and (Paid) **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup)
 
 <br />
 
@@ -35,15 +35,6 @@ title: Flask Dashboard Sleek
 - [Flask Dashboard Sleek](https://appseed.us/admin-dashboards/flask-dashboard-sleek) - the product page
 - [Flask Dashboard Sleek](https://github.com/app-generator/flask-dashboard-sleek) - the source code
 - [Flask Dashboard Sleek](https://flask-dashboard-sleek.appseed.us/login) - LIVE Demo
-- [Flask Dashboard Sleek](https://www.youtube.com/watch?v=JKSNcLhkMrI) - yTube presentation
-
-<br />
-
-## Support
----
-
-- Free support via eMail < [support @ appseed.us](https://appseed.us/support) > and **Github** issues tracker
-- Paid 24/7 LIVE Support via [Discord](https://discord.gg/fZC6hup)
 
 <br />
 
@@ -60,6 +51,28 @@ The product is built on top of [Flask](https://palletsprojects.com/p/flask/), a 
 - [Git](https://git-scm.com/) - used to clone the source code from the Github repository
 - A [Github](https://github.com/) account - the invitation to the source code, will be sent on your account.
 - Basic development tools (g++ compiler, python development libraries ..etc) used by Python to compile the app dependencies in your environment.
+
+<br />
+
+> Check Python (using the terminal)
+
+```bash
+$ # Check Python version
+$ python --version
+Python 3.7.2 # <--- All good
+```
+
+<br />
+
+> Check GIT command tool (using the terminal)
+
+```bash
+$ # Check git
+$ git --version
+$ git version 2.10.1.windows.1 # <--- All good
+```
+
+<br />
 
 For more information on how to set up your environment please access the resources listed below. In case we've missed something, contact us on Discord.
 
@@ -110,7 +123,7 @@ The boilerplate code is built with a modular structure that follows the recommen
 
 <br />
 
-## How to use it
+## Build from sources
 ---
 
 ```bash
@@ -153,7 +166,6 @@ $ # Access the dashboard in browser: http://127.0.0.1:5000/
 <br />
 
 ## Deployment
----
 
 The app is provided with a basic configuration to be executed in [Docker](https://www.docker.com/), [Gunicorn](https://gunicorn.org/), and [Waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/).
 
@@ -191,7 +203,7 @@ Gunicorn 'Green Unicorn' is a Python WSGI HTTP Server for UNIX.
 ```bash
 $ pip install gunicorn
 ```
-> Start the app using gunicorn binary
+> Start the app using `gunicorn` binary
 
 ```bash
 $ gunicorn --bind 0.0.0.0:8001 run:app
@@ -199,7 +211,6 @@ Serving on http://localhost:8001
 ```
 
 Visit `http://localhost:8001` in your browser. The app should be up & running.
-
 
 <br />
 
@@ -224,45 +235,43 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
 
-
-## App screens
+## Flask Dashboard Sleek- App screens
 ---
 
-> Charts Page
+<br />
 
 ![Flask Dashboard Sleek - Dashboard Page.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-sleek-screen-1.png)
 
-> Maps
+<br />
 
 ![Flask Dashboard Sleek - Charts Page.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-sleek-screen-2.png)
 
-> Chat Page
+<br />
 
 ![Flask Dashboard Sleek - Chat Page.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-sleek-screen-3.png)
 
 <br />
 
-## Links & Resources
+## Credits & Links
 ---
 
-### [Flask Framework](https://www.palletsprojects.com/p/flask/)
+<br />
 
-[Flask](/what-is/flask) is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.
+## What is [Flask](https://www.palletsprojects.com/p/flask/)
+
+[Flask](https://www.palletsprojects.com/p/flask/) is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks.
 
 <br />
 
-### [Sleek Dashboard](https://sleek.tafcoder.com/)
+## [What is dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))
+
+In information technology, a **[dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))** is a user interface that, somewhat resembling an automobile's dashboard, organizes and presents information in a way that is easy to read. However, a computer dashboard is more likely to be interactive than an automobile dashboard (unless it is also computer-based). To some extent, most graphical user interfaces (GUIs) resemble a dashboard - by [Techtarget](https://searchcio.techtarget.com/definition/dashboard)
+
+<br />
+
+## [Sleek Dashboard](https://sleek.tafcoder.com/)
 
 Sleek admin dashboard delivers a bunch of responsive, customizable, and reusable components you need to create modern, beautiful, responsive apps.
-
-<br />
-
-### More [Flask Dashboards](https://appseed.us/admin-dashboards/flask)
-
-- [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-material-design) - Free, MIT License
-- [Flask Dashboard Material Dark](https://appseed.us/admin-dashboards/flask-dashboard-material-dark) - Free, MIT License
-- [Flask Dashboard Material PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro) - Commercial Product
-- [Flask Dashboard Dashkit PRO](https://appseed.us/admin-dashboards/flask-dashboard-dashkit-pro) - Commercial Product
 
 <br />
 
