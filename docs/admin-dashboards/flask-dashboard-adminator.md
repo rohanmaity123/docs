@@ -31,7 +31,7 @@ title: Flask Dashboard Adminator
 ---
 
 - [Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-adminator) - Product page
-- [Flask Dashboard Adminator](https://github.com/app-generator/flask-dashboard-adminator) - Documentation
+- [Flask Dashboard Adminator](https://github.com/app-generator/flask-dashboard-adminator) - Source Code
 - [Flask Dashboard Adminator](https://flask-dashboard-adminator.appseed.us/login.html) - LIVE Demo
 
 <br />
