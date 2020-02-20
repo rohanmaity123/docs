@@ -239,7 +239,7 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 
-## Flask Dashboard Black
+## Flask Dashboard Black - App screens
 ---
 
 <br />
