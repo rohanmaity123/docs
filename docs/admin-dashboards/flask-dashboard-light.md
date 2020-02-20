@@ -263,7 +263,7 @@ In information technology, a **[dashboard](https://en.wikipedia.org/wiki/Dashboa
 
 ## [Light Dashboard](https://www.creative-tim.com/product/light-bootstrap-dashboard)
 
-Light Bootstrap Dashboard is a Bootstrap4 admin dashboard template designed to be beautiful and simple. It is built on top of Bootstrap 4 and it is fully responsive. It comes with a big collection of elements that will offer you multiple possibilities to create the app that best fits your needs. It can be used to create admin panels, project management systems, web applications backend, CMS or CRM.
+Light Bootstrap Dashboard is a Bootstrap4 admin dashboard template designed to be beautiful and simple. It is built on top of Bootstrap 4 and it is fully responsive. It comes with a big collection of elements that will offer you multiple possibilities to create the app that best fits your needs. It can be used to create admin panels, project management systems, web applications backend, CMS or CRM - provided by **[Creative-Tim](https://www.creative-tim.com?ref=appseed)**.
 
 <br />
 
