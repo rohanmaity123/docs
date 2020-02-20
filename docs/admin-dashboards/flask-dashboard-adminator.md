@@ -92,7 +92,7 @@ The boilerplate code is built with a modular structure that follows the recommen
 < PROJECT ROOT >                          # application root folder
     |
     |--- app/__init__.py                  # application constructor  
-    |--- app//assets                      # Img, CSS, Janascript files
+    |--- app//assets                      # Img, CSS, Javascript files
     |--- app/templates                    # Jinja2 files
     |            |---<includes>           # Page chunks, components
     |            |---<layouts>            # Layouts
