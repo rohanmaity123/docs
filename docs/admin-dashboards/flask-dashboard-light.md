@@ -114,7 +114,7 @@ The boilerplate code is built with a modular structure that follows the recommen
 
 <br />
 
-## Build from [sources](https://github.com/app-generator/flask-dashboard-light-bootstrap)
+## Build from sources
 ---
 
 ```bash
@@ -227,7 +227,7 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
 
-## [Flask Dashboard Light](https://appseed.us/admin-dashboards/flask-dashboard-light-bootstrap) - App Screens
+## Flask Dashboard Light
 ---
 
 <br />

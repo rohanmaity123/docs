@@ -125,7 +125,7 @@ The boilerplate code is built with a modular structure that follows the recommen
 
 <br />
 
-## Build from [sources](https://github.com/app-generator/flask-boilerplate-dashboard-argon)
+## Build from sources
 ---
 
 ```bash
@@ -238,7 +238,7 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
 
-## [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) - App Screens
+## Flask Dashboard Argon - App Screens
 ---
 
 <br />
