@@ -17,8 +17,9 @@ The AppSeed service provides digital products balanced on 75% open-source and fr
 
 ## Open-Source [Flask Dashboards](http://appseed.us/admin-dashboards/flask)
 
-- [Flask Dashboard Argon](./flask-dashboard-argon) - free admin dashboard generated on top of [Argon Dashboard](https://www.creative-tim.com/product/argon-dashboard) 
+- [Flask Dashboard Argon](./flask-dashboard-argon) - free admin dashboard generated on top of [Argon Dashboard](https://www.creative-tim.com/product/argon-dashboard)
 - [Flask Dashboard Black](./flask-dashboard-black) - simple admin panel coded in Flask, on top of **Black Dashboard** Design 
+- [Flask Dashboard Light](./flask-dashboard-light) - open-source admin panel coded in Flask
 - [Flask Dashboard Sleek](./flask-dashboard-sleek) - admin dashboard that uses a simple UI kit crafted by [Abdus Salam](https://www.iamabdus.com/), a brave developer from Bangladesh
 - [Flask Dashboard Light Blue](./flask-dashboard-light-blue) - a beautiful admin panel designed by [FlatLogic](https://flatlogic.com/), coded in Flask
 - [Flask Dashboard Adminator](./flask-dashboard-adminator) - beautiful and modern [admin panel](https://colorlib.com/polygon/adminator/index.html?ref=appseed), coded in Flask
@@ -29,7 +30,6 @@ The AppSeed service provides digital products balanced on 75% open-source and fr
 - [Flask Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark) - open-source admin panel, designed by [ThemeKita](http://themekita.com/?ref=appseed) agency, generated in Flask by AppSeed 
 - [Flask Dashboard Now UI](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design) - open-source admin panel, designed by **Creative-Tim**
 - [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-material-design) - free admin panel, design Creative-Tim
-- [Flask Dashboard Light](https://appseed.us/admin-dashboards/flask-dashboard-light-bootstrap) - open-source admin panel coded in Flask
 - [Flask Dashboard Atlantis](https://appseed.us/admin-dashboards/flask-dashboard-atlantis) - [Atlantis](https://www.themekita.com/atlantis-lite-bootstrap-dashboard.html) design coded in Flask
 - [Flask Dashboard Modular Admin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin) - free admin panel designed by [ModularCode](https://modularcode.io/?ref=appseed)
 - [Flask Dashboard Material Dark](https://appseed.us/admin-dashboards/flask-dashboard-material-dark) - Free, MIT License design provided by Creative-Tim
