@@ -2,7 +2,7 @@ title: Flask Dashboard Material Admin
 
 # [Flask Dashboard Material Admin](https://appseed.us/admin-dashboards/flask-dashboard-admin-material)
 
-**Open-Source** admin dashboard coded in Flask Framework - Provided by AppSeed [Web App Generator](https://appseed.us/app-generator).
+**Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** on top of **Material Admin Dashboard** design (free version) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 
 ## Dashboard Features
 ---
@@ -10,11 +10,11 @@ title: Flask Dashboard Material Admin
 - SQLite, PostgreSQL, SQLAlchemy ORM
 - Alembic (DB schema migrations)
 - Modular design with **Blueprints**
-- Session-Based authentication (via **flask_login**)
-- Forms validation
-- Deployment scripts: Docker, Gunicorn, Waitress
-- UI Kit: **Material Admin** design crafted by **BootstrapDash**
-- MIT License
+- Session-Based authentication (via **flask_login**), Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx
+- UI Kit: **[Material Admin](https://flask-dashboard-material-admin.appseed.us/login)** (Free version) provided by **BootstrapDash**
+- **MIT License**
+- Support: Free support via **Github** and (Paid) **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup)
 
 <br />
 
@@ -34,15 +34,6 @@ title: Flask Dashboard Material Admin
 - [Flask Dashboard Material Admin](https://appseed.us/admin-dashboards/flask-dashboard-admin-material) - product page
 - [Flask Dashboard Material Admin](https://github.com/app-generator/flask-dashboard-material-admin) - the source code
 - [Flask Dashboard Material Admin](https://flask-dashboard-material-admin.appseed.us/login) - LIVE Demo
-- [Flask Dashboard Material Admin](https://www.youtube.com/watch?v=NCuMK4l2KhA) - yTube video presentation
-
-<br />
-
-## Support
----
-
-- Free support via eMail < [support @ appseed.us](https://appseed.us/support) > and **Github** issues tracker
-- Paid 24/7 LIVE Support via [Discord](https://discord.gg/fZC6hup)
 
 <br />
 
@@ -58,7 +49,29 @@ The product is built on top of [Flask](https://palletsprojects.com/p/flask/), a 
 - [Python3](https://www.python.org/) - the programming language used to code the app
 - [Git](https://git-scm.com/) - used to clone the source code from the Github repository
 - A [Github](https://github.com/) account - the invitation to the source code, will be sent on your account.
-- Basic development tools (g++ compiler, python development libraries ..etc) used by Python to compile the app dependencies in your environment. 
+- Basic development tools (g++ compiler, python development libraries ..etc) used by Python to compile the app dependencies in your environment.
+
+<br />
+
+> Check Python (using the terminal)
+
+```bash
+$ # Check Python version
+$ python --version
+Python 3.7.2 # <--- All good
+```
+
+<br />
+
+> Check GIT command tool (using the terminal)
+
+```bash
+$ # Check git
+$ git --version
+$ git version 2.10.1.windows.1 # <--- All good
+```
+
+<br />
 
 For more information on how to set up your environment please access the resources listed below. In case we've missed something, contact us on Discord.
 
@@ -109,7 +122,7 @@ The boilerplate code is built with a modular structure that follows the recommen
 
 <br />
 
-## How to use it
+## Build from sources
 ---
 
 ```bash
@@ -223,44 +236,43 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
 
-## App Screens
+## Flask Material Admin - App Screens
 ---
 
-> Charts page
+<br />
 
 ![Flask Dashboard Material Admin - Charts page.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-admin-screen-3.png)
 
-> Login page
+<br />
 
 ![Flask Dashboard Material Admin - Login page.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-admin-screen-4.png)
 
-> UI Buttons
+<br />
 
 ![Flask Dashboard Material Admin - UI Buttons.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-admin-screen-2.png)
 
 <br />
 
-## Links & Resources
+## Credits & Links
 ---
 
-### [Flask Framework](https://www.palletsprojects.com/p/flask/)
+<br />
 
-[Flask](/what-is/flask) is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.
+## What is [Flask](https://www.palletsprojects.com/p/flask/)
+
+[Flask](https://www.palletsprojects.com/p/flask/) is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks.
 
 <br />
 
-### [Material Admin](https://www.bootstrapdash.com/product/material-design-template-free/)
+## [What is dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))
 
-Material Admin is a free admin template that is entirely built using the framework Google’s Material Design for the Web to comply with the Material Design guidelines. It comes with the basic components and set of pre-built pages required to lay the foundation for any application.
+In information technology, a **[dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))** is a user interface that, somewhat resembling an automobile's dashboard, organizes and presents information in a way that is easy to read. However, a computer dashboard is more likely to be interactive than an automobile dashboard (unless it is also computer-based). To some extent, most graphical user interfaces (GUIs) resemble a dashboard - by [Techtarget](https://searchcio.techtarget.com/definition/dashboard)
 
 <br />
 
-### More [Flask Dashboards](https://appseed.us/admin-dashboards/flask)
+### [Material Admin](https://www.bootstrapdash.com/product/material-design-template-free/?ref=appseed)
 
-- [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-material-design) - Free, MIT License
-- [Flask Dashboard Material Dark](https://appseed.us/admin-dashboards/flask-dashboard-material-dark) - Free, MIT License
-- [Flask Dashboard Material PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro) - Commercial Product
-- [Flask Dashboard Dashkit PRO](https://appseed.us/admin-dashboards/flask-dashboard-dashkit-pro) - Commercial Product
+Material Admin is a free admin template that is entirely built using the framework Google’s Material Design for the Web to comply with the Material Design guidelines. It comes with the basic components and set of pre-built pages required to lay the foundation for any application - provided by **BootstrapDash**.
 
 <br />
 
