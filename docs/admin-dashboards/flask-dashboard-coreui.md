@@ -13,7 +13,7 @@ title: Flask Dashboard CoreUI
 - Session-Based authentication (via **flask_login**)
 - Forms validation
 - Deployment scripts: Docker, Gunicorn
-- UI Kit: **[CoreUI Dashboard](https://flask-dashboard-coreui.appseed.us/login)** provided by **TafCoder** agency
+- UI Kit: **[CoreUI Dashboard](https://flask-dashboard-coreui.appseed.us/login)** provided by **CoreUI** agency
 - **MIT License**
 - Support: Free support via **Github** and (Paid) **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup)
 
@@ -188,8 +188,8 @@ The application can be easily executed in a docker container. The steps:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/flask-black-dashboard.git
-$ cd flask-black-dashboard
+$ git clone https://github.com/app-generator/flask-dashboard-coreui.git
+$ cd flask-dashboard-coreui
 ```
 
 > Start the app in Docker
@@ -281,7 +281,7 @@ In information technology, a **[dashboard](https://en.wikipedia.org/wiki/Dashboa
 
 ## [CoreUI](https://coreui.io/)
 
-CoreUI admin dashboard delivers a bunch of responsive, customizable, and reusable components you need to create modern, beautiful, responsive apps. CoreUI makes app development lightning fast.
+CoreUI admin dashboard delivers a bunch of responsive, customizable, and reusable components you need to create modern, beautiful, responsive apps. CoreUI makes app development lightning fast - provided by **[CoreUI](https://coreui.io/?ref=appseed)** agency.
 
 <br />
 
