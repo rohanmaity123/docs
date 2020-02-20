@@ -12,8 +12,7 @@ title: Flask Dashboard Black
 - SQLite, PostgreSQL, SQLAlchemy ORM
 - Alembic (DB schema migrations)
 - Modular design with **Blueprints**
-- Session-Based authentication (via **flask_login**)
-- Forms validation
+- Session-Based authentication (via **flask_login**), Forms validation
 - Deployment scripts: Docker, Gunicorn / Nginx
 - UI Kit: **[Black Dashboard](https://flask-dashboard-black.appseed.us/login)** (Free version) provided by **Creative-Tim**
 - **MIT License**
@@ -214,7 +213,6 @@ Serving on http://localhost:8001
 
 Visit `http://localhost:8001` in your browser. The app should be up & running.
 
-
 <br />
 
 ### [Waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/)
@@ -237,7 +235,6 @@ Serving on http://localhost:8001
 Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
-
 
 ## Flask Dashboard Black - App screens
 ---
