@@ -140,13 +140,12 @@ $
 $ # Virtualenv modules installation (Windows based systems)
 $ # virtualenv --no-site-packages env
 $ # .\env\Scripts\activate
-$ 
-$ # Install modules
-$ # SQLIte version (no PostgreSQL)
-$ pip3 install -r requirements-sqlite.txt
-$ 
+$
+$ # Install modules - SQLite Database
+$ pip3 install -r requirements.txt
+$
 $ # OR with PostgreSQL connector
-$ pip install -r requirements.txt
+$ # pip install -r requirements-pgsql.txt
 $
 $ # Set the FLASK_APP environment variable
 $ (Unix/Mac) export FLASK_APP=run.py
@@ -260,21 +259,21 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
 
-## What is [Flask](https://www.palletsprojects.com/p/flask/)
+### What is [Flask](https://www.palletsprojects.com/p/flask/)
 
 [Flask](https://www.palletsprojects.com/p/flask/) is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks.
 
 <br />
 
-## [What is dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))
+### [What is dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))
 
 In information technology, a **[dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))** is a user interface that, somewhat resembling an automobile's dashboard, organizes and presents information in a way that is easy to read. However, a computer dashboard is more likely to be interactive than an automobile dashboard (unless it is also computer-based). To some extent, most graphical user interfaces (GUIs) resemble a dashboard - by [Techtarget](https://searchcio.techtarget.com/definition/dashboard)
 
 <br />
 
-## [Paper Dashboard PRO](https://www.creative-tim.com/product/paper-dashboard-pro)
+### [Paper Dashboard PRO](https://www.creative-tim.com/product/paper-dashboard-pro)
 
-**Paper Dashboard PRO** is a beautiful Bootstrap admin dashboard with a large number of components, designed to look neat and organised. If you are looking for a tool to manage and visualise data about your business, this dashboard is the thing for you. It combines colours that are easy on the eye, spacious cards, beautiful typography and graphics. Paper Dashboard PRO comes packed with all plugins that you might need inside a project and documentation on how to get started. It is light and easy to use, and also very powerful.
+**Paper Dashboard PRO** is a beautiful Bootstrap admin dashboard with a large number of components, designed to look neat and organized. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics. Paper Dashboard PRO comes packed with all plugins that you might need inside a project and documentation on how to get started. It is light and easy to use, and also very powerful.
 
 <br />
 

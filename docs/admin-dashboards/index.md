@@ -23,11 +23,11 @@ App web apps and dashboards are actively supported and versioned by the AppSeed 
 ## Open-Source [Flask Dashboards](http://appseed.us/admin-dashboards/flask)
 ---
 
-- [Flask Dashboard Black](./flask-dashboard-black) - Free, MIT License, **[PRO Version](./flask-dashboard-black-pro)** available  
-- [Flask Dashboard Argon](./flask-dashboard-argon) - Free, MIT License, **[PRO Version](./flask-dashboard-argon-pro)** available  
-- [Flask Dashboard Light](./flask-dashboard-light) - Free, MIT License, **[PRO Version](./flask-dashboard-light-pro)** available  
-- [Flask Dashboard Material](./flask-dashboard-material) - Free, MIT License, **[PRO Version](./flask-dashboard-material-pro)** available
-- [Flask Dashboard Now UI](./flask-dashboard-nowui) - Free, MIT License, **[PRO Version](./flask-dashboard-now-ui-pro)** available  
+- [Flask Dashboard Black](./flask-dashboard-black) - Free, MIT License, **[PRO Version](./flask-dashboard-black-pro/)** available  
+- [Flask Dashboard Argon](./flask-dashboard-argon) - Free, MIT License, **[PRO Version](./flask-dashboard-argon-pro/)** available  
+- [Flask Dashboard Light](./flask-dashboard-light) - Free, MIT License, **[PRO Version](./flask-dashboard-light-pro/)** available  
+- [Flask Dashboard Material](./flask-dashboard-material) - Free, MIT License, **[PRO Version](./flask-dashboard-material-pro/)** available
+- [Flask Dashboard Now UI](./flask-dashboard-nowui) - Free, MIT License, **[PRO Version](./flask-dashboard-now-ui-pro/)** available  
 ---  
 - [Flask Dashboard CoreUI](./flask-dashboard-coreui) - Admin dashboard with a clean material design 
 - [Flask Dashboard Sleek](./flask-dashboard-sleek) - Simple UI kit crafted by [Abdus Salam](https://www.iamabdus.com/), a brave developer from Bangladesh

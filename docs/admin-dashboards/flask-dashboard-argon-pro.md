@@ -141,12 +141,11 @@ $ # Virtualenv modules installation (Windows based systems)
 $ # virtualenv --no-site-packages env
 $ # .\env\Scripts\activate
 $ 
-$ # Install modules
-$ # SQLIte version (no PostgreSQL)
-$ pip3 install -r requirements-sqlite.txt
-$ 
+$ # Install modules - SQLite Database
+$ pip3 install -r requirements.txt
+$
 $ # OR with PostgreSQL connector
-$ pip install -r requirements.txt
+$ # pip install -r requirements-pgsql.txt
 $
 $ # Set the FLASK_APP environment variable
 $ (Unix/Mac) export FLASK_APP=run.py
@@ -260,19 +259,19 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
 
-## What is [Flask](https://www.palletsprojects.com/p/flask/)
+### What is [Flask](https://www.palletsprojects.com/p/flask/)
 
 [Flask](https://www.palletsprojects.com/p/flask/) is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks.
 
 <br />
 
-## [What is dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))
+### [What is dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))
 
 In information technology, a **[dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))** is a user interface that, somewhat resembling an automobile's dashboard, organizes and presents information in a way that is easy to read. However, a computer dashboard is more likely to be interactive than an automobile dashboard (unless it is also computer-based). To some extent, most graphical user interfaces (GUIs) resemble a dashboard - by [Techtarget](https://searchcio.techtarget.com/definition/dashboard)
 
 <br />
 
-## [Argon Dashboard PRO](https://www.creative-tim.com/product/argon-dashboard-pro)
+### [Argon Dashboard PRO](https://www.creative-tim.com/product/argon-dashboard-pro)
 
 **Argon Dashboard PRO** is built with over 200 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using Sass files. You will save a lot of time going from prototyping to full-functional code because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
 
