@@ -161,13 +161,13 @@ In information technology, a **[dashboard](https://en.wikipedia.org/wiki/Dashboa
 
 ### [Dashkit UI PRO](https://cssninja.io/themes/dashkit)
 
-**[Dashkit](https://cssninja.io/themes/dashkit)** comes bundled with Bulkit as a dashboard starter kit. It offers some original styles and also a catchy user profile. Design has been thought to give the best possible experience either on mobile and on desktop. Dashkit uses the Bulkit theming system, so you can change all colors in a breeze. **[Dashkit](https://cssninja.io/themes/dashkit)** also uses some of Bulkit components. You can add more or remove those that you don't need.
+**[Dashkit](https://cssninja.io/themes/dashkit)** comes bundled with Bulkit as a dashboard starter kit. It offers some original styles and also a catchy user profile. The design has been thought to give the best possible experience either on mobile and on desktop. Dashkit uses the Bulkit theming system, so you can change all colors in a breeze. **[Dashkit](https://cssninja.io/themes/dashkit)** also uses some of Bulkit components. You can add more or remove those that you don't need.
 
 <br />
 
 ### [Bulma Css](https://bulma.io/)
 
-Bulma is a free, open source CSS framework based on Flexbox and built with Sass. It's 100% responsive, fully modular, and available for free.
+Bulma is a free, open-source CSS framework based on Flexbox and built with Sass. It's 100% responsive, fully modular, and available for free.
 
 <br />
 
