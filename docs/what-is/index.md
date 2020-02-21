@@ -49,6 +49,7 @@ Technical terms used by geeks, programmers, and hackers.
     - [Single Tier Architecture](./single-tier-architecture)
 - T terms
     - [Two Tier Architecture](./two-tier-architecture)
+    - [ThemeKita](./themekita)
 - U terms
     - [uWSGI](./uwsgi/)
 - V terms
