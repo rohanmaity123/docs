@@ -21,16 +21,6 @@ title: Flask Dashboard Dashkit PRO
 
 <br />
 
-## Dashboard technology stack
----
-
-- Used Language: [Python3](https://www.python.org/) (Python2 is not supported)
-- Web Framework: [Flask](https://www.palletsprojects.com/p/flask/)
-- CSS Framework: [Bulma CSS](https://bulma.io/)
-- Design Theme: [Dashkit](https://cssninja.io/themes/dashkit) provided by CssNinja agency
-
-<br />
-
 ## Dashboard Links
 ---
 
@@ -137,22 +127,7 @@ Visit `http://localhost:5000` in your browser. The app should be up & running.
 
 <br />
 
-## Support
----
-
-24/7 Live [support](appseed.us/support) via [Discord](https://discord.gg/fZC6hup) and eMail **< support@appseed.us >**
-
-<br />
-
-### Links & Resources
----
-
-- Read more about **Flask** by accessing the [official Flask website](https://palletsprojects.com/p/flask/) or read the [docs](https://flask.palletsprojects.com/).
-- See the full list with [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - provided by AppSeed
-
-<br />
-
-## Flask Dashboard Dashkit - app screens
+## Flask Dashkit - App Screens
 ---
 
 <br />
@@ -166,3 +141,35 @@ Visit `http://localhost:5000` in your browser. The app should be up & running.
 <br />
 
 ![Flask Dashboard Dashkit PRO - App Screen-Shot.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-dashkit-pro-screen-3.png)
+
+## Credits & Links
+---
+
+<br />
+
+### What is [Flask](https://www.palletsprojects.com/p/flask/)
+
+[Flask](https://www.palletsprojects.com/p/flask/) is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks.
+
+<br />
+
+### [What is dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))
+
+In information technology, a **[dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))** is a user interface that, somewhat resembling an automobile's dashboard, organizes and presents information in a way that is easy to read. However, a computer dashboard is more likely to be interactive than an automobile dashboard (unless it is also computer-based). To some extent, most graphical user interfaces (GUIs) resemble a dashboard - by [Techtarget](https://searchcio.techtarget.com/definition/dashboard)
+
+<br />
+
+### [Dashkit UI PRO](https://cssninja.io/themes/dashkit)
+
+**[Dashkit](https://cssninja.io/themes/dashkit)** comes bundled with Bulkit as a dashboard starter kit. It offers some original styles and also a catchy user profile. Design has been thought to give the best possible experience either on mobile and on desktop. Dashkit uses the Bulkit theming system, so you can change all colors in a breeze. **[Dashkit](https://cssninja.io/themes/dashkit)** also uses some of Bulkit components. You can add more or remove those that you don't need.
+
+<br />
+
+### [Bulma Css](https://bulma.io/)
+
+Bulma is a free, open source CSS framework based on Flexbox and built with Sass. It's 100% responsive, fully modular, and available for free.
+
+<br />
+
+---
+[Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
