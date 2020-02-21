@@ -70,7 +70,7 @@ Commercial products built on top of **Premum UI Kits** bundled with **24/7 LIVE 
 
 <br />
 
-### [Flask Dashboard Black PRO](./flask-dashboard-black-pro) - [LIVE Demo](https://flask-dashboard-black-pro.appseed.us/)
+### [Flask Dashboard Black PRO](./flask-dashboard-black-pro/) - [LIVE Demo](https://flask-dashboard-black-pro.appseed.us/)
 ---
 
 **Commercial** Admin Dashboard coded in [Flask Framework](https://palletsprojects.com/p/flask/) on top of **Black Dashboard** design (PRO Version) designed by Creative-Tim Agency. Features:
@@ -91,7 +91,7 @@ Commercial products built on top of **Premum UI Kits** bundled with **24/7 LIVE 
 
 <br />
 
-### [Flask Dashboard Material PRO](./flask-dashboard-material-pro) - [LIVE Demo](https://flask-dashboard-material-pro.appseed.us/)
+### [Flask Dashboard Material PRO](./flask-dashboard-material-pro/) - [LIVE Demo](https://flask-dashboard-material-pro.appseed.us/)
 ---
 
 **Commercial** Admin Dashboard coded in [Flask Framework](https://palletsprojects.com/p/flask/) on top of **Material Dashboard** design (PRO Version) designed by Creative-Tim Agency. Features:
@@ -112,7 +112,7 @@ Commercial products built on top of **Premum UI Kits** bundled with **24/7 LIVE 
 
 <br />
 
-### [Flask Dashboard Dashkit PRO](./flask-dashboard-dashkit-pro) - [LIVE Demo](https://flask-dashboard-dashkit-pro.appseed.us/)
+### [Flask Dashboard Dashkit PRO](./flask-dashboard-dashkit-pro/) - [LIVE Demo](https://flask-dashboard-dashkit-pro.appseed.us/)
 ---
 
 **Commercial** Admin Dashboard coded in [Flask Framework](https://palletsprojects.com/p/flask/) on top of [Dashkit Dashboard](https://cssninja.io/themes/dashkit) design (PRO Version) provided by CssNinja Web Agency. Features:
@@ -133,7 +133,7 @@ Commercial products built on top of **Premum UI Kits** bundled with **24/7 LIVE 
 
 <br />
 
-### [Flask Dashboard Argon PRO](./flask-dashboard-argon-pro) - [LIVE Demo](https://flask-dashboard-argon-pro.appseed.us/)
+### [Flask Dashboard Argon PRO](./flask-dashboard-argon-pro/) - [LIVE Demo](https://flask-dashboard-argon-pro.appseed.us/)
 ---
 
 **Commercial** Admin Dashboard coded in [Flask Framework](https://palletsprojects.com/p/flask/) on top of **Argon Dashboard** design (PRO Version) designed by Creative-Tim Agency. Features:
@@ -154,7 +154,7 @@ Commercial products built on top of **Premum UI Kits** bundled with **24/7 LIVE 
 
 <br />
 
-### [Flask Dashboard Now UI PRO](./flask-dashboard-now-ui-pro) - [LIVE Demo](https://flask-dashboard-now-ui-pro.appseed.us/)
+### [Flask Dashboard Now UI PRO](./flask-dashboard-now-ui-pro/) - [LIVE Demo](https://flask-dashboard-now-ui-pro.appseed.us/)
 ---
 
 **Commercial** Admin Dashboard coded in [Flask Framework](https://palletsprojects.com/p/flask/) on top of **Now UI Dashboard** design (PRO Version) designed by Creative-Tim Agency. Features:
@@ -175,7 +175,7 @@ Commercial products built on top of **Premum UI Kits** bundled with **24/7 LIVE 
 
 <br />
 
-### [Flask Dashboard Light PRO](./flask-dashboard-light-pro) - [LIVE Demo](https://flask-dashboard-light-pro.appseed.us/)
+### [Flask Dashboard Light PRO](./flask-dashboard-light-pro/) - [LIVE Demo](https://flask-dashboard-light-pro.appseed.us/)
 ---
 
 **Commercial** Admin Dashboard coded in [Flask Framework](https://palletsprojects.com/p/flask/) on top of **Light Bootstrap Dashboard** design (PRO Version) designed by Creative-Tim Agency. Features:
@@ -196,7 +196,7 @@ Commercial products built on top of **Premum UI Kits** bundled with **24/7 LIVE 
 
 <br />
 
-### [Flask Dashboard Paper PRO](./flask-dashboard-paper-pro) - [LIVE Demo](https://flask-dashboard-paper-pro.appseed.us/)
+### [Flask Dashboard Paper PRO](./flask-dashboard-paper-pro/) - [LIVE Demo](https://flask-dashboard-paper-pro.appseed.us/)
 ---
 
 **Commercial** Admin Dashboard coded in [Flask Framework](https://palletsprojects.com/p/flask/) on top of **Paper Dashboard** design (PRO Version) designed by Creative-Tim Agency. Features:
