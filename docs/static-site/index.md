@@ -16,7 +16,7 @@ A static website contains Web pages with fixed content. Each page is coded in HT
 
 Static Site prototyped on top of **Eleventy SSG** with Ethereal Design - **[product documentation](./eleventy-html5up-ethereal/)**.
 
-![Eleventy Html5UP Ethereal - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-ethereal-intro.gif)
+![Eleventy Html5UP Ethereal - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-ethereal-screen.png)
 
 <br />
 
@@ -26,7 +26,7 @@ Static Site prototyped on top of **Eleventy SSG** with Ethereal Design - **[prod
 
 Static Site prototyped on top of **Eleventy SSG** with Paradigm Design - **[product documentation](./eleventy-html5up-paradigm/)**.
 
-![Eleventy Html5UP Paradigm - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-paradigm-intro.gif)
+![Eleventy Html5UP Paradigm - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-paradigm-screen.png)
 
 <br />
 
@@ -36,7 +36,7 @@ Static Site prototyped on top of **Eleventy SSG** with Paradigm Design - **[prod
 
 Static Site prototyped on top of **Eleventy SSG** with Highlights Design - **[product documentation](./eleventy-html5up-highlights/)**.
 
-![Eleventy Html5UP Highlights - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-highlights-intro.gif)
+![Eleventy Html5UP Highlights - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-highlights-screen.png)
 
 <br />
 
@@ -46,7 +46,7 @@ Static Site prototyped on top of **Eleventy SSG** with Highlights Design - **[pr
 
 Static Site prototyped on top of **Eleventy SSG** with Landed Design - **[product documentation](./eleventy-html5up-landed/)**.
 
-![Eleventy Html5UP Landed - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-landed-intro.gif)
+![Eleventy Html5UP Landed - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-landed-screen.png)
 
 <br />
 
@@ -56,7 +56,7 @@ Static Site prototyped on top of **Eleventy SSG** with Landed Design - **[produc
 
 Static Site prototyped on top of **Eleventy SSG** with Alpha Design - **[product documentation](./eleventy-html5up-alpha/)**.
 
-![Eleventy Html5UP Alpha - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-alpha-intro.gif)
+![Eleventy Html5UP Alpha - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-alpha-screen.png)
 
 <br />
 
@@ -64,7 +64,7 @@ Static Site prototyped on top of **Eleventy SSG** with Alpha Design - **[product
 
 Static Site prototyped on top of **Eleventy SSG** with Helios Design - **[product documentation](./eleventy-html5up-helios/)**.
 
-![Eleventy Html5UP Helios - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-helios-intro.gif)
+![Eleventy Html5UP Helios - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-helios-screen.png)
 
 <br />
 
@@ -72,7 +72,7 @@ Static Site prototyped on top of **Eleventy SSG** with Helios Design - **[produc
 
 Static Site prototyped on top of **Eleventy SSG** with Tessellate Design - **[product documentation](./eleventy-html5up-tessellate/)**.
 
-![Eleventy Html5UP Tessellate - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-tessellate-intro.gif)
+![Eleventy Html5UP Tessellate - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-tessellate-screen.png)
 
 <br />
 
@@ -80,7 +80,7 @@ Static Site prototyped on top of **Eleventy SSG** with Tessellate Design - **[pr
 
 Static Site prototyped on top of **Eleventy SSG** with Aerial Design - **[product documentation](./eleventy-html5up-aerial/)**.
 
-![Eleventy Html5UP Aerial - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-aerial-intro.gif)
+![Eleventy Html5UP Aerial - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-aerial-screen.png)
 
 <br />
 
@@ -88,7 +88,7 @@ Static Site prototyped on top of **Eleventy SSG** with Aerial Design - **[produc
 
 Static Site prototyped on top of **Eleventy SSG** with TXT Design - **[product documentation](./eleventy-html5up-txt/)**.
 
-![Eleventy Html5UP TXT - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-txt-intro.gif)
+![Eleventy Html5UP TXT - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-txt-screen.png)
 
 <br />
 
@@ -96,7 +96,7 @@ Static Site prototyped on top of **Eleventy SSG** with TXT Design - **[product d
 
 Static Site prototyped on top of **Eleventy SSG** with Miniport Design - **[product documentation](./eleventy-html5up-miniport/)**.
 
-![Eleventy Html5UP Miniport - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-miniport-intro.gif)
+![Eleventy Html5UP Miniport - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-miniport-screen.png)
 
 <br />
 
@@ -104,7 +104,7 @@ Static Site prototyped on top of **Eleventy SSG** with Miniport Design - **[prod
 
 Static Site prototyped on top of **Eleventy SSG** with Dopetrope Design - **[product documentation](./eleventy-html5up-dopetrope/)**.
 
-![Eleventy Html5UP Dopetrope - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-dopetrope-intro.gif)
+![Eleventy Html5UP Dopetrope - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-dopetrope-screen.png)
 
 <br />
 
@@ -112,7 +112,7 @@ Static Site prototyped on top of **Eleventy SSG** with Dopetrope Design - **[pro
 
 Static Site prototyped on top of **Eleventy SSG** with Astral Design - **[product documentation](./eleventy-html5up-astral/)**.
 
-![Eleventy Html5UP Astral - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-astral-intro.gif)
+![Eleventy Html5UP Astral - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-astral-screen.png)
 
 <br />
 
@@ -120,7 +120,7 @@ Static Site prototyped on top of **Eleventy SSG** with Astral Design - **[produc
 
 Static Site prototyped on top of **Eleventy SSG** with Fractal Design - **[product documentation](./eleventy-html5up-fractal/)**.
 
-![Eleventy Html5UP Fractal - Static Site built with 11ty.](https://github.com/app-generator/static/blob/master/products/eleventy-html5up-fractal-intro.gif?raw=true)
+![Eleventy Html5UP Fractal - Static Site built with 11ty.](https://github.com/app-generator/static/blob/master/products/eleventy-html5up-fractal-screen.png?raw=true)
 
 <br />
 
@@ -128,7 +128,7 @@ Static Site prototyped on top of **Eleventy SSG** with Fractal Design - **[produ
 
 Static Site prototyped on top of **Eleventy SSG** with Stellar Design - **[product documentation](./eleventy-html5up-stellar/)**.
 
-![Eleventy Html5UP Stellar - Static Site built with 11ty.](https://github.com/app-generator/static/blob/master/products/eleventy-html5up-stellar-intro.gif?raw=true)
+![Eleventy Html5UP Stellar - Static Site built with 11ty.](https://github.com/app-generator/static/blob/master/products/eleventy-html5up-stellar-screen.png?raw=true)
 
 <br />
 
@@ -136,7 +136,7 @@ Static Site prototyped on top of **Eleventy SSG** with Stellar Design - **[produ
 
 Static Site prototyped on top of **Eleventy SSG** with Photon Design - **[product documentation](./eleventy-html5up-photon/)**.
 
-![Eleventy Html5UP Photon - Static Site built with 11ty.](https://github.com/app-generator/static/blob/master/products/eleventy-html5up-photon-intro.gif?raw=true)
+![Eleventy Html5UP Photon - Static Site built with 11ty.](https://github.com/app-generator/static/blob/master/products/eleventy-html5up-photon-screen.png?raw=true)
 
 <br />
 
@@ -150,7 +150,7 @@ Static Site prototyped on top of **Eleventy SSG** with Photon Design - **[produc
 
 App Resources: [product page](https://appseed.us/static-site/eleventy-material-kit-pro), [demo](https://eleventy-material-kit-pro.appseed.us)
 
-![Eleventy Material Kit PRO - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-material-kit-pro-intro.gif)
+![Eleventy Material Kit PRO - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-material-kit-pro-screen.png)
 
 <br />
 
@@ -164,7 +164,7 @@ App Resources: [product page](https://appseed.us/static-site/eleventy-material-k
 
 App Resources: [product page](https://appseed.us/static-site/eleventy-now-ui-kit-pro), [demo](https://eleventy-now-ui-kit-pro.appseed.us)
 
-![Eleventy Now UI Kit PRO - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-now-ui-kit-pro-intro.gif)
+![Eleventy Now UI Kit PRO - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-now-ui-kit-pro-screen.png)
 
 <br />
 
@@ -178,7 +178,7 @@ App Resources: [product page](https://appseed.us/static-site/eleventy-now-ui-kit
 
 App Resources: [product page](https://appseed.us/static-site/eleventy-paper-kit-pro), [demo](https://eleventy-paper-kit-pro.appseed.us)
 
-![Eleventy Paper Kit PRO - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-paper-kit-pro-intro.gif)
+![Eleventy Paper Kit PRO - Static Site built with 11ty.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-paper-kit-pro-screen.png)
 
 <br />
 
