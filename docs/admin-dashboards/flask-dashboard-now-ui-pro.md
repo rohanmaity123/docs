@@ -250,10 +250,6 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
 
-![Flask Dashboard NowUI PRO - UI Widgets Screen.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-now-ui-pro-screen-3.png)
-
-<br />
-
 ## Credits & Links
 ---
 
