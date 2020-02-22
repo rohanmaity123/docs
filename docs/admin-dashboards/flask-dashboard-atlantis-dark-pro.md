@@ -114,7 +114,7 @@ $ # Access the dashboard in browser: http://127.0.0.1:5000/
 
 <br />
 
-## Docker execution
+### [Docker](https://www.docker.com/) execution
 ---
 
 The application can be easily executed in a docker container. The steps:
@@ -122,8 +122,8 @@ The application can be easily executed in a docker container. The steps:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/priv-flask-dashboard-atlantis-dark-pro.git
-$ cd priv-flask-dashboard-atlantis-dark-pro
+$ git clone https://github.com/app-generator/priv-flask-dashboard-dashkit-pro.git
+$ cd priv-flask-dashboard-dashkit-pro
 ```
 
 > Start the app in Docker
@@ -132,27 +132,53 @@ $ cd priv-flask-dashboard-atlantis-dark-pro
 $ sudo docker-compose pull && sudo docker-compose build && sudo docker-compose up -d
 ```
 
-Visit `http://localhost:5000` in your browser. The app should be up & running.
+Visit `http://localhost:5005` in your browser. The app should be up & running.
 
 <br />
 
-## Support
+### [Gunicorn](https://gunicorn.org/)
 ---
 
-24/7 Live [support](appseed.us/support) via [Discord](https://discord.gg/fZC6hup) and eMail **< support@appseed.us >**
+Gunicorn 'Green Unicorn' is a Python WSGI HTTP Server for UNIX.
+
+> Install using pip
+
+```bash
+$ pip install gunicorn
+```
+> Start the app using `gunicorn` binary
+
+```bash
+$ gunicorn --bind 0.0.0.0:8001 run:app
+Serving on http://localhost:8001
+```
+
+Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
 
-### Links & Resources
+### [Waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/)
 ---
 
-- Read more about **Flask** by accessing the [official Flask website](https://palletsprojects.com/p/flask/) or read the [docs](https://flask.palletsprojects.com/).
-- Use the FREE version of the app - [Flask Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-black)
-- See the full list with [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - provided by AppSeed
+Waitress (Gunicorn equivalent for Windows) is meant to be a production-quality pure-Python WSGI server with very acceptable performance. It has no dependencies except ones that live in the Python standard library.
+
+> Install using pip
+
+```bash
+$ pip install waitress
+```
+> Start the app using [waitress-serve](https://docs.pylonsproject.org/projects/waitress/en/stable/runner.html)
+
+```bash
+$ waitress-serve --port=8001 run:app
+Serving on http://localhost:8001
+```
+
+Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
 
-## Flask Dashboard Atlantis Dark - app screens
+## Flask Atlantis Dark - app screens
 ---
 
 <br />
@@ -166,3 +192,29 @@ Visit `http://localhost:5000` in your browser. The app should be up & running.
 <br />
 
 ![Flask Dashboard Atlantis Dark PRO - App Screen-Shot.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-atlantis-dark-pro-screen-3.png)
+
+## Credits & Links
+---
+
+<br />
+
+### What is [Flask](https://www.palletsprojects.com/p/flask/)
+
+[Flask](https://www.palletsprojects.com/p/flask/) is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks.
+
+<br />
+
+### [What is dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))
+
+In information technology, a **[dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))** is a user interface that, somewhat resembling an automobile's dashboard, organizes and presents information in a way that is easy to read. However, a computer dashboard is more likely to be interactive than an automobile dashboard (unless it is also computer-based). To some extent, most graphical user interfaces (GUIs) resemble a dashboard - by [Techtarget](https://searchcio.techtarget.com/definition/dashboard)
+
+<br />
+
+### [Atlantis Dashboard PRO](https://themekita.com/demo-atlantis-bootstrap)
+
+Atlantis PRO is a beautiful Bootstrap 4 admin dashboard that is beautifully and elegantly designed to display various metrics, numbers or data visualization. Atlantis PRO admin dashboard has 4 layouts, many plugins, pages and a huge colection of UI components to help developers create dashboards quickly and effectively so they can save development time and also help users to make the right and fast decisions based on existing data.
+
+<br />
+
+---
+[Flask Atlantis Dark PRO](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark-pro) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
