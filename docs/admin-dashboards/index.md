@@ -50,16 +50,19 @@ App web apps and dashboards are actively supported and versioned by the AppSeed 
 ## Free [Django Dashboards](https://appseed.us/admin-dashboards/django)
 ---
 
-- [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) - simple admin panel with [Black Design](https://appseed.us/ui-kit/black-design) 
-- [Django Dashboard Material](https://appseed.us/admin-dashboards/django-dashboard-material) - Material Design (Creative-Tim) coded in Django
-- [Django Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark) - Design provided by ThemeKita, coded in Django
-- [Django Dashboard Light Blue](https://appseed.us/admin-dashboards/django-dashboard-light-blue) - FlatLogic Design, coded in Django by AppSeed
-- [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon) - Argn Dashboard design coded in Django (MIT License)
-- [Django Dashboard NowUI](https://appseed.us/admin-dashboards/django-dashboard-nowui) - NowUi design, coded in Django
-- [Django Dashboard Light](https://appseed.us/admin-dashboards/django-dashboard-light) - ligth material design (by Creative-Tim) coded in Django
-- [Django Dashboard Shards](https://appseed.us/admin-dashboards/django-dashboard-shards) - free admin panel, coded in Django
-- [Django Dashboard Tabler](https://appseed.us/admin-dashboards/django-dashboard-tabler) - open-source admin dashboard with a design provided by [CodeCalm](https://codecalm.net/?ref=appseed)
-- [Django Dashboard Adminator](https://appseed.us/admin-dashboards/django-dashboard-adminator) - free admin panel coded in Django
+- [Django Dashboard Black](./django-dashboard-black) - Free, MIT License
+- [Django Dashboard Material](./django-dashboard-material) - Free, MIT License
+- [Django Dashboard Argon](./django-dashboard-argon) - Free, MIT License
+- [Django Dashboard NowUI](./django-dashboard-nowui) - Free, MIT License
+- [Django Dashboard Light](./django-dashboard-light) - Free, MIT License
+---
+- [Django Dashboard Atlantis](./django-dashboard-atlantis) - Free, MIT License
+- [Django Dashboard Atlantis Dark](./django-dashboard-atlantis-dark) - Free, MIT License
+- [Django Dashboard Light Blue](./django-dashboard-light-blue) - Free, MIT License
+- [Django Dashboard Shards](./django-dashboard-shards) - Free, MIT License
+- [Django Dashboard Tabler](./django-dashboard-tabler) - Free, MIT License
+- [Django Dashboard Adminator](./django-dashboard-adminator) - Free, MIT License
+- [Django Dashboard CoreUI](./django-dashboard-coreui) - Free, MIT License
 
 <br />
 
