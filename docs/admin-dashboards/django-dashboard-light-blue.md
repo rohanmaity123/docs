@@ -9,11 +9,10 @@ title: Django Dashboard Light Blue
 ## Dashboard Features
 ---
 
-- SQLite, PostgreSQL, SQLAlchemy ORM
-- Alembic (DB schema migrations)
-- Modular design with **Blueprints**
-- Session-Based authentication (via **flask_login**), Forms validation
-- Deployment scripts: Docker, Gunicorn / Nginx
+- UI-Ready app, SQLite Database, Django Native ORM
+- Modular design, clean code-base
+- Session-Based Authentication, Forms validation
+- Deployment scripts: Heroku, Docker, Gunicorn / Nginx
 - UI Kit: **[Light Blue Dashboard](https://django-dashboard-light-blue.appseed.us/login/)** (Free version) provided by **FlatLogic**
 - **MIT License**
 - Support: Free support via **Github** and (Paid) **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup)
