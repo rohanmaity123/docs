@@ -9,11 +9,10 @@ title: Django Dashboard Shards
 ## Dashboard Features
 ---
 
-- SQLite, PostgreSQL, SQLAlchemy ORM
-- Alembic (DB schema migrations)
-- Modular design with **Blueprints**
-- Session-Based authentication (via **flask_login**), Forms validation
-- Deployment scripts: Docker, Gunicorn / Nginx
+- UI-Ready app, SQLite Database, Django Native ORM
+- Modular design, clean code-base
+- Session-Based Authentication, Forms validation
+- Deployment scripts: Heroku, Docker, Gunicorn / Nginx
 - UI Kit: **[Shards Lite Dashboard](https://django-dashboard-shards.appseed.us/login/)** (Free version) provided by **DesignRevision**
 - **MIT License**
 - Support: Free support via **Github** and (Paid) **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup)
