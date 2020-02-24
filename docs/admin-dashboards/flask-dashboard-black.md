@@ -50,7 +50,6 @@ The product is built on top of [Flask](https://palletsprojects.com/p/flask/), a 
 
 - [Python3](https://www.python.org/) - the programming language used to code the app
 - [Git](https://git-scm.com/) - used to clone the source code from the Github repository
-- A [Github](https://github.com/) account - the invitation to the source code, will be sent on your account.
 - Basic development tools (g++ compiler, python development libraries ..etc) used by Python to compile the app dependencies in your environment.
 
 <br />
