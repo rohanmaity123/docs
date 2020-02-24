@@ -66,6 +66,127 @@ App web apps and dashboards are actively supported and versioned by the AppSeed 
 
 <br />
 
+## Paid [Django Dashboards](https://appseed.us/bundles/django-admin-dashboards-pro)
+---
+
+Commercial products built on top of **Premium UI Kits** bundled with **24/7 LIVE assistance** from our team of experts via [Discord](https://discord.gg/fZC6hup) and email **< support @ appseed.us >**.
+
+<br />
+
+### [Django Dashboard Black PRO](./django-dashboard-black-pro/) - [LIVE Demo](https://django-dashboard-black-pro.appseed.us/login/)
+---
+
+**Commercial** Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **[Black Dashboard](https://django-dashboard-black-pro.appseed.us/login/)** design (PRO Version) designed by Creative-Tim Agency. Features:
+
+- UI-Ready app, SQLite Database, Django Native ORM
+- Modular design, clean code-base
+- Session-Based Authentication, Forms validation
+- Deployment scripts: Heroku, Docker, Gunicorn / Nginx
+- UI Kit: **[Black Dashboard](https://django-dashboard-black-pro.appseed.us/login/)** (PRO version) provided by **Creative-Tim**
+- License: [Commercial](https://github.com/app-generator/django-dashboard-black-pro/blob/master/LICENSE.md)
+- LIVE 24/7 Support via [Discord](https://discord.gg/fZC6hup) and email **< support @ appseed.us >**
+
+<br />
+
+![Django Dashboard Black PRO - Admin Panel coded in Django.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-pro-screen.png)
+
+<br />
+
+### [Django Dashboard Dashkit PRO](./django-dashboard-dashkit-pro/) - [LIVE Demo](https://django-dashboard-dashkit-pro.appseed.us/login/)
+---
+
+**Commercial** Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **[Dashkit UI Dashboard](https://django-dashboard-dashkit-pro.appseed.us/login/)** design (PRO Version) designed by **CssNinja** Agency. Features:
+
+- UI-Ready app, SQLite Database, Django Native ORM
+- Modular design, clean code-base
+- Session-Based Authentication, Forms validation
+- Deployment scripts: Heroku, Docker, Gunicorn / Nginx
+- UI Kit: **[Dashkit UI Dashboard](https://django-dashboard-dashkit-pro.appseed.us/login/)** (PRO version) provided by **CssNinja**
+- License: [Commercial](https://github.com/app-generator/django-dashboard-black-pro/blob/master/LICENSE.md)
+- LIVE 24/7 Support via [Discord](https://discord.gg/fZC6hup) and email **< support @ appseed.us >**
+
+<br />
+
+![Django Dashboard Dashkit PRO - Admin Panel coded in Django.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-dashkit-pro-screen.png)
+
+<br />
+
+###  [Django Dashboard Material PRO](./django-dashboard-material-pro/) - [LIVE Demo](https://django-dashboard-material-pro.appseed.us/login/)
+---
+
+**Commercial** Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **[Material Dashboard](https://django-dashboard-material-pro.appseed.us/login/)** design (PRO Version) designed by Creative-Tim Agency. Features:
+
+- UI-Ready app, SQLite Database, Django Native ORM
+- Modular design, clean code-base
+- Session-Based Authentication, Forms validation
+- Deployment scripts: Heroku, Docker, Gunicorn / Nginx
+- UI Kit: **[Material Dashboard](https://django-dashboard-material-pro.appseed.us/login/)** (PRO version) provided by **Creative-Tim**
+- License: [Commercial](https://github.com/app-generator/django-dashboard-material-pro/blob/master/LICENSE.md)
+- LIVE 24/7 Support via [Discord](https://discord.gg/fZC6hup) and email **< support @ appseed.us >**
+
+<br />
+
+![Django Dashboard Material PRO - Admin Panel coded in Django.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-material-pro-screen.png)
+
+<br />
+
+### [Django Dashboard Argon PRO](./django-dashboard-argon-pro/) - [LIVE Demo](https://django-dashboard-argon-pro.appseed.us/login/)
+---
+
+**Commercial** Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **[Argon Dashboard](https://django-dashboard-argon-pro.appseed.us/login/)** design (PRO Version) designed by Creative-Tim Agency. Features:
+
+- UI-Ready app, SQLite Database, Django Native ORM
+- Modular design, clean code-base
+- Session-Based Authentication, Forms validation
+- Deployment scripts: Heroku, Docker, Gunicorn / Nginx
+- UI Kit: **[Argon Dashboard](https://django-dashboard-argon-pro.appseed.us/login/)** (PRO version) provided by **Creative-Tim**
+- License: [Commercial](https://github.com/app-generator/django-dashboard-argon-pro/blob/master/LICENSE.md)
+- LIVE 24/7 Support via [Discord](https://discord.gg/fZC6hup) and email **< support @ appseed.us >**
+
+<br />
+
+![Django Dashboard Argon PRO - Admin Panel coded in Django.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-argon-pro-screen.png)
+
+<br />
+
+### [Django Dashboard Light PRO](./django-dashboard-light-pro/) - [LIVE Demo](https://django-dashboard-light-pro.appseed.us/login/)
+---
+
+**Commercial** Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **[Light Dashboard](https://django-dashboard-light-pro.appseed.us/login/)** design (PRO Version) designed by Creative-Tim Agency. Features:
+
+- UI-Ready app, SQLite Database, Django Native ORM
+- Modular design, clean code-base
+- Session-Based Authentication, Forms validation
+- Deployment scripts: Heroku, Docker, Gunicorn / Nginx
+- UI Kit: **[Light Dashboard](https://django-dashboard-light-pro.appseed.us/login/)** (PRO version) provided by **Creative-Tim**
+- License: [Commercial](https://github.com/app-generator/django-dashboard-light-pro/blob/master/LICENSE.md)
+- LIVE 24/7 Support via [Discord](https://discord.gg/fZC6hup) and email **< support @ appseed.us >**
+
+<br />
+
+![Django Dashboard Light PRO - Admin Panel coded in Django.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-light-pro-screen.png)
+
+<br />
+
+### [Django Dashboard NowUI PRO](https://appseed.us/admin-dashboards/django-dashboard-nowui-pro)
+---
+
+**Commercial** Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **[NowUI Dashboard](https://django-dashboard-nowui-pro.appseed.us/login/)** design (PRO Version) designed by Creative-Tim Agency. Features:
+
+- UI-Ready app, SQLite Database, Django Native ORM
+- Modular design, clean code-base
+- Session-Based Authentication, Forms validation
+- Deployment scripts: Heroku, Docker, Gunicorn / Nginx
+- UI Kit: **[NowUI Dashboard](https://django-dashboard-nowui-pro.appseed.us/login/)** (PRO version) provided by **Creative-Tim**
+- License: [Commercial](https://github.com/app-generator/django-dashboard-nowui-pro/blob/master/LICENSE.md)
+- LIVE 24/7 Support via [Discord](https://discord.gg/fZC6hup) and email **< support @ appseed.us >**
+
+<br />
+
+![Django Dashboard NowUI PRO - Admin Panel coded in Django.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-nowui-pro-screen.png)
+
+<br />
+
 ## Paid [Flask Dashboards](https://appseed.us/bundles/flask-admin-dashboards-pro)
 ---
 
