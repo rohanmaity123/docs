@@ -268,15 +268,15 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
 
-![Django Dashboard Material PRO - Maps Screen.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-material-pro-screen-1.png)
+![Django Dashboard Material PRO - Pricing Page.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-material-pro-screen-1.png)
 
 <br />
 
-![Django Dashboard Material PRO - Charts Screen.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-material-pro-screen-2.png)
+![Django Dashboard Material PRO - Wdigets Screen.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-material-pro-screen-2.png)
 
 <br />
 
-![Django Dashboard Material PRO - Lock Screen.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-material-pro-screen-3.png)
+![Django Dashboard Material PRO - Calendar Screen.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-material-pro-screen-3.png)
 
 <br />
 
