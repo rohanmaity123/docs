@@ -168,7 +168,7 @@ Commercial products built on top of **Premium UI Kits** bundled with **24/7 LIVE
 
 <br />
 
-### [Django Dashboard NowUI PRO](https://appseed.us/admin-dashboards/django-dashboard-nowui-pro)
+### [Django Dashboard NowUI PRO](./django-dashboard-nowui-pro/) - [LIVE Demo](https://django-dashboard-nowui-pro.appseed.us/login/)
 ---
 
 **Commercial** Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **[NowUI Dashboard](https://django-dashboard-nowui-pro.appseed.us/login/)** design (PRO Version) designed by Creative-Tim Agency. Features:
@@ -184,6 +184,24 @@ Commercial products built on top of **Premium UI Kits** bundled with **24/7 LIVE
 <br />
 
 ![Django Dashboard NowUI PRO - Admin Panel coded in Django.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-nowui-pro-screen.png)
+
+<br />
+
+### [Django Dashboard Paper PRO](./django-dashboard-paper-pro/) - [LIVE Demo](https://django-dashboard-paper-pro.appseed.us/login/)
+
+**Commercial** Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **[Paper Dashboard](https://django-dashboard-paper-pro.appseed.us/login/)** design (PRO Version) designed by Creative-Tim Agency. Features:
+
+- UI-Ready app, SQLite Database, Django Native ORM
+- Modular design, clean code-base
+- Session-Based Authentication, Forms validation
+- Deployment scripts: Heroku, Docker, Gunicorn / Nginx
+- UI Kit: **[Paper Dashboard](https://django-dashboard-paper-pro.appseed.us/login/)** (PRO version) provided by **Creative-Tim**
+- License: [Commercial](https://github.com/app-generator/django-dashboard-paper-pro/blob/master/LICENSE.md)
+- LIVE 24/7 Support via [Discord](https://discord.gg/fZC6hup) and email **< support @ appseed.us >**
+
+<br />
+
+![Django Dashboard Paper PRO - Admin Panel coded in Django.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-paper-pro-screen.png)
 
 <br />
 
