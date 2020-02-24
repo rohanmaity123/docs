@@ -23,53 +23,53 @@ App web apps and dashboards are actively supported and versioned by the AppSeed 
 ## Open-Source [Flask Dashboards](http://appseed.us/admin-dashboards/flask)
 ---
 
-- [Flask Dashboard Black](./flask-dashboard-black) - Free, MIT License, **[PRO Version](./flask-dashboard-black-pro/)** available  
-- [Flask Dashboard Argon](./flask-dashboard-argon) - Free, MIT License, **[PRO Version](./flask-dashboard-argon-pro/)** available  
-- [Flask Dashboard Light](./flask-dashboard-light) - Free, MIT License, **[PRO Version](./flask-dashboard-light-pro/)** available  
-- [Flask Dashboard Material](./flask-dashboard-material) - Free, MIT License, **[PRO Version](./flask-dashboard-material-pro/)** available
-- [Flask Dashboard Now UI](./flask-dashboard-nowui) - Free, MIT License, **[PRO Version](./flask-dashboard-now-ui-pro/)** available  
+- [Flask Dashboard Black](./flask-dashboard-black/) - Free, MIT License, **[PRO Version](./flask-dashboard-black-pro/)** available  
+- [Flask Dashboard Argon](./flask-dashboard-argon/) - Free, MIT License, **[PRO Version](./flask-dashboard-argon-pro/)** available  
+- [Flask Dashboard Light](./flask-dashboard-light/) - Free, MIT License, **[PRO Version](./flask-dashboard-light-pro/)** available  
+- [Flask Dashboard Material](./flask-dashboard-material/) - Free, MIT License, **[PRO Version](./flask-dashboard-material-pro/)** available
+- [Flask Dashboard Now UI](./flask-dashboard-nowui/) - Free, MIT License, **[PRO Version](./flask-dashboard-now-ui-pro/)** available  
 ---  
-- [Flask Dashboard CoreUI](./flask-dashboard-coreui) - Admin dashboard with a clean material design 
-- [Flask Dashboard Sleek](./flask-dashboard-sleek) - Simple UI kit crafted by [Abdus Salam](https://www.iamabdus.com/), a brave developer from Bangladesh
-- [Flask Dashboard Light Blue](./flask-dashboard-light-blue) - a beautiful admin panel designed by **FlatLogic**, coded in Flask
-- [Flask Dashboard Material Admin](./flask-dashboard-material-admin) - Free admin panel, Coded in Flask on top of Material Design
-- [Flask Dashboard Tabler](./flask-dashboard-tabler) - free admin panel designed by **CodeCalm** agency
-- [Flask Dashboard Adminator](./flask-dashboard-adminator) - a beautiful and modern **admin panel** coded in Flask
-- [Flask Dashboard AdminLTE](./flask-dashboard-adminlte) - the well-know **admin dashboard** design, coded in Flask
-- [Flask Dashboard Atlantis Dark](./flask-dashboard-atlantis-dark) - open-source admin panel, designed by ThemeKita agency
-- [Flask Dashboard Atlantis](./flask-dashboard-atlantis) - Beautiful Atlantis design coded in Flask
-- [Flask Dashboard Modular Admin](./flask-dashboard-modular-admin) - free admin panel designed by **ModularCode**
-- [Flask Dashboard Material Dark](./flask-dashboard-material-dark) - Free, MIT License design provided by Creative-Tim
-- [Flask Dashboard Purple Admin](./flask-dashboard-purpleadmin) - Free, MIT License
-- [Flask Dashboard Star Admin](./flask-dashboard-staradmin) - Free, MIT License
-- [Flask Dashboard SRTdash](./flask-dashboard-srtdash) - Free, MIT License
-- [Flask Dashboard Shards](./flask-dashboard-shards) - Free, MIT License
+- [Flask Dashboard CoreUI](./flask-dashboard-coreui/) - Admin dashboard with a clean material design 
+- [Flask Dashboard Sleek](./flask-dashboard-sleek/) - Simple UI kit crafted by [Abdus Salam](https://www.iamabdus.com/), a brave developer from Bangladesh
+- [Flask Dashboard Light Blue](./flask-dashboard-light-blue/) - a beautiful admin panel designed by **FlatLogic**, coded in Flask
+- [Flask Dashboard Material Admin](./flask-dashboard-material-admin/) - Free admin panel, Coded in Flask on top of Material Design
+- [Flask Dashboard Tabler](./flask-dashboard-tabler/) - free admin panel designed by **CodeCalm** agency
+- [Flask Dashboard Adminator](./flask-dashboard-adminator/) - a beautiful and modern **admin panel** coded in Flask
+- [Flask Dashboard AdminLTE](./flask-dashboard-adminlte/) - the well-know **admin dashboard** design, coded in Flask
+- [Flask Dashboard Atlantis Dark](./flask-dashboard-atlantis-dark/) - open-source admin panel, designed by ThemeKita agency
+- [Flask Dashboard Atlantis](./flask-dashboard-atlantis/) - Beautiful Atlantis design coded in Flask
+- [Flask Dashboard Modular Admin](./flask-dashboard-modular-admin/) - free admin panel designed by **ModularCode**
+- [Flask Dashboard Material Dark](./flask-dashboard-material-dark/) - Free, MIT License design provided by Creative-Tim
+- [Flask Dashboard Purple Admin](./flask-dashboard-purpleadmin/) - Free, MIT License
+- [Flask Dashboard Star Admin](./flask-dashboard-staradmin/) - Free, MIT License
+- [Flask Dashboard SRTdash](./flask-dashboard-srtdash/) - Free, MIT License
+- [Flask Dashboard Shards](./flask-dashboard-shards/) - Free, MIT License
 
 <br />
 
 ## Free [Django Dashboards](https://appseed.us/admin-dashboards/django)
 ---
 
-- [Django Dashboard Black](./django-dashboard-black) - Free, MIT License
-- [Django Dashboard Material](./django-dashboard-material) - Free, MIT License
-- [Django Dashboard Argon](./django-dashboard-argon) - Free, MIT License
-- [Django Dashboard NowUI](./django-dashboard-nowui) - Free, MIT License
-- [Django Dashboard Light](./django-dashboard-light) - Free, MIT License
+- [Django Dashboard Black](./django-dashboard-black/) - Free, MIT License, **[PRO Version](./django-dashboard-black-pro/)** available
+- [Django Dashboard Material](./django-dashboard-material/) - Free, MIT License, **[PRO Version](./django-dashboard-material-pro/)** available
+- [Django Dashboard Argon](./django-dashboard-argon/) - Free, MIT License, **[PRO Version](./django-dashboard-argon-pro/)** available
+- [Django Dashboard NowUI](./django-dashboard-nowui/) - Free, MIT License, **[PRO Version](./django-dashboard-nowui-pro/)** available
+- [Django Dashboard Light](./django-dashboard-light/) - Free, MIT License, **[PRO Version](./django-dashboard-light-pro/)** available
 ---
-- [Django Dashboard Atlantis](./django-dashboard-atlantis) - Free, MIT License
-- [Django Dashboard Atlantis Dark](./django-dashboard-atlantis-dark) - Free, MIT License
-- [Django Dashboard Light Blue](./django-dashboard-light-blue) - Free, MIT License
-- [Django Dashboard Shards](./django-dashboard-shards) - Free, MIT License
-- [Django Dashboard Tabler](./django-dashboard-tabler) - Free, MIT License
-- [Django Dashboard Adminator](./django-dashboard-adminator) - Free, MIT License
-- [Django Dashboard CoreUI](./django-dashboard-coreui) - Free, MIT License
+- [Django Dashboard Atlantis](./django-dashboard-atlantis/) - Free, MIT License
+- [Django Dashboard Atlantis Dark](./django-dashboard-atlantis-dark/) - Free, MIT License
+- [Django Dashboard Light Blue](./django-dashboard-light-blue/) - Free, MIT License
+- [Django Dashboard Shards](./django-dashboard-shards/) - Free, MIT License
+- [Django Dashboard Tabler](./django-dashboard-tabler/) - Free, MIT License
+- [Django Dashboard Adminator](./django-dashboard-adminator/) - Free, MIT License
+- [Django Dashboard CoreUI](./django-dashboard-coreui/) - Free, MIT License
 
 <br />
 
 ## Paid [Flask Dashboards](https://appseed.us/bundles/flask-admin-dashboards-pro)
 ---
 
-Commercial products built on top of **Premum UI Kits** bundled with **24/7 LIVE assistance** from out team of experts via [Discord](https://discord.gg/fZC6hup) and email **< support @ appseed.us >**.
+Commercial products built on top of **Premium UI Kits** bundled with **24/7 LIVE assistance** from our team of experts via [Discord](https://discord.gg/fZC6hup) and email **< support @ appseed.us >**.
 
 <br />
 
