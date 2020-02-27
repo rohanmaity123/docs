@@ -298,15 +298,15 @@ Start fast your next Django project by using functional admin dashboards enhance
 
 <br />
 
-### [What is dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))
+### [What is a dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))
 
-In information technology, a **[dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))** is a user interface that, somewhat resembling an automobile's dashboard, organizes and presents information in a way that is easy to read. However, a computer dashboard is more likely to be interactive than an automobile dashboard (unless it is also computer-based). To some extent, most graphical user interfaces (GUIs) resemble a dashboard - by [Techtarget](https://searchcio.techtarget.com/definition/dashboard)
+A dashboard is a set of pages that are easy to read and offer information to the user in real-time regarding his business. A dashboard usually consists of graphical representations of the current status and trends within an organization. Having a well-designed dashboard will give you the possibility to act and make informed decisions based on the data that your business provides - *definition provided by [Creative-Tim - Free Dashboard Templates](https://www.creative-tim.com/blog/web-design/free-dashboard-templates/?ref=appseed)*.
 
 <br />
 
-### [Atlantis Dark Dashboard](https://www.themekita.com/atlantis-lite-bootstrap-dashboard.html)
+### **[Atlantis Dark Dashboard](https://www.themekita.com/atlantis-lite-bootstrap-dashboard.html?ref=appseed)**
 
-Atlantis Dark is a free bootstrap 4 admin dashboard that is beautifully and elegantly designed to display various metrics, numbers or data visualization. Atlantis Dark admin dashboard has 2 layouts, many plugins and UI components to help developers create dashboards quickly and effectively so they can save development time and also help users to make the right and fast decisions based on existing data. - provided by **ThemeKita**.
+**[Atlantis Dark Dashboard](https://www.themekita.com/atlantis-lite-bootstrap-dashboard.html?ref=appseed)** is a free bootstrap 4 admin dashboard that is beautifully and elegantly designed to display various metrics, numbers or data visualization. Atlantis Dark admin dashboard has 2 layouts, many plugins and UI components to help developers create dashboards quickly and effectively so they can save development time and also help users to make the right and fast decisions based on existing data. - provided by **ThemeKita**.
 
 <br />
 
