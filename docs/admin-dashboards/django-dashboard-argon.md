@@ -36,6 +36,7 @@ title: Django Dashboard Argon
 - [Django Dashboard Argon](https://github.com/app-generator/django-dashboard-argon) - Source code (published on Github)
 - [Django Dashboard Argon](https://django-dashboard-argon.appseed.us/login) - LIVE demo
 - [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - UI-ready admin dashboards generated in Django by **AppSeed**
+- **[Django Dashboard Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro)** - Premium Version - [LIVE Demo](https://django-dashboard-argon-pro.appseed.us/login/)
 
 <br />
 
@@ -298,15 +299,15 @@ Start fast your next Django project by using functional admin dashboards enhance
 
 <br />
 
-### [What is dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))
+### [What is a dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))
 
-In information technology, a **[dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))** is a user interface that, somewhat resembling an automobile's dashboard, organizes and presents information in a way that is easy to read. However, a computer dashboard is more likely to be interactive than an automobile dashboard (unless it is also computer-based). To some extent, most graphical user interfaces (GUIs) resemble a dashboard - by [Techtarget](https://searchcio.techtarget.com/definition/dashboard)
+A dashboard is a set of pages that are easy to read and offer information to the user in real-time regarding his business. A dashboard usually consists of graphical representations of the current status and trends within an organization. Having a well-designed dashboard will give you the possibility to act and make informed decisions based on the data that your business provides - *definition provided by [Creative-Tim - Free Dashboard Templates](https://www.creative-tim.com/blog/web-design/free-dashboard-templates/?ref=appseed)*.
 
 <br />
 
-### [Argon Dashboard](https://www.creative-tim.com/product/argon-dashboard)
+### [Argon Dashboard](https://www.creative-tim.com/product/argon-dashboard?ref=appseed)
 
-Argon Dashboard is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files and it is open source, and free - provided by **Creative-Tim**.
+**[Argon Dashboard](https://www.creative-tim.com/product/argon-dashboard?ref=appseed)** is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files and it is open source, and free - provided by **Creative-Tim**.
 
 <br />
 
