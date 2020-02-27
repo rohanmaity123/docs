@@ -36,6 +36,7 @@ title: Django Dashboard Black
 - [Django Dashboard Black](https://github.com/app-generator/django-dashboard-black) - Source code (published on Github)
 - [Django Dashboard Black](https://django-dashboard-black.appseed.us/login) - LIVE demo
 - [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - UI-ready admin dashboards generated in Django by **AppSeed**
+- **[Django Dashboard Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro)** - Premium Version - [LIVE Demo](https://django-dashboard-black-pro.appseed.us/login/)
 
 <br />
 
@@ -298,15 +299,15 @@ Start fast your next Django project by using functional admin dashboards enhance
 
 <br />
 
-### [What is dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))
+### [What is a dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))
 
-In information technology, a **[dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))** is a user interface that, somewhat resembling an automobile's dashboard, organizes and presents information in a way that is easy to read. However, a computer dashboard is more likely to be interactive than an automobile dashboard (unless it is also computer-based). To some extent, most graphical user interfaces (GUIs) resemble a dashboard - by [Techtarget](https://searchcio.techtarget.com/definition/dashboard)
+A dashboard is a set of pages that are easy to read and offer information to the user in real-time regarding his business. A dashboard usually consists of graphical representations of the current status and trends within an organization. Having a well-designed dashboard will give you the possibility to act and make informed decisions based on the data that your business provides - *definition provided by [Creative-Tim - Free Dashboard Templates](https://www.creative-tim.com/blog/web-design/free-dashboard-templates/?ref=appseed)*.
 
 <br />
 
-### [Black Dashboard](https://www.creative-tim.com/product/black-dashboard)
+### [Black Dashboard](https://www.creative-tim.com/product/black-dashboard?ref=appseed)
 
-Black Dashboard is a beautiful Bootstrap 4 Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics - provided by **Creative-Tim**.
+**[Black Dashboard](https://www.creative-tim.com/product/black-dashboard?ref=appseed)** is a beautiful Bootstrap 4 Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
 
 <br />
 
