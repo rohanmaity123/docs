@@ -11,6 +11,7 @@ Simple **[open-source admin dashboards](https://appseed.us/admin-dashboards/open
 - ORM - SQLAlchemy, Django native
 - Deployment scripts for different platforms: Heroku, Nginx / Gunicorn, uWSGI, Waitress.
 
+
 ### Support
 
 App web apps and dashboards are actively supported and versioned by the AppSeed platform in two (active) ways:
