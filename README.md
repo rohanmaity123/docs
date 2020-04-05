@@ -36,6 +36,12 @@ The *pull request* triggered by the change, will be reviwed and merged in the do
 
 <br />
 
+## Latest Products
+
+- [Flask Dashboard StarAdmin PRO](https://docs.appseed.us/admin-dashboards/flask-dashboard-staradmin-pro/) - product help, [LIVE Demo](https://flask-dashboard-staradmin-pro.appseed.us/)
+- [Flask Dashboard StarAdmin Black PRO](https://docs.appseed.us/admin-dashboards/flask-dashboard-staradmin-black-pro/) - product help, [LIVE Demo](https://flask-dashboard-staradmin-black-pro.appseed.us/)
+- [Flask Dashboard StarAdmin Boxed PRO](https://docs.appseed.us/admin-dashboards/flask-dashboard-staradmin-boxed-pro/) - product help, [LIVE Demo](https://flask-dashboard-staradmin-boxed-pro.appseed.us/)
+
 ## Latest (5) Content Items
 
 - [Admin Dashboards](https://docs.appseed.us/admin-dashboards/) - the index was updated with new items
