@@ -8,10 +8,9 @@ Web App Generator - the official documentation.
 <br />
 
 ## What is AppSeed
-
 ---
 
-Anyone, even without an account, can use AppSeed to [generate web apps](/app-generator/) and code modern apps on top of our [boilerplate code](/boilerplate-code/). The official [repository](https://github.com/app-generator) contains more than 200 projects released under permissive licenses (MIT, LGPL, CCA30). 
+Anyone, even without an account, can use AppSeed to [generate web apps](/app-generator/) and code modern apps on top of our [boilerplate code](/boilerplate-code/). The official [repository](https://github.com/app-generator) contains more than 200 projects released under permissive licenses (MIT, LGPL, CCA30).  
 
 <br />
 
