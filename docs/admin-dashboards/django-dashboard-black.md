@@ -35,6 +35,10 @@ title: Django Dashboard Black
 - [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) - Product page
 - [Django Dashboard Black](https://github.com/app-generator/django-dashboard-black) - Source code (published on Github)
 - [Django Dashboard Black](https://django-dashboard-black.appseed.us/login) - LIVE demo
+
+> Related Links
+
+- [Django Dashboard - Black Design](https://blog.appseed.us/django-dashboard-black-design-creative-tim/) - a comprehensive Blog article
 - [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - UI-ready admin dashboards generated in Django by **AppSeed**
 - **[Django Dashboard Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro)** - Premium Version - [LIVE Demo](https://django-dashboard-black-pro.appseed.us/login/)
 
