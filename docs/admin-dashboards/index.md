@@ -413,13 +413,55 @@ Commercial products built on top of **Premium UI Kits** bundled with **24/7 LIVE
 - Session-Based authentication (via **flask_login**)
 - Forms validation
 - Deployment scripts: Docker, Gunicorn / Nginx, Heroku
-- UI Kit: **Light Dashboard PRO** provided by **Creative-Tim**
+- UI Kit: **Paper Dashboard PRO** provided by **Creative-Tim**
 - License: [Commercial](https://github.com/app-generator/flask-dashboard-paper-pro/blob/master/LICENSE.md)
 - LIVE 24/7 Support via [Discord](https://discord.gg/fZC6hup) and email **< support @ appseed.us >**
 
 <br />
 
 ![Flask Dashboard Paper PRO - Admin Panel coded in Flask.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-paper-pro-screen.png)
+
+<br />
+
+### [Flask Dashboard Atlantis Dark PRO](./flask-dashboard-atlantis-dark-pro/) - [LIVE Demo](https://flask-dashboard-atlantis-dark-pro.appseed.us/)
+---
+
+**Commercial** Admin Dashboard coded in [Flask Framework](https://palletsprojects.com/p/flask/) on top of **Atlantis Dashboard** design (PRO Version) designed by ThemeKita Agency. Features:
+
+- SQLite, PostgreSQL, SQLAlchemy ORM
+- Alembic (DB schema migrations)
+- Modular design with **Blueprints**
+- Session-Based authentication (via **flask_login**)
+- Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx, Heroku
+- UI Kit: **Atlantis Dashboard PRO** provided by **ThemeKita**
+- License: [Commercial](https://github.com/app-generator/flask-dashboard-atlantis-dark-pro/blob/master/LICENSE.md)
+- LIVE 24/7 Support via [Discord](https://discord.gg/fZC6hup) and email **< support @ appseed.us >**
+
+<br />
+
+![Flask Dashboard Atlantis Dark PRO - Admin Panel coded in Flask.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-atlantis-dark-pro-screen.png)
+
+<br />
+
+### [Flask Dashboard Atlantis PRO](./flask-dashboard-atlantis-pro/) - [LIVE Demo](https://flask-dashboard-atlantis-pro.appseed.us/)
+---
+
+**Commercial** Admin Dashboard coded in [Flask Framework](https://palletsprojects.com/p/flask/) on top of **Atlantis Dashboard** design (PRO Version) designed by ThemeKita Agency. Features:
+
+- SQLite, PostgreSQL, SQLAlchemy ORM
+- Alembic (DB schema migrations)
+- Modular design with **Blueprints**
+- Session-Based authentication (via **flask_login**)
+- Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx, Heroku
+- UI Kit: **Atlantis Dashboard PRO** provided by **ThemeKita**
+- License: [Commercial](https://github.com/app-generator/flask-dashboard-atlantis-pro/blob/master/LICENSE.md)
+- LIVE 24/7 Support via [Discord](https://discord.gg/fZC6hup) and email **< support @ appseed.us >**
+
+<br />
+
+![Flask Dashboard Atlantis PRO - Admin Panel coded in Flask.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-atlantis-pro-screen.png)
 
 <br />
 
