@@ -27,8 +27,9 @@ How to do stuff in programming, simple guide.
 ## Software installation
 
 - [Install Pyhton](/how-to/install-python/)
+- [Install Pyhton 3.8 on Ubuntu](/how-to/install-python38-ubuntu/)
 - [Install Flask](/how-to/install-flask/)
 
-## Deployments 
+## Deployments
 
 - [Flask Deploy on Apache](/how-to/flask-apache-centos-virtualenv-minimal-configuration/)
