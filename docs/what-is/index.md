@@ -52,6 +52,7 @@ Technical terms used by geeks, programmers, and hackers.
     - [ThemeKita](./themekita)
 - U terms
     - [uWSGI](./uwsgi/)
+    - [Ubuntu](./ubuntu/)
 - V terms
 - W terms
 - X terms
