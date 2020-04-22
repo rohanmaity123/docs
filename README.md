@@ -44,6 +44,7 @@ The *pull request* triggered by the change, will be reviwed and merged in the do
 
 ## Latest (5) Content Items
 
+- [Install Python38 on Ubuntu](https://docs.appseed.us/how-to/install-python38-ubuntu/)
 - [Admin Dashboards](https://docs.appseed.us/admin-dashboards/) - the index was updated with new items
 - [Flask Dashboard Black](https://docs.appseed.us/admin-dashboards/flask-dashboard-black/) - product help
 - [Flask Dashboard Argon](https://docs.appseed.us/admin-dashboards/flask-dashboard-argon/) - product help
