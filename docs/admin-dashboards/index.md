@@ -29,6 +29,7 @@ App web apps and dashboards are actively supported and versioned by the AppSeed 
 - [Flask Dashboard Light](./flask-dashboard-light/) - Free, MIT License, **[PRO Version](./flask-dashboard-light-pro/)** available  
 - [Flask Dashboard Material](./flask-dashboard-material/) - Free, MIT License, **[PRO Version](./flask-dashboard-material-pro/)** available
 - [Flask Dashboard Now UI](./flask-dashboard-nowui/) - Free, MIT License, **[PRO Version](./flask-dashboard-now-ui-pro/)** available  
+- [Flask Dashboard Data Able](./flask-dashboard-dattaable/) - Free, MIT License, **[PRO Version](./flask-dashboard-dattaable-dark-pro/)** available  
 ---  
 - [Flask Dashboard CoreUI](./flask-dashboard-coreui/) - Admin dashboard with a clean material design 
 - [Flask Dashboard Sleek](./flask-dashboard-sleek/) - Simple UI kit crafted by [Abdus Salam](https://www.iamabdus.com/), a brave developer from Bangladesh
@@ -213,7 +214,49 @@ Commercial products built on top of **Premium UI Kits** bundled with **24/7 LIVE
 
 <br />
 
-### [Flask Dashboard StarAdmin PRO](./flask-dashboard-staradmin-pro/) - [LIVE Demo](https://flask-dashboard-staradmin-pro.appseed.us/)
+### [Flask DattaAble Black PRO](./flask-dashboard-dattaable-dark-pro/) - [LIVE Demo](https://flask-dashboard-dattaable-dark-pro.appseed.us/)
+---
+
+**Commercial** Admin Dashboard coded in [Flask Framework](https://palletsprojects.com/p/flask/) on top of **DattaAble Black** design (PRO Version) designed by CodedThemes Agency. Features:
+
+- SQLite, PostgreSQL, SQLAlchemy ORM
+- Alembic (DB schema migrations)
+- Modular design with **Blueprints**
+- Session-Based authentication (via **flask_login**)
+- Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx, Heroku
+- UI Kit: **DattaAble Black PRO** provided by **CodedThemes**
+- License: [Commercial](https://github.com/app-generator/flask-dashboard-dattaable-pro/blob/master/LICENSE.md)
+- LIVE 24/7 Support via [Discord](https://discord.gg/fZC6hup) and email **< support @ appseed.us >**
+
+<br />
+
+![Flask Dashboard DattaAble Black PRO - Admin Panel coded in Flask.](https://raw.githubusercontent.com/app-generator/static/master/flask-dashboard-dattaable-dark-pro/flask-dashboard-dattaable-dark-pro-screen.png)
+
+<br />
+
+### [Flask Dashboard DattaAble PRO](./flask-dashboard-dattaable-pro/) - [LIVE Demo](https://flask-dashboard-dattaable-pro.appseed.us/)
+---
+
+**Commercial** Admin Dashboard coded in [Flask Framework](https://palletsprojects.com/p/flask/) on top of **Datta Able** design (PRO Version) designed by CodedThemes Agency. Features:
+
+- SQLite, PostgreSQL, SQLAlchemy ORM
+- Alembic (DB schema migrations)
+- Modular design with **Blueprints**
+- Session-Based authentication (via **flask_login**)
+- Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx, Heroku
+- UI Kit: **DattaAble Black PRO** provided by **CodedThemes**
+- License: [Commercial](https://github.com/app-generator/flask-dashboard-dattaable-pro/blob/master/LICENSE.md)
+- LIVE 24/7 Support via [Discord](https://discord.gg/fZC6hup) and email **< support @ appseed.us >**
+
+<br />
+
+![Flask Dashboard DattaAble PRO - Admin Panel coded in Flask.](https://raw.githubusercontent.com/app-generator/static/master/flask-dashboard-dattaable-pro/flask-dashboard-dattaable-pro-screen.png)
+
+<br />
+
+### [Flask Dashboard Black PRO](./flask-dashboard-black-pro/) - [LIVE Demo](https://flask-dashboard-black-pro.appseed.us/)
 ---
 
 **Commercial** Admin Dashboard coded in [Flask Framework](https://palletsprojects.com/p/flask/) on top of **Star Admin** design (PRO Version) designed by BootstrapDash Agency. Features:
