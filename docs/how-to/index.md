@@ -29,6 +29,7 @@ How to do stuff in programming, simple guide.
 - [Install Pyhton](/how-to/install-python/)
 - [Install Pyhton 3.8 on Ubuntu](/how-to/install-python38-ubuntu/)
 - [Install Flask](/how-to/install-flask/)
+- [Profile page updates](how-to/configure-user-page)
 
 ## Deployments
 
