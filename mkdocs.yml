@@ -10,8 +10,9 @@ markdown_extensions:
 nav:
 - Sections:  
   - 'App Generator'        : 'app-generator/index.md'   
-  - 'How To'               : 'how-to/index.md'   
   - 'What Is'              : 'what-is/index.md'   
+  - 'How To'               : 'how-to/index.md'   
+  - 'Tutorials'            : 'tutorials/index.md'   
 
 - Web Apps:  
   - 'Admin Dashboards'     : 'admin-dashboards/index.md'   

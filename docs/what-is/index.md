@@ -55,6 +55,7 @@ Technical terms used by geeks, programmers, and hackers.
     - [Ubuntu](./ubuntu/)
 - V terms
 - W terms
+    - [WSGI](./wsgi/)
 - X terms
 - Y terms
 - Z terms
