@@ -61,7 +61,7 @@ When Flask is installed, some core dependencies are also installed.
 
 > [Virtual environments](https://docs.python.org/3/tutorial/venv.html)
 
-The goel of a [virtual environment](https://docs.python.org/3/tutorial/venv.html) is to manage the project dependencies, both in development and in production.
+The goal of a [virtual environment](https://docs.python.org/3/tutorial/venv.html) is to manage the project dependencies, both in development and in production.
 
 What problem does a virtual environment solve? The more Python projects you have, the more likely it is that you need to work with different versions of Python libraries, or even Python itself. Newer versions of libraries for one project can break compatibility in another project.
 
