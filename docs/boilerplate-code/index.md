@@ -2,46 +2,124 @@ title: Boilerplate Code
 
 # [Boilerplate Code](http://appseed.us/boilerplate-code/)
 
-Tested, production-ready boilerplates developed in Nodejs, Python and Php. 24/7 Live support included
+Starters used by the AppSeed platform as referrence code-base to provide pre-built apps:
+
+- [Flask Starter](/boilerplate-code/flask) - UI-Ready, SQLite, ORM, Authentication, Deployment (Docker, Gunicorn/Nginx)
+- [Flask Dashboard Starter](https://github.com/app-generator/boilerplate-code-flask-dashboard) - UI-Ready, Blueprints, SQLite/PostgreSql, ORM, Alembic (Migrations), Deploy Scripts
+- [Django Starter](/https://github.com/app-generator/boilerplate-code-django) - UI-Ready, SQLite Database, Native ORM, Authentication, Deployment (Docker, Gunicorn/Nginx)
+- [Flask Dashboard Starter](https://github.com/app-generator/boilerplate-code-django-dashboard) - UI-Ready, SQLite Database, Native ORM, Authentication, Deployment (Docker, Gunicorn/Nginx)
 
 <br />
 
-We provide starter kits, coded in modern technologies, already equipped with tools and features. All our boilerplates are actively maintained to follow the latest technology trends.
+> WIP starters - not suitable for production
+
+- [Nodejs Starter](https://github.com/app-generator/nodejs-starter) - Express starter, JWT auth, SQLite, Sequelize ORM, REST API.
+- [Laravel Starter](https://github.com/app-generator/laravel-boilerplate) - Mysql, Native ORM, JWT auth, REST API.
+- Flask API Server - under development (not yet public)
+- Django API Server - under development (not yet public)
+- Firebase Backend - under development (not yet public)
 
 <br />
 
-## [Nodejs Starter](/boilerplate-code/nodejs-starter/)
+## [Flask Starter](/boilerplate-code/flask)
 ---
 
-Open-source Nodejs / Express starter enhanced with JWT authentication (passport, passport-jwt), ES6. Other Features: SQLite database, Sequelize ORM, secure REST api.
+> Template boilerplate code used by AppSeed to generate **simple web apps** coded in Flask - features:
+
+- Unopinionated, simple code-base (no Blueprints)
+- UI-Ready, Jinja2 templating
+- SQLite database, Flask-SQLAlchemy ORM
+- Session-Based auth flow (login, register)
+- Deployment scripts: Docker, Gunicorn / Nginx
+
+> **Links**
+
+- [Source Code](https://github.com/app-generator/boilerplate-code-flask) - MIT licensed, published on Github
+- [LIVE Demo](https://boilerplate-code-flask.appseed.us/) - Test login credentials ** *test / pass* **
+
+> **For more information** please access [Flask Starter Docs](/boilerplate-code/flask).
 
 <br />
 
-## [Laravel Boilerplate](/boilerplate-code/laravel-boilerplate/)
+## [Flask Dashboard Starter](https://github.com/app-generator/boilerplate-code-flask-dashboard)
 ---
 
-This open-source boilerplate is a simple Laravel starter enhanced with JWT authentication (passport, passport-jwt), ES6. Other Features: MySql database, and a secure REST api.
+> Template boilerplate code used by AppSeed to generate **admin dashboards** coded in Flask - features:
+
+- Modular code-base with Blueprints
+- UI-Ready, Jinja2 templating
+- Dual DBMS configuration (dev/production): SQLite / PostgreSQL
+- DB Tools: SQLAlchemy ORM, Alembic (DB schema migrations)
+- Deployment scripts: Docker, Gunicorn / Nginx
+
+> **Links**
+
+- [Source Code](https://github.com/app-generator/boilerplate-code-flask-dashboard) - MIT licensed, published on Github
+- [LIVE Demo](https://boilerplate-code-flask-dashboard.appseed.us/) - Test login credentials ** *test / pass* **
+
+> **For more information** please access - [Flask Dashboard Starter Docs](https://github.com/app-generator/boilerplate-code-flask-dashboard).
 
 <br />
 
-## [Flask Boilerplate](/boilerplate-code/flask-boilerplate/)
+## [Django Starter](https://github.com/app-generator/boilerplate-code-django)
 ---
 
-Flask boilerplates equipped with authentication, SQLite database and SQLAlchemy ORM provided in two versions: [v1](/boilerplate-code/flask-boilerplate-v1/) and [v2](/boilerplate-code/flask-boilerplate-v2/)
+> Template boilerplate code used by AppSeed to generate **simple web apps** coded in Django - features:
 
-- [Flask boilerplate v1](/boilerplate-code/flask-boilerplate-v1/) - SQLite, ORM, simple routing (suitable for beginners)
-- [Flask boilerplate v2](/boilerplate-code/flask-boilerplate-v2/) - SQLite, ORM, Alembic, blueprints, unitary tests, deployment scripts. 
+- UI-Ready, Django Render Engine
+- SQLite Database, Django Native ORM
+- Session-Based auth flow (login, register)
+- Deployment scripts: Docker, Gunicorn / Nginx
+
+> **Links**
+
+- [Source Code](https://github.com/app-generator/boilerplate-code-django) - MIT licensed, published on Github
+- [LIVE Demo](https://boilerplate-code-django.appseed.us/) - Test login credentials ** *test / ApS12_ZZs8* **
+
+> **For more information** please access - [Django Starter Docs](https://github.com/app-generator/boilerplate-code-django).
 
 <br />
 
-## [Eleventy Boilerplate](/boilerplate-code/eleventy-boilerplate/)
+## [Django Dashboard Starter](https://github.com/app-generator/boilerplate-code-django-dashboard)
 ---
 
-Open-source boilerplate built on top of Eleventy, bundled with some nice tooling: Sass/SCSS, Webpack, Babel, Light-server, PostCSS, CSSnano.
+> Template boilerplate code used by AppSeed to generate **admin dashboards** coded in Django - features:
+
+- UI-Ready, Django Render Engine
+- SQLite Database, Django Native ORM
+- Session-Based auth flow (login, register)
+- Deployment scripts: Docker, Gunicorn / Nginx
+
+> **Links**
+
+- [Source Code](https://github.com/app-generator/boilerplate-code-django-dashboard) - MIT licensed, published on Github
+- [LIVE Demo](https://boilerplate-code-django-dashboard.appseed.us/) - Test login credentials ** *test / ApS12_ZZs8* **
+
+> **For more information** please access - [Django Dashboard Starter Docs](https://github.com/app-generator/boilerplate-code-django-dashboard).
 
 <br />
 
-## Links
+## [Nodejs Starter](https://github.com/app-generator/nodejs-starter)
+---
 
-- [Boilerplate Code](http://appseed.us/boilerplate-code/) - provided and actively supported by AppSeed
-- [Boilerplate Code](https://en.wikipedia.org/wiki/Boilerplate_code) - Wikipedia page
+> Template API server coded in NodeJS/Express - features:
+
+- Unopinionated, simple code-base
+- SQLite database, Sequelize ORM
+- JWT token authentication
+- Unit tests
+
+> **Links**
+
+- [Source Code](https://github.com/app-generator/nodejs-starter) - MIT licensed, published on Github
+
+> **For more information** please access - [Nodejs Starter Docs](https://github.com/app-generator/nodejs-starter).
+
+<br />
+
+### **Links** & Resources
+---
+
+- [Flask Apps](https://appseed.us/apps/flask-apps) that uses [flask starter](/boilerplate-code/flask) code base
+- [Admin Dashboards](https://appseed.us/admin-dashboards) coded in [Flask](https://appseed.us/admin-dashboards/flask) and [Django](https://appseed.us/admin-dashboards/django)
+

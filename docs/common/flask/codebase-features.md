@@ -1,0 +1,5 @@
+- [Codebase](https://github.com/app-generator/boilerplate-code-flask) version - **[v1.0.2](https://github.com/app-generator/boilerplate-code-flask/releases/tag/v1.0.2)**
+- UI-Ready, [Jinja2](https://jinja.palletsprojects.com/) templating
+- [SQLite](https://www.sqlite.org/) database, [Flask-SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/) ORM
+- Session-Based auth flow (login, register), Basic Form Validation
+- Deployment scripts: [Docker](https://www.docker.com/), [Gunicorn](https://gunicorn.org/) / [Nginx](https://www.nginx.com/)

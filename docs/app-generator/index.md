@@ -34,7 +34,7 @@ Most of the apps are free and open-source. Feel free to choose a category
 
 ### [Support](https://appseed.us/support)
 
-Support is an important part of our business model. A good product, in order to be usefull should have a good support. We are providing support for all our products using two tiers: 
+Support is an important part of our business model. A good product, in order to be usefull should have a good support. We are providing support for all our products using two tiers:
 
 - **Free Support** via Github and eMail < support @ appseed.us >
-- **24/7 Live Support** for paid plans and paid products 
+- **24/7 Live Support** for paid plans and paid products
