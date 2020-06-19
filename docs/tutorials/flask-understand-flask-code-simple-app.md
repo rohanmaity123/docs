@@ -1,4 +1,4 @@
-title: Flask - Code a simple app |
+title: Flask - Code a simple app
 
 # Flask - Code a simple web app
 
