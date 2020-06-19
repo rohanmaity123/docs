@@ -84,51 +84,7 @@ For more information on how to set up your environment please access the resourc
 
 <br />
 
-## Project Structure
----
-
-The boilerplate code is built with a modular structure that follows the recommended pattern used by many open-source projects. The most important files and  directories are shown below:
-
-<br />
-
-```bash
-< PROJECT ROOT >                               # application root folder
-    |
-    |--- core/__init__.py                      # Handles the core features
-    |--- core/                                 # define app settings and serve statis assets and pages
-    |      | --- <templates>
-    |      |        |---<includes>             # Page chunks, components
-    |      |        |---<layouts>              # App Layouts (the master pages)
-    |      |        |---<account>              # Auth Pages (login, register)
-    |      |        |---<pages>                # App Pages
-    |      |
-    |      | --- views.py
-    |      | --- urls.py
-    |      | --- models.py
-    |
-    |--- app/__init__.py                       # Django app that serve the pages
-    |--- app/                                  # for authenticated users
-    |      | --- views.py
-    |      | --- urls.py
-    |      | --- models.py
-    |
-    |--- authentication/__init__.py            # Django app that serve the pages
-    |--- authentication/                       # for authenticated users
-    |      | --- forms.py                      # Login, Register forms
-    |      | --- views.py
-    |      | --- urls.py
-    |      | --- models.py
-    |
-    |--- requirements.txt                      # Requirements - SQLite storage
-    |
-    |--- manage.py                             # bootstrap the app
-    |
-    |-----------------------------
-```
-
-<br />
-
-## Build from sources
+## How to use it
 ---
 
 ```bash
@@ -137,14 +93,14 @@ $ git clone https://github.com/app-generator/priv-django-dashboard-black-pro.git
 $ cd priv-django-dashboard-black-pro
 $
 $ # Virtualenv modules installation (Unix based systems)
-$ virtualenv --no-site-packages env
+$ virtualenv env
 $ source env/bin/activate
 $
 $ # Virtualenv modules installation (Windows based systems)
-$ # virtualenv --no-site-packages env
+$ # virtualenv env
 $ # .\env\Scripts\activate
 $
-$ # Install modules - SQLite Database
+$ # Install modules - SQLite Storage
 $ pip3 install -r requirements.txt
 $
 $ # Create tables
@@ -154,49 +110,86 @@ $
 $ # Start the application (development mode)
 $ python manage.py runserver # default port 8000
 $
-$ # Start the app - custom port 
+$ # Start the app - custom port
 $ # python manage.py runserver 0.0.0.0:<your_port>
 $
 $ # Access the web app in browser: http://127.0.0.1:8000/
 ```
 
+> Note: To use the app, please access the registration page and create a new user. After authentication, the app will unlock the private pages.
+
+<br />
+
+## Code-base structure
+---
+
+The project is coded using a simple and intuitive structure presented bellow:
+
+```bash
+< PROJECT ROOT >
+   |
+   |-- core/                               # Implements app logic and serve the static assets
+   |    |-- settings.py                    # Django app bootstrapper
+   |    |-- wsgi.py                        # Start the app in production
+   |    |-- urls.py                        # Define URLs served by all apps/nodes
+   |    |
+   |    |-- static/
+   |    |    |-- <css, JS, images>         # CSS files, Javascripts files
+   |    |
+   |    |-- templates/                     # Templates used to render pages
+   |         |
+   |         |-- includes/                 # HTML chunks and components
+   |         |    |-- navigation.html      # Top menu component
+   |         |    |-- sidebar.html         # Sidebar component
+   |         |    |-- footer.html          # App Footer
+   |         |    |-- scripts.html         # Scripts common to all pages
+   |         |
+   |         |-- layouts/                  # Master pages
+   |         |    |-- base-fullscreen.html # Used by Authentication pages
+   |         |    |-- base.html            # Used by common pages
+   |         |
+   |         |-- accounts/                 # Authentication pages
+   |         |    |-- login.html           # Login page
+   |         |    |-- register.html        # Register page
+   |         |
+   |      index.html                       # The default page
+   |     page-404.html                     # Error 404 page
+   |     page-500.html                     # Error 404 page
+   |       *.html                          # All other HTML pages
+   |
+   |-- authentication/                     # Handles auth routes (login and register)
+   |    |
+   |    |-- urls.py                        # Define authentication routes  
+   |    |-- views.py                       # Handles login and registration  
+   |    |-- forms.py                       # Define auth forms  
+   |
+   |-- app/                                # A simple app that serve HTML files
+   |    |
+   |    |-- views.py                       # Serve HTML pages for authenticated users
+   |    |-- urls.py                        # Define some super simple routes  
+   |
+   |-- requirements.txt                    # Development modules - SQLite storage
+   |
+   |-- .env                                # Inject Configuration via Environment
+   |-- manage.py                           # Start the app - Django default start script
+   |
+   |-- ************************************************************************
+```
+
+<br />
+
+> The bootstrap flow
+
+- Django bootstrapper `manage.py` uses `core/settings.py` as the main configuration file
+- `core/settings.py` loads the app magic from `.env` file
+- Redirect the guest users to Login page
+- Unlock the pages served by *app* node for authenticated users
+
 <br />
 
 ## Deployment
 
-The app is provided with a basic configuration to be executed in [Heroku](https://heroku.com/), [Docker](https://www.docker.com/), [Gunicorn](https://gunicorn.org/), and [Waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/).
-
-### [Heroku](https://heroku.com/) platform
-
-```bash
-$ # Get the code
-$ git clone https://github.com/app-generator/priv-django-dashboard-black-pro.git
-$ cd priv-django-dashboard-black-pro
-$
-$ # Heroku Login
-$ heroku login
-$
-$ # Create the app in Heroku platform
-$ heroku create # a random name will be generated by Heroku
-$
-$ # Disable collect static
-$ heroku config:set DISABLE_COLLECTSTATIC=1
-$
-$ # Push the source code and trigger the deploy
-$ git push heroku master
-$
-$ # Execute DBSchema Migration
-$ heroku run python manage.py makemigrations
-$ heroku run python manage.py migrate
-$
-$ # Visit the deployed app in browser.
-$ heroku open
-$
-$ # Create a superuser
-$ heroku run python manage.py createsuperuser
-```
-
-<br />
+The app is provided with a basic configuration to be executed in [Docker](https://www.docker.com/), [Gunicorn](https://gunicorn.org/), and [Waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/).
 
 ### [Docker](https://www.docker.com/) execution
 ---
@@ -230,7 +223,7 @@ Gunicorn 'Green Unicorn' is a Python WSGI HTTP Server for UNIX.
 ```bash
 $ pip install gunicorn
 ```
-> Start the app using `gunicorn` binary
+> Start the app using gunicorn binary
 
 ```bash
 $ gunicorn --bind=0.0.0.0:8001 core.wsgi:application
@@ -263,44 +256,29 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
 
-## Django Black PRO - app screens
+### Credits & Links
 ---
 
-<br />
-
-![Django Dashboard Black PRO - Maps Screen.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-pro-screen-1.png)
+A short-list with useful resources and links, related to this product.
 
 <br />
 
-![Django Dashboard Black PRO - Charts Screen.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-pro-screen-2.png)
-
-<br />
-
-![Django Dashboard Black PRO - Lock Screen.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-pro-screen-3.png)
-
-<br />
-
-## Credits & Links
----
-
-<br />
-
-### [Django Admin Dashboards PRO](https://appseed.us/admin-dashboards/django)
+#### [Django Admin Dashboards PRO](https://appseed.us/admin-dashboards/django)
 
 Index with **Premium UI-ready admin dashboards** generated by the AppSeed platform in [Django Framework](https://www.djangoproject.com/).
 Start fast your next Django project by using functional admin dashboards enhanced with Database, ORM, authentication flow, helpers and deployment scripts.
 
 <br />
 
-### What is [Django](https://www.palletsprojects.com/p/flask/)
+#### What is [Django](https://www.djangoproject.com/)
 
-[Django](https://www.palletsprojects.com/p/flask/) is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks.
+[Django](https://www.djangoproject.com/) is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.
 
 <br />
 
 ### [What is dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))
 
-In information technology, a **[dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))** is a user interface that, somewhat resembling an automobile's dashboard, organizes and presents information in a way that is easy to read. However, a computer dashboard is more likely to be interactive than an automobile dashboard (unless it is also computer-based). To some extent, most graphical user interfaces (GUIs) resemble a dashboard - by [Techtarget](https://searchcio.techtarget.com/definition/dashboard)
+In information technology, a **[dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))** is a user interface that, somewhat resembling an automobile's dashboard, organizes and presents information in a way that is easy to read. However, a computer dashboard is more likely to be interactive than an automobile dashboard (unless it is also computer-based). To some extent, most graphical user interfaces (GUIs) resemble a dashboard - *Definition credit [Techtarget](https://searchcio.techtarget.com/definition/dashboard)*.
 
 <br />
 
