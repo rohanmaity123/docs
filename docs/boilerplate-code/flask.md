@@ -1,8 +1,8 @@
 ---
-title: Flask Boilerplate Code
+title: Flask Boilerplate
 ---
 
-# Flask Boilerplate Code
+# Flask Boilerplate
 
 Reference codebase used in all Flask Applications (free & commercial) provided by the AppSeed platform - features:
 

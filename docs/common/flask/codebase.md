@@ -1,7 +1,7 @@
 ## App Codebase
 ---
 
-The codebase structure is presented bellow:
+The codebase structure is presented below:
 
 ```bash
 < PROJECT ROOT >

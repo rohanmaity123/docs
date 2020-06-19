@@ -36,17 +36,16 @@ Using this visual generator, anyone can generate Full-Stack web apps coded in Re
 
 Pre-built boilerplate code prototyped in different patterns and programming languages.
 
-- [Flask Starter](/boilerplate-code/flask) - UI-Ready, SQLite, ORM, Authentication, Deployment (Docker, Gunicorn/Nginx)
-- [Flask Dashboard Starter](/boilerplate-code/flask-dashboard) - UI-Ready, Blueprints, SQLite/PostgreSql, ORM, Alembic (Migrations), Deploy Scripts
-- [Django Starter](/boilerplate-code/flask) - UI-Ready, SQLite Database, Native ORM, Authentication, Deployment (Docker, Gunicorn/Nginx)
-- [Flask Dashboard Starter](/boilerplate-code/flask-dashboard) - UI-Ready, SQLite Database, Native ORM, Authentication, Deployment (Docker, Gunicorn/Nginx)
-
+- [Flask Boilerplate](/boilerplate-code/flask) - SQLite, ORM, Authentication, Deployment (Docker, Gunicorn/Nginx)
+- [Flask Dashboard Boilerplate](/boilerplate-code/flask-dashboard) - Blueprints, SQLite/PostgreSql, ORM, Alembic (Migrations), Deploy Scripts
+- [Django Boilerplate](/https://github.com/app-generator/boilerplate-code-django) - SQLite Database, Native ORM, Authentication, Deployment scripts
+- [Django Dashboard Boilerplate](https://github.com/app-generator/boilerplate-code-django-dashboard) - SQLite Database, Native ORM, Authentication, Deployment scripts
 
 <br />
 
-> WIP starters - not suitable for production
+> **@WIP starters** - not suitable for production
 
-- [Nodejs Starter](https://appseed.us/boilerplate-code/nodejs-starter) - Express starter, JWT auth, SQLite, Sequelize ORM, REST API.
+- [Nodejs Starter](https://github.com/app-generator/nodejs-starter) - Express starter, JWT auth, SQLite, Sequelize ORM, REST API.
 - [Laravel Starter](https://github.com/app-generator/laravel-boilerplate) - Mysql, Native ORM, JWT auth, REST API.
 - Flask API Server - under development (not yet public)
 - Django API Server - under development (not yet public)

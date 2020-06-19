@@ -2,16 +2,16 @@ title: Boilerplate Code
 
 # [Boilerplate Code](http://appseed.us/boilerplate-code/)
 
-Starters used by the AppSeed platform as referrence code-base to provide pre-built apps:
+Starters used by the AppSeed platform as reference code-base to provide pre-built apps:
 
-- [Flask Starter](/boilerplate-code/flask) - UI-Ready, SQLite, ORM, Authentication, Deployment (Docker, Gunicorn/Nginx)
-- [Flask Dashboard Starter](https://github.com/app-generator/boilerplate-code-flask-dashboard) - UI-Ready, Blueprints, SQLite/PostgreSql, ORM, Alembic (Migrations), Deploy Scripts
-- [Django Starter](/https://github.com/app-generator/boilerplate-code-django) - UI-Ready, SQLite Database, Native ORM, Authentication, Deployment (Docker, Gunicorn/Nginx)
-- [Flask Dashboard Starter](https://github.com/app-generator/boilerplate-code-django-dashboard) - UI-Ready, SQLite Database, Native ORM, Authentication, Deployment (Docker, Gunicorn/Nginx)
+- [Flask Boilerplate](/boilerplate-code/flask) - SQLite, ORM, Authentication, Deployment (Docker, Gunicorn/Nginx)
+- [Flask Dashboard Boilerplate](/boilerplate-code/flask-dashboard) - Blueprints, SQLite/PostgreSql, ORM, Alembic (Migrations), Deploy Scripts
+- [Django Boilerplate](/https://github.com/app-generator/boilerplate-code-django) - SQLite Database, Native ORM, Authentication, Deployment scripts
+- [Django Dashboard Boilerplate](https://github.com/app-generator/boilerplate-code-django-dashboard) - SQLite Database, Native ORM, Authentication, Deployment scripts
 
 <br />
 
-> WIP starters - not suitable for production
+> **@WIP starters** - not suitable for production
 
 - [Nodejs Starter](https://github.com/app-generator/nodejs-starter) - Express starter, JWT auth, SQLite, Sequelize ORM, REST API.
 - [Laravel Starter](https://github.com/app-generator/laravel-boilerplate) - Mysql, Native ORM, JWT auth, REST API.
@@ -21,7 +21,7 @@ Starters used by the AppSeed platform as referrence code-base to provide pre-bui
 
 <br />
 
-## [Flask Starter](/boilerplate-code/flask)
+## [Flask Boilerplate](/boilerplate-code/flask)
 ---
 
 > Template boilerplate code used by AppSeed to generate **simple web apps** coded in Flask - features:
@@ -41,7 +41,7 @@ Starters used by the AppSeed platform as referrence code-base to provide pre-bui
 
 <br />
 
-## [Flask Dashboard Starter](https://github.com/app-generator/boilerplate-code-flask-dashboard)
+## [Flask Dashboard Boilerplate](/boilerplate-code/flask-dashboard)
 ---
 
 > Template boilerplate code used by AppSeed to generate **admin dashboards** coded in Flask - features:
@@ -57,7 +57,7 @@ Starters used by the AppSeed platform as referrence code-base to provide pre-bui
 - [Source Code](https://github.com/app-generator/boilerplate-code-flask-dashboard) - MIT licensed, published on Github
 - [LIVE Demo](https://boilerplate-code-flask-dashboard.appseed.us/) - Test login credentials ** *test / pass* **
 
-> **For more information** please access - [Flask Dashboard Starter Docs](https://github.com/app-generator/boilerplate-code-flask-dashboard).
+> **For more information** please access - [Flask Dashboard Starter Docs](/boilerplate-code/flask-dashboard).
 
 <br />
 

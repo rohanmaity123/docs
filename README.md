@@ -57,7 +57,8 @@ The *pull request* triggered by the change will be merged in the documentation a
 
 ## Latest Content Items
 
-- [Flask Boilerplate Code](https://docs.appseed.us/boilerplate-code/flask/) - Help page
+- [Flask Boilerplate](https://docs.appseed.us/boilerplate-code/flask/) - Help page
+- [Flask Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/flask/) - Help page
 - [Code a simple app in Flask](https://docs.appseed.us/tutorials/flask-understand-flask-code-simple-app/)
 - [Install Python38 on Ubuntu](https://docs.appseed.us/how-to/install-python38-ubuntu/)
 - [Admin Dashboards](https://docs.appseed.us/admin-dashboards/) - the index was updated with new items
