@@ -6,6 +6,8 @@ google_analytics: ['UA-104843706-2', 'docs.appseed.us']
 
 markdown_extensions:
   - meta
+  - markdown_include.include:
+      base_path: docs/common
 
 nav:
 - Sections:  
@@ -21,8 +23,5 @@ nav:
   - 'Flask Apps'           : 'apps/flask-apps/index.md'   
 
 - Boilerplate Code:  
-  - 'Boilerplate Code'     : 'boilerplate-code/index.md'   
-  - 'Nodejs Starter'       : 'boilerplate-code/nodejs-starter.md'   
-  - 'Laravel Boilerplate'  : 'boilerplate-code/laravel-boilerplate.md'   
-  - 'Eleventy Boilerplate' : 'boilerplate-code/eleventy-boilerplate.md'   
-  - 'Flask Boilerplate'    : 'boilerplate-code/flask-boilerplate.md'   
+  - 'Boilerplate Code'       : 'boilerplate-code/index.md'   
+  - 'Flask Boilerplate Code' : 'boilerplate-code/flask.md'   
