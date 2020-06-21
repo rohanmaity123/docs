@@ -2,9 +2,9 @@
 title: Flask Dashboard Boilerplate
 ---
 
-# Flask Dashboard Boilerplate
+# [Flask Dashboard Boilerplate](https://appseed.us/boilerplate-code/flask-dashboard)
 
-Reference codebase used in all Flask Applications (free & commercial) provided by the AppSeed platform - features:
+Reference codebase used in all **[Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask)** provided by the AppSeed platform - features:
 
 {!flask-dashboard/codebase-features.md!}
 

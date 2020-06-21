@@ -2,9 +2,9 @@
 title: Flask Boilerplate
 ---
 
-# Flask Boilerplate
+# [Flask Boilerplate](https://appseed.us/boilerplate-code/flask-boilerplate)
 
-Reference codebase used in all Flask Applications (free & commercial) provided by the AppSeed platform - features:
+Reference codebase used in all **[Flask Web Applications](https://appseed.us/apps/flask-apps)** provided by the AppSeed platform - features:
 
 {!flask/codebase-features.md!}
 

@@ -4,10 +4,10 @@ title: Boilerplate Code
 
 Starters used by the AppSeed platform as reference code-base to provide pre-built apps:
 
-- [Flask Boilerplate](/boilerplate-code/flask) - SQLite, ORM, Authentication, Deployment (Docker, Gunicorn/Nginx)
-- [Flask Dashboard Boilerplate](/boilerplate-code/flask-dashboard) - Blueprints, SQLite/PostgreSql, ORM, Alembic (Migrations), Deploy Scripts
-- [Django Boilerplate](/https://github.com/app-generator/boilerplate-code-django) - SQLite Database, Native ORM, Authentication, Deployment scripts
-- [Django Dashboard Boilerplate](https://github.com/app-generator/boilerplate-code-django-dashboard) - SQLite Database, Native ORM, Authentication, Deployment scripts
+- [Flask Boilerplate](/boilerplate-code/flask/) - SQLite, ORM, Authentication, Deployment (Docker, Gunicorn/Nginx)
+- [Flask Dashboard Boilerplate](/boilerplate-code/flask-dashboard/) - Blueprints, SQLite/PostgreSql, ORM, Alembic (Migrations), Deploy Scripts
+- [Django Boilerplate](/boilerplate-code/django/) - SQLite Database, Native ORM, Authentication, Deployment scripts
+- [Django Dashboard Boilerplate](/boilerplate-code/django-dashboard/) - SQLite Database, Native ORM, Authentication, Deployment scripts
 
 <br />
 
@@ -21,7 +21,7 @@ Starters used by the AppSeed platform as reference code-base to provide pre-buil
 
 <br />
 
-## [Flask Boilerplate](/boilerplate-code/flask)
+## [Flask Boilerplate](/boilerplate-code/flask/)
 ---
 
 > Template boilerplate code used by AppSeed to generate **simple web apps** coded in Flask - features:
@@ -37,11 +37,11 @@ Starters used by the AppSeed platform as reference code-base to provide pre-buil
 - [Source Code](https://github.com/app-generator/boilerplate-code-flask) - MIT licensed, published on Github
 - [LIVE Demo](https://boilerplate-code-flask.appseed.us/) - Test login credentials ** *test / pass* **
 
-> **For more information** please access [Flask Starter Docs](/boilerplate-code/flask).
+> **For more information** please access [Flask Starter Docs](/boilerplate-code/flask/).
 
 <br />
 
-## [Flask Dashboard Boilerplate](/boilerplate-code/flask-dashboard)
+## [Flask Dashboard Boilerplate](/boilerplate-code/flask-dashboard/)
 ---
 
 > Template boilerplate code used by AppSeed to generate **admin dashboards** coded in Flask - features:
@@ -57,11 +57,11 @@ Starters used by the AppSeed platform as reference code-base to provide pre-buil
 - [Source Code](https://github.com/app-generator/boilerplate-code-flask-dashboard) - MIT licensed, published on Github
 - [LIVE Demo](https://boilerplate-code-flask-dashboard.appseed.us/) - Test login credentials ** *test / pass* **
 
-> **For more information** please access - [Flask Dashboard Starter Docs](/boilerplate-code/flask-dashboard).
+> **For more information** please access - [Flask Dashboard Starter Docs](/boilerplate-code/flask-dashboard/).
 
 <br />
 
-## [Django Starter](https://github.com/app-generator/boilerplate-code-django)
+## [Django Starter](/boilerplate-code/django/)
 ---
 
 > Template boilerplate code used by AppSeed to generate **simple web apps** coded in Django - features:
@@ -76,11 +76,11 @@ Starters used by the AppSeed platform as reference code-base to provide pre-buil
 - [Source Code](https://github.com/app-generator/boilerplate-code-django) - MIT licensed, published on Github
 - [LIVE Demo](https://boilerplate-code-django.appseed.us/) - Test login credentials ** *test / ApS12_ZZs8* **
 
-> **For more information** please access - [Django Starter Docs](https://github.com/app-generator/boilerplate-code-django).
+> **For more information** please access - [Django Starter Docs](/boilerplate-code/django/).
 
 <br />
 
-## [Django Dashboard Starter](https://github.com/app-generator/boilerplate-code-django-dashboard)
+## [Django Dashboard Starter](/boilerplate-code/django-dashboard/)
 ---
 
 > Template boilerplate code used by AppSeed to generate **admin dashboards** coded in Django - features:
@@ -95,7 +95,7 @@ Starters used by the AppSeed platform as reference code-base to provide pre-buil
 - [Source Code](https://github.com/app-generator/boilerplate-code-django-dashboard) - MIT licensed, published on Github
 - [LIVE Demo](https://boilerplate-code-django-dashboard.appseed.us/) - Test login credentials ** *test / ApS12_ZZs8* **
 
-> **For more information** please access - [Django Dashboard Starter Docs](https://github.com/app-generator/boilerplate-code-django-dashboard).
+> **For more information** please access - [Django Dashboard Starter Docs](/boilerplate-code/django-dashboard/).
 
 <br />
 

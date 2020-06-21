@@ -23,6 +23,8 @@ nav:
   - 'Flask Apps'           : 'apps/flask-apps/index.md'   
 
 - Boilerplate Code:  
-  - 'Boilerplate Code'               : 'boilerplate-code/index.md'   
+  - 'Index (all starters)'           : 'boilerplate-code/index.md'   
   - 'Flask Boilerplate'              : 'boilerplate-code/flask.md'   
   - 'Flask Dashboard Boilerplate'    : 'boilerplate-code/flask-dashboard.md'   
+  - 'Django Boilerplate'             : 'boilerplate-code/django.md'   
+  - 'Django Dashboard Boilerplate'   : 'boilerplate-code/django-dashboard.md'   

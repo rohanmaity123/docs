@@ -1,0 +1,5 @@
+- [Codebase](https://github.com/app-generator/boilerplate-code-django) version - **[v1.0.2](https://github.com/app-generator/boilerplate-code-django/releases/tag/v1.0.2)**
+- UI-Ready, [Jinja2](https://jinja.palletsprojects.com/) templating
+- [SQLite](https://www.sqlite.org/) database, Native Django ORM
+- Session-Based auth flow (login, register)
+- Deployment scripts: [Docker](https://www.docker.com/), [Gunicorn](https://gunicorn.org/) / [Nginx](https://www.nginx.com/)

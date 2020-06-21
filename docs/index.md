@@ -36,10 +36,10 @@ Using this visual generator, anyone can generate Full-Stack web apps coded in Re
 
 Pre-built boilerplate code prototyped in different patterns and programming languages.
 
-- [Flask Boilerplate](/boilerplate-code/flask) - SQLite, ORM, Authentication, Deployment (Docker, Gunicorn/Nginx)
-- [Flask Dashboard Boilerplate](/boilerplate-code/flask-dashboard) - Blueprints, SQLite/PostgreSql, ORM, Alembic (Migrations), Deploy Scripts
-- [Django Boilerplate](/https://github.com/app-generator/boilerplate-code-django) - SQLite Database, Native ORM, Authentication, Deployment scripts
-- [Django Dashboard Boilerplate](https://github.com/app-generator/boilerplate-code-django-dashboard) - SQLite Database, Native ORM, Authentication, Deployment scripts
+- [Flask Boilerplate](/boilerplate-code/flask/) - SQLite, ORM, Authentication, Deployment (Docker, Gunicorn/Nginx)
+- [Flask Dashboard Boilerplate](/boilerplate-code/flask-dashboard/) - Blueprints, SQLite/PostgreSql, ORM, Alembic (Migrations), Deploy Scripts
+- [Django Boilerplate](/boilerplate-code/django/) - SQLite Database, Native ORM, Authentication, Deployment scripts
+- [Django Dashboard Boilerplate](/boilerplate-code/django-dashboard/) - SQLite Database, Native ORM, Authentication, Deployment scripts
 
 <br />
 
