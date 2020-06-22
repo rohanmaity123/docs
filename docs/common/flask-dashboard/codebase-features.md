@@ -4,4 +4,4 @@
 - Dual DB configuration: [SQLite](https://www.sqlite.org/) / [PostgreSQL](https://www.postgresql.org/)
 - DB tools: [Flask-SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/) ORM, [Alembic](https://flask-alembic.readthedocs.io/) (db migrations)
 - Session-Based auth flow (login, register), Basic Form Validation
-- Deployment scripts: [Docker](https://www.docker.com/), [Gunicorn](https://gunicorn.org/) / [Nginx](https://www.nginx.com/)
+- Deployment scripts: [Docker](https://www.docker.com/), [Gunicorn](https://gunicorn.org/) / [Nginx](https://www.nginx.com/), Heroku
