@@ -10,7 +10,8 @@ Web App Generator - the official documentation.
 ## What is AppSeed
 ---
 
-AppSeed is a platform that uses automation tools to convert flat HTML into simple, unopinionated starters enhanced with basic modules and features.  
+AppSeed is a platform that uses automation tools to convert flat HTML into simple, unopinionated starters enhanced with basic modules and features. 
+All **staters are actively supported** via eMail < *support@appseed.us* >, Github issue tracker and **24/7 LIVE support** via [Discord](https://discord.gg/fZC6hup).
 
 > **Latest items**
 
