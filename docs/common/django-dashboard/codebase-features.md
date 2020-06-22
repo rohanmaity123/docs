@@ -2,4 +2,4 @@
 - UI-Ready, [Jinja2](https://jinja.palletsprojects.com/) templating
 - [SQLite](https://www.sqlite.org/) database, Native Django ORM
 - Session-Based auth flow (login, register)
-- Deployment scripts: [Docker](https://www.docker.com/), [Gunicorn](https://gunicorn.org/) / [Nginx](https://www.nginx.com/)
+- Deployment scripts: [Docker](https://www.docker.com/), [Gunicorn](https://gunicorn.org/) / [Nginx](https://www.nginx.com/), Heroku
