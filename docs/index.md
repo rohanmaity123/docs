@@ -12,6 +12,14 @@ Web App Generator - the official documentation.
 
 AppSeed is a platform that uses automation tools to convert flat HTML into simple, unopinionated starters enhanced with basic modules and features.  
 
+> **Latest items**
+
+- [How to deploy Flask on Heroku](/how-to/flask-deploy-on-heroku/)
+- [Understand Flask and code a simple app](/tutorials/flask-understand-flask-code-simple-app/)
+- [Flask Dashboard CoreUI](/admin-dashboards/flask-dashboard-coreui/) - the famous UI integrated in Flask
+- [Django Dashboard CoreUI](/admin-dashboards/flask-dashboard-coreui/) - the CoreUI coded in Django
+
+
 <br />
 
 ## What we provide
