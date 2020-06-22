@@ -12,6 +12,8 @@ Reference codebase used in all **[Flask Admin Dashboards](https://appseed.us/adm
 
 - [Source Code](https://github.com/app-generator/boilerplate-code-flask-dashboard) - `https://github.com/app-generator/boilerplate-code-flask-dashboard`
 - [LIVE Demo](https://boilerplate-code-flask-dashboard.appseed.us/) - Default login credentials ** *test / pass* **
+- [Product Page](https://appseed.us/boilerplate-code/flask-dashboard) - hosted by AppSeed
+- [How to deploy on Heroku](/how-to/flask-deploy-on-heroku/)
 
 <br />
 

@@ -12,6 +12,8 @@ Reference codebase used in all **[Django Admin Dashboards](https://appseed.us/ad
 
 - [Source Code](https://github.com/app-generator/boilerplate-code-django-dashboard) - `https://github.com/app-generator/boilerplate-code-django-dashboard`
 - [LIVE Demo](https://boilerplate-code-django-dashboard.appseed.us/) - Default login credentials ** *test / ApS12_ZZs8* **
+- [Product Page](https://appseed.us/boilerplate-code/django-dashboard) - hosted by AppSeed
+- [How to deploy on Heroku](/how-to/django-deploy-on-heroku/)
 
 <br />
 

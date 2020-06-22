@@ -15,6 +15,7 @@ All **staters are actively supported** via eMail < *support@appseed.us* >, Githu
 
 > **Latest items**
 
+- [How to deploy Django on Heroku](/how-to/django-deploy-on-heroku/)
 - [How to deploy Flask on Heroku](/how-to/flask-deploy-on-heroku/)
 - [Understand Flask and code a simple app](/tutorials/flask-understand-flask-code-simple-app/)
 - [Flask Dashboard CoreUI](/admin-dashboards/flask-dashboard-coreui/) - the famous UI integrated in Flask

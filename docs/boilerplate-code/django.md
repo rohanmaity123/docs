@@ -14,6 +14,8 @@ Reference codebase used in all **[Django](https://www.djangoproject.com/) Web Ap
 
 - [Source Code](https://github.com/app-generator/boilerplate-code-django) - `https://github.com/app-generator/boilerplate-code-django`
 - [LIVE Demo](https://boilerplate-code-django.appseed.us/) - Default login credentials ** *test / ApS12_ZZs8* **
+- [Product Page](https://appseed.us/boilerplate-code/django-boilerplate) - hosted by AppSeed
+- [How to deploy on Heroku](/how-to/django-deploy-on-heroku/)
 
 <br />
 
