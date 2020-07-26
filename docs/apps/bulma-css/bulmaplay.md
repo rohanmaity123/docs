@@ -31,7 +31,7 @@ $ cd bulmaplay
 $ yarn # install modules
 $ yarn start # start the app in development mode
 
-$ yarn buid # build for production
+$ yarn build # build for production
 ```
 
 If all goes well, you should see this [BulmaPlay](https://bulma-css-bulmaplay.appseed.us/) running in your preferred browser on port 8000. 
