@@ -33,6 +33,7 @@ Technical terms used by geeks, programmers, and hackers.
 - I terms
 - J terms
     - [JAMstack](./jamstack/)
+    - [Jinja](./jinja/)
 - K terms
 - L terms
 - M terms

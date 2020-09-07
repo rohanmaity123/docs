@@ -15,6 +15,7 @@ All **staters are actively supported** via eMail < *support@appseed.us* >, Githu
 
 > **Latest items**
 
+- [What is Jinja](/what-is/jinja/) - a short introduction to [Jinja Templates](/jinja-template/)
 - [What is Flask](/what-is/flask/) - a comprehensive introduction to **Flask**
 - [How to deploy Django on Heroku](/how-to/django-deploy-on-heroku/)
 - [How to deploy Flask on Heroku](/how-to/flask-deploy-on-heroku/)
@@ -74,6 +75,7 @@ Full-Stack Apps built in React, Vue.js, GatsbyJS bundled with Express, Flask and
 - [Static sites](/static-site/)
 - [JAMstack](/apps/jamstack/)
 - [Flask Apps](/apps/flask-apps/)
+- [Jinja Templates](/jinja-template/)
 
 <br />
 
