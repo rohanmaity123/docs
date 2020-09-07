@@ -161,7 +161,7 @@ With this minimal example in mind, we can extend this app with more features. A 
 
 ## [Flask](https://palletsprojects.com/p/flask/) App Sample
 
-[Flask Dashboard - IraDesign](https://appseed.us/apps/flask-apps/flask-illustrations-iradesign) is a simple, open-source Flask codebase coded with basic modules, database and deployment scripts for Docker, HEROKU and Gunicorn. 
+[Flask App - IraDesign](https://appseed.us/apps/flask-apps/flask-illustrations-iradesign) is a simple, open-source Flask codebase coded with basic modules, database and deployment scripts for Docker, HEROKU and Gunicorn. 
 
 **App Features**
 
