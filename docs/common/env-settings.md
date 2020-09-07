@@ -29,7 +29,7 @@ $ git version 2.10.1.windows.1 # <--- All good
 
 <br />
 
-For more information on how to set up your environment please access the resources listed below. In case we've missed something, contact us on Discord.
+For more information on how to set up your environment please access the resources listed below. In case we've missed something, contact us on [Discord](https://discord.gg/fZC6hup).
 
 - [How to set up Python](/how-to/install-python)
 - [Setup CentOS for development](/how-to/setup-centos-for-development/)
