@@ -1,4 +1,5 @@
 ## Codebase structure
+---
 
 The project has a simple structure, represented as bellow:
 

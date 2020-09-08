@@ -1,4 +1,5 @@
 ## Credits & Links
+---
 
 - [Jinja2](https://jinja.palletsprojects.com/)
 - [Jinja Template](https://github.com/app-generator/jinja-template) - A curated list with Jinja Templates
