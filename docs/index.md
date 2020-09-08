@@ -15,7 +15,13 @@ All **staters are actively supported** via eMail < *support@appseed.us* >, Githu
 
 > **Latest items**
 
-- [What is Jinja](/what-is/jinja/) - a short introduction to [Jinja Templates](/jinja-template/)
+- [What is Jinja](/what-is/jinja/) - a short introduction 
+- [Jinja Templates](/jinja-template/) - free & paid Jinja Templates
+    - [Jinja Template - Argon Dashboard](/jinja-template/jinja-template-argon-dashboard/)
+    - [Jinja Template - Black Dashboard](/jinja-template/jinja-template-black-dashboard/)    
+    - [Jinja Template - Material Dashboard](/jinja-template/jinja-template-material-dashboard/)    
+    - [Jinja Template - AdminLTE Dashboard](/jinja-template/jinja-template-adminlte-dashboard/)  
+    - [Jinja Template - SB Admin Dashboard](/jinja-template/jinja-template-sb-admin-dashboard/)  
 - [What is Flask](/what-is/flask/) - a comprehensive introduction to **Flask**
 - [How to deploy Django on Heroku](/how-to/django-deploy-on-heroku/)
 - [How to deploy Flask on Heroku](/how-to/flask-deploy-on-heroku/)
@@ -35,7 +41,6 @@ AppSeed is a service built for developers and we provide a simple [web app gener
 <br />
 
 ### [Web App Generator](/app-generator/)
-
 ---
 
 Using this visual generator, anyone can generate Full-Stack web apps coded in React, Vue with Flask, Laravel or Express in the backend.
