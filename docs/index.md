@@ -15,6 +15,8 @@ All **staters are actively supported** via eMail < *support@appseed.us* >, Githu
 
 > **Latest items**
 
+- [Django DattaAble PRO](/admin-dashboards/django-dashboard-dattaable-pro/) - commercial product 
+- [What is Flask](/what-is/flask/) - a short introduction (updated)
 - [What is Jinja](/what-is/jinja/) - a short introduction 
 - [Jinja Templates](/jinja-template/) - free & paid Jinja Templates
     - [Jinja Template - Argon Dashboard](/jinja-template/jinja-template-argon-dashboard/)
@@ -22,7 +24,6 @@ All **staters are actively supported** via eMail < *support@appseed.us* >, Githu
     - [Jinja Template - Material Dashboard](/jinja-template/jinja-template-material-dashboard/)    
     - [Jinja Template - AdminLTE Dashboard](/jinja-template/jinja-template-adminlte-dashboard/)  
     - [Jinja Template - SB Admin Dashboard](/jinja-template/jinja-template-sb-admin-dashboard/)  
-- [What is Flask](/what-is/flask/) - a comprehensive introduction to **Flask**
 - [How to deploy Django on Heroku](/how-to/django-deploy-on-heroku/)
 - [How to deploy Flask on Heroku](/how-to/flask-deploy-on-heroku/)
 - [Understand Flask and code a simple app](/tutorials/flask-understand-flask-code-simple-app/)
