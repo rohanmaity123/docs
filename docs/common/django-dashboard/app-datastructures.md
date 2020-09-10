@@ -11,7 +11,7 @@ Constructed by [AuthenticationMiddleware](https://docs.djangoproject.com/en/3.0/
 
 <br />
 
-> **Usage in contoler**
+> **Usage in controller**
 
 ```python
 # Sample File

@@ -8,6 +8,5 @@ Built by experienced developers, it takes care of much of the hassle of Web deve
 
 - [Django](https://www.djangoproject.com/) - the official website
 - [Django Documentation](https://docs.djangoproject.com/en/3.0/)
-- [What is Django](/what-is/django) - a comprehensive resource about **Django**
 
 <br />
