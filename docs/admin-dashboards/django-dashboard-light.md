@@ -2,7 +2,7 @@
 title: Django Dashboard - Light Bootstrap
 ---
 
-# [Django Dashboard - Light Bootstrap](https://github.com/app-generator/django-dashboard-light-bootstrap)
+# [Django Dashboard - Light Bootstrap](https://appseed.us/admin-dashboards/django-dashboard-light)
 
 Open-Source Admin Dashboard coded in Django Framework by AppSeed - Features:
 
@@ -10,6 +10,7 @@ Open-Source Admin Dashboard coded in Django Framework by AppSeed - Features:
 
 > **Links**
 
+- [Django Dashboard - Light Bootstrap](https://appseed.us/admin-dashboards/django-dashboard-light) - Product page
 - [Django Dashboard - Light Bootstrap Demo](https://django-dashboard-light-bootstrap.appseed.us/login/) - Default login credentials ** *test / ApS12_ZZs8* **
 - [Django Dashboard - Light Bootstrap Sources](https://github.com/app-generator/django-dashboard-light-bootstrap) - published on Github
 
