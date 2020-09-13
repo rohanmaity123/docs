@@ -15,6 +15,7 @@ All **staters are actively supported** via eMail < *support@appseed.us* >, Githu
 
 > **Latest items**
 
+- [Django Azia PRO](/admin-dashboards/django-dashboard-azia-pro/) - commercial product 
 - [Django DattaAble PRO](/admin-dashboards/django-dashboard-dattaable-pro/) - commercial product 
 - [What is Flask](/what-is/flask/) - a short introduction (updated)
 - [What is Jinja](/what-is/jinja/) - a short introduction 
