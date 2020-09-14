@@ -19,6 +19,7 @@ All **staters are actively supported** via eMail < *support@appseed.us* >, Githu
 - [Django DattaAble PRO](/admin-dashboards/django-dashboard-dattaable-pro/) - commercial product 
 - [What is Flask](/what-is/flask/) - a short introduction (updated)
 - [What is Jinja](/what-is/jinja/) - a short introduction 
+- [What is HEROKU](/what-is/heroku/) - a short introduction and a sample app 
 - [Jinja Templates](/jinja-template/) - free & paid Jinja Templates
     - [Jinja Template - Argon Dashboard](/jinja-template/jinja-template-argon-dashboard/)
     - [Jinja Template - Black Dashboard](/jinja-template/jinja-template-black-dashboard/)    

@@ -30,6 +30,7 @@ Technical terms used by geeks, programmers, and hackers.
 - G terms
     - [Gunicorn](./gunicorn/)
 - H terms
+    - [HEROKU](./heroku/)
 - I terms
 - J terms
     - [JAMstack](./jamstack/)
