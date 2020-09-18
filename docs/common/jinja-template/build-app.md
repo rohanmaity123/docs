@@ -45,4 +45,3 @@ $ # Access the app in browser: http://127.0.0.1:5000/
 At this point, we can visit the Jinja TStarter in the browser **`http://127.0.0.1:5000/`**.
 
 <br />
-
