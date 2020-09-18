@@ -4,7 +4,13 @@ title: Django Dashboard - Black Design
 
 # [Django Dashboard - Black Design](https://appseed.us/admin-dashboards/django-dashboard-black)
 
-Open-Source Admin Dashboard coded in Django Framework by AppSeed - Features:
+Admin dashboard coded in Django Framework with basic modules, database, ORM and deployment scripts.
+
+**Black Dashboard** Design
+
+{!ui-kit/black-dashboard.md!}
+
+**Codebase Features**
 
 {!django-dashboard/codebase-features.md!}
 
