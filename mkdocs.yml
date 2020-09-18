@@ -15,6 +15,7 @@ nav:
   - 'What Is'              : '/what-is/'   
   - 'How To'               : '/how-to/'   
   - 'Tutorials'            : '/tutorials/'   
+  - 'Bootstrap Templates'  : '/bootstrap-template/'   
 
 - Starters:  
   - 'Admin Dashboards'     : '/admin-dashboards/'   
