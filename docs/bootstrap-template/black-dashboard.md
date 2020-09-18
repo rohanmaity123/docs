@@ -9,17 +9,15 @@ Black Dashboard comes packed with all plugins that you might need inside a proje
 
 [Black Dashboard](https://appseed.us/black-dashboard) features over 16 individual components, giving you the freedom of choosing and combining. This means that there are thousands of possible combinations. All components can take variations in color, that you can easily modify using SASS files. You will save a lot of time going from prototyping to full-functional code because all elements are implemented.
 
+**Resources**
+
+- [Product Page](https://www.creative-tim.com/product/black-dashboard?AFFILIATE=128200) - hosted by Creative-Tim
+- [Product Demo](https://demos.creative-tim.com/black-dashboard/examples/dashboard.html?AFFILIATE=128200) - LIVE Deploy
+- [Product Docs](https://demos.creative-tim.com/black-dashboard/docs/1.0/getting-started/introduction.html?AFFILIATE=128200) - official design docs
+- [Product Sources](https://github.com/creativetimofficial/black-dashboard) - published on Github (MIT License)
+
+
 ![Black Dashboard - Open-source Bootstrap 4 Admin Dashboard, animated presentation.](https://raw.githubusercontent.com/admin-dashboards/free-dashboard-black/master/media/free-dashboard-black-intro.gif)
-
-<br />
-
-## Black Dashboard Resources
----
-
-- [Black Dashboard](https://www.creative-tim.com/product/black-dashboard?AFFILIATE=128200) - product page
-- [Black Dashboard Demo](https://demos.creative-tim.com/black-dashboard/examples/dashboard.html?AFFILIATE=128200)
-- [Black Dashboard Documentation](https://demos.creative-tim.com/black-dashboard/docs/1.0/getting-started/introduction.html?AFFILIATE=128200)
-- [Black Dashboard Sources](https://github.com/creativetimofficial/black-dashboard)
 
 <br />
 
@@ -32,7 +30,7 @@ Black Dashboard comes packed with all plugins that you might need inside a proje
 
 <br />
 
-## Black Dashboard UI Documentation
+## UI Documentation
 ---
 
 - [Introduction](https://demos.creative-tim.com/black-dashboard/docs/1.0/getting-started/introduction.html)
@@ -49,7 +47,7 @@ Black Dashboard comes packed with all plugins that you might need inside a proje
 
 <br />
 
-## Black Dashboard Screens
+## Product Screens
 ---
 
 <br />
