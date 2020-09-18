@@ -1,0 +1,4 @@
+- UI Kit: [Black Dashboard](https://appseed.us/black-dashboard) (Free Version) by [Creative-Tim](https://appseed.us/agency/creative-tim)
+- Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
+- [MIT License](https://github.com/app-generator/license-mit) - Unlimited hobby & commercial projects
+- Free support via **Github** and [Discord](https://discord.gg/fZC6hup).
