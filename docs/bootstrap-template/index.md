@@ -8,3 +8,4 @@ The official index with Bootstrap Templates used to generate the starters listed
 **Templates Index**
 
 - [Black Dashboard](./black-dashboard/) - Free Bootstrap4 admin template provided by Creative-Tim.
+- [Light Bootstrap Dashboard](./light-bootstrap-dashboard/) - Free Bootstrap4 admin template provided by Creative-Tim.
