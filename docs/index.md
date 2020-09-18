@@ -13,25 +13,18 @@ Web App Generator - the official documentation.
 AppSeed is a platform that uses automation tools to convert flat HTML into simple, unopinionated starters enhanced with basic modules and features. 
 All **staters are actively supported** via eMail < *support@appseed.us* >, Github issue tracker and **24/7 LIVE support** via [Discord](https://discord.gg/fZC6hup).
 
-> **Latest items**
+**Latest changes**
 
+- New section: [Bootstrap template](/bootstrap-template/) index with all UI Kits used by AppSeed
+    - [Black Dashboard](/bootstrap-template/black-dashboard/) - a free UI Kit provided by Creative-Tim
+    - [Light Bootstrap Dashboard](/bootstrap-template/light-bootstrap-dashboard/) - a free UI Kit provided by Creative-Tim
+- New Jinja Template: [Light Bootstrap Jinja](/jinja-template/jinja-template-light-bootstrap/)
+- Update [Jinja Template - Black Dashboard](/jinja-template/jinja-template-black-dashboard/)    
 - [Django Azia PRO](/admin-dashboards/django-dashboard-azia-pro/) - commercial product 
 - [Django DattaAble PRO](/admin-dashboards/django-dashboard-dattaable-pro/) - commercial product 
 - [What is Flask](/what-is/flask/) - a short introduction (updated)
 - [What is Jinja](/what-is/jinja/) - a short introduction 
 - [What is HEROKU](/what-is/heroku/) - a short introduction and a sample app 
-- [Jinja Templates](/jinja-template/) - free & paid Jinja Templates
-    - [Jinja Template - Argon Dashboard](/jinja-template/jinja-template-argon-dashboard/)
-    - [Jinja Template - Black Dashboard](/jinja-template/jinja-template-black-dashboard/)    
-    - [Jinja Template - Material Dashboard](/jinja-template/jinja-template-material-dashboard/)    
-    - [Jinja Template - AdminLTE Dashboard](/jinja-template/jinja-template-adminlte-dashboard/)  
-    - [Jinja Template - SB Admin Dashboard](/jinja-template/jinja-template-sb-admin-dashboard/)  
-- [How to deploy Django on Heroku](/how-to/django-deploy-on-heroku/)
-- [How to deploy Flask on Heroku](/how-to/flask-deploy-on-heroku/)
-- [Understand Flask and code a simple app](/tutorials/flask-understand-flask-code-simple-app/)
-- [Flask Dashboard CoreUI](/admin-dashboards/flask-dashboard-coreui/) - the famous UI integrated in Flask
-- [Django Dashboard CoreUI](/admin-dashboards/flask-dashboard-coreui/) - the CoreUI coded in Django
-
 
 <br />
 
