@@ -4,7 +4,13 @@ title: Django Dashboard - Light Bootstrap
 
 # [Django Dashboard - Light Bootstrap](https://appseed.us/admin-dashboards/django-dashboard-light)
 
-Open-Source Admin Dashboard coded in Django Framework by AppSeed - Features:
+Admin dashboard coded in Django Framework with basic modules, database, ORM and deployment scripts.
+
+**Light Bootstrap Dashboard** Design
+
+{!ui-kit/light-bootstrap-dashboard.md!}
+
+**Codebase Features**
 
 {!django-dashboard/codebase-features.md!}
 
