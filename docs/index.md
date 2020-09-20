@@ -16,6 +16,7 @@ All **staters are actively supported** via eMail < *support@appseed.us* >, Githu
 **Latest changes**
 
 - New section: [Bootstrap template](/bootstrap-template/) index with all UI Kits used by AppSeed
+    - [Pixel Lite](/bootstrap-template/pixel-lite/) - a free UI Kit provided by Themesberg
     - [Black Dashboard](/bootstrap-template/black-dashboard/) - a free UI Kit provided by Creative-Tim
     - [Light Bootstrap Dashboard](/bootstrap-template/light-bootstrap-dashboard/) - a free UI Kit provided by Creative-Tim
 - New Jinja Template: [Light Bootstrap Jinja](/jinja-template/jinja-template-light-bootstrap/)
