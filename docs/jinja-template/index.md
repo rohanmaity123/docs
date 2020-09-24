@@ -24,6 +24,8 @@ For those who have not been exposed to a templating language before, such langua
 ## [Jinja](https://jinja.palletsprojects.com/en/2.11.x/) Starters - The short-list
 ---
 
+**Dashboards** (Free & Paid)
+
 - [Jinja Template - Black Dashboard](./jinja-template-black-dashboard/)
 - [Jinja Template - Light Bootstrap](./jinja-template-light-bootstrap/)
 - [Jinja Template - Argon Dashboard](./jinja-template-argon-dashboard/)
@@ -33,3 +35,10 @@ For those who have not been exposed to a templating language before, such langua
 - [Jinja Template - CoreUI Dashboard](./jinja-template-coreui-dashboard/)
 - [Jinja Template - Star Admin Dashboard](./jinja-template-star-admin-dashboard/)
 - [Jinja Template - SB Admin Dashboard](./jinja-template-sb-admin-dashboard/)
+
+<br />
+
+**UI Kits** (Free & Paid)
+
+- [Jinja Template - Pixel Lite](./jinja-template-pixel-uikit/)
+- [Jinja Template - Pixel PRO](./jinja-pixel-uikit-pro/)
