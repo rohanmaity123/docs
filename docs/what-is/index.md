@@ -24,7 +24,9 @@ Technical terms used by geeks, programmers, and hackers.
 - C terms
     - [CentOS](./centos/)
 - D terms
+    - [Django](./django/)
 - E terms
+    - [Eleventy 11ty](./eleventy/)
 - F terms
     - [Flask](./flask/)
 - G terms

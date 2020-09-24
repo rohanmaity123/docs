@@ -15,6 +15,7 @@ All **staters are actively supported** via eMail < *support@appseed.us* >, Githu
 
 **Latest changes**
 
+- New page - [What is Django](/what-is/django)
 - New section: [Bootstrap template](/bootstrap-template/) index with all UI Kits used by AppSeed
     - [Pixel PRO](/bootstrap-template/pixel-pro/) - a PREMIUM BS 5 Kit provided by Themesberg
     - [Pixel Lite](/bootstrap-template/pixel-lite/) - a free UI Kit provided by Themesberg
