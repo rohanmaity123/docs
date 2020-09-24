@@ -1,5 +1,6 @@
-- [Codebase](https://github.com/app-generator/boilerplate-code-django) version - **[v1.0.2](https://github.com/app-generator/boilerplate-code-django/releases/tag/v1.0.2)**
-- UI-Ready, [Jinja2](https://jinja.palletsprojects.com/) templating
-- [SQLite](https://www.sqlite.org/) database, Native Django ORM
-- Session-Based auth flow (login, register)
-- Deployment scripts: [Docker](https://www.docker.com/), [Gunicorn](https://gunicorn.org/) / [Nginx](https://www.nginx.com/), Heroku
+- Reference Codebase - [Boilerplate Code - Django Dashboard](https://appseed.us/boilerplate-code/django-dashboard) 
+- UI-Ready app, SQLite Database, Django Native ORM
+- Modular design, best practices codebase
+- Session-Based Authentication, Forms validation
+- Deployment scripts: Docker, Gunicorn/Nginx
+- Support via Github (issues tracker) and [Discord](https://discord.gg/fZC6hup) - 24/7 LIVE Service.
