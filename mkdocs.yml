@@ -21,7 +21,8 @@ nav:
   - 'Admin Dashboards'     : '/admin-dashboards/'   
   - 'Static Sites'         : '/static-site/'   
   - 'JAMstack'             : '/apps/jamstack/'   
-  - 'Flask Apps'           : '/apps/flask-apps/'   
+  - 'Flask'                : '/apps/flask-apps/'   
+  - 'Django'               : '/django/'
   - 'Jinja Templates'      : '/jinja-template/'   
 
 - Boilerplate Code:  
