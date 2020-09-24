@@ -13,7 +13,10 @@ Web App Generator - the official documentation.
 AppSeed is a platform that uses automation tools to convert flat HTML into simple, unopinionated starters enhanced with basic modules and features. 
 All **staters are actively supported** via eMail < *support@appseed.us* >, Github issue tracker and **24/7 LIVE support** via [Discord](https://discord.gg/fZC6hup).
 
-**Latest changes**
+<br />
+
+### Latest changes
+---
 
 - New page - [What is Django](/what-is/django)
 - New section: [Bootstrap template](/bootstrap-template/) index with all UI Kits used by AppSeed
@@ -28,6 +31,25 @@ All **staters are actively supported** via eMail < *support@appseed.us* >, Githu
 - [What is Flask](/what-is/flask/) - a short introduction (updated)
 - [What is Jinja](/what-is/jinja/) - a short introduction 
 - [What is HEROKU](/what-is/heroku/) - a short introduction and a sample app 
+
+<br />
+
+### Latest Product - [Django Pixel PRO](/django/django-pixel-uikit-pro/)
+---
+
+Seed project coded in **[Django](/what-is/django/)** Framework with basic modules, database, ORM and deployment scripts on top of [Pixel PRO](/bootstrap-template/pixel-pro/) design.
+
+**Codebase Features**
+
+{!django/codebase-features.md!}
+
+> **Links**
+
+- [Django - Pixel PRO](https://appseed.us/django/django-pixel-uikit-pro) - the product page
+- [Django - Pixel PRO Demo](https://django-pixel-uikit-pro.appseed.us/login/) - Default login credentials ** *test / ApS12_ZZs8* **
+- [Django - Pixel PRO Docs](/django/django-pixel-uikit-pro/) - official product documentation
+
+![Django - Pixel PRO, simple seed project coded in Django Framework by AppSeed.](https://raw.githubusercontent.com/app-generator/django-pixel-uikit-pro/master/media/django-pixel-uikit-pro-intro.gif) 
 
 <br />
 
