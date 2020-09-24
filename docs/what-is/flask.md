@@ -70,7 +70,7 @@ If you still have issues set up your workstation for Python, feel free to join t
 
 ## Install [Flask](https://palletsprojects.com/p/flask/)
 
-To install Flask, we can use `PIP` to install it:
+To install Flask, we can use `PIP`, the official Python package manager:
 
 ```bash
 $ pip install Flask
