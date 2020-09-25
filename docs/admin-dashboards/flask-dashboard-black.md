@@ -6,11 +6,10 @@ title: Flask Dashboard - Black Design
 
 Admin dashboard coded in Flask Framework with basic modules, database, ORM and deployment scripts.
 
-**Black Dashboard** Design
+<br />
 
-{!ui-kit/black-dashboard.md!}
-
-**Codebase Features**
+### Flask Dashboard Features
+---
 
 {!flask-dashboard/codebase-features.md!}
 
@@ -19,6 +18,13 @@ Admin dashboard coded in Flask Framework with basic modules, database, ORM and d
 - [Flask Dashboard - Black](https://appseed.us/admin-dashboards/flask-dashboard-black) - the product page
 - [Flask Dashboard - Black Demo](https://flask-dashboard-black.appseed.us/) - Default login credentials ** *test / pass* **
 - [Flask Dashboard - Black Sources](https://github.com/app-generator/flask-black-dashboard) - published on Github
+
+<br />
+
+### [Black Dashboard](/bootstrap-template/black-dashboard/) Design
+---
+
+{!ui-kit/black-dashboard.md!}
 
 ![Flask Dashboard - Black Design, admin dashboard starter coded in Flask Framework by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-black-dashboard/master/media/flask-black-dashboard-screen.png) 
 
