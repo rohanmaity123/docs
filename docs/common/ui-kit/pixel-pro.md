@@ -15,3 +15,5 @@ Pixel is compliant with the latest UI design accessibility standards and passes 
 
 - [Pixel PRO](https://themesberg.com/docs/pixel-bootstrap/getting-started/quick-start/) - the official documentation
 - [Pixel PRO](/bootstrap-template/pixel-pro/) - more information provided by AppSeed
+
+<br />
