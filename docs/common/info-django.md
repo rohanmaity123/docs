@@ -1,4 +1,4 @@
-## What is [Django](https://www.djangoproject.com/)
+## [What is Django](/what-is/django/)
 ---
 
 [Django](https://www.djangoproject.com/) is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. 
