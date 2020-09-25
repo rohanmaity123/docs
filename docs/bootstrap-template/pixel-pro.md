@@ -37,7 +37,7 @@ Pixel is compliant with the latest UI design accessibility standards and passes 
 ---
 
 - [Pixel PRO - Flask](https://appseed.us/apps/flask-apps/flask-pixel-uikit-pro)
-- [Pixel PRO - Django](https://appseed.us/django/django-pixel-uikit-pro)
+- [Pixel PRO - Django](/django/django-pixel-uikit-pro)
 - [Pixel PRO - Jinja Template](https://appseed.us/jinja-template/jinja-pixel-uikit-pro)
 
 <br />
