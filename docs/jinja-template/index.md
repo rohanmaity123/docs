@@ -26,6 +26,7 @@ For those who have not been exposed to a templating language before, such langua
 
 **Dashboards** (Free & Paid)
 
+- [Jinja Template - Material PRO Wpx](./jinja-template-material-dashboard-wpx-pro/)
 - [Jinja Template - Black Dashboard](./jinja-template-black-dashboard/)
 - [Jinja Template - Light Bootstrap](./jinja-template-light-bootstrap/)
 - [Jinja Template - Argon Dashboard](./jinja-template-argon-dashboard/)
