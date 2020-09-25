@@ -48,9 +48,13 @@ The product represents a big suite of front-end developer tools that can help yo
 
 ![Light Bootstrap Dashboard - Main Dashboard screen.](https://raw.githubusercontent.com/admin-dashboards/free-dashboard-light-bootstrap/master/media/free-dashboard-light-bootstrap-screen.png)
 
+<br />
+
 **Light Bootstrap Dashboard - User Profile page**
 
 ![Light Bootstrap Dashboard - User Profile page.](https://raw.githubusercontent.com/admin-dashboards/free-dashboard-light-bootstrap/master/media/free-dashboard-light-bootstrap-screen-user.png)
+
+<br />
 
 **Light Bootstrap Dashboard - UI Modal Alert**
 
