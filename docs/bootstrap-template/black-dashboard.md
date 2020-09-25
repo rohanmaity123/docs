@@ -14,8 +14,6 @@ Black Dashboard comes packed with all plugins that you might need inside a proje
 - [Product Page](https://www.creative-tim.com/product/black-dashboard?AFFILIATE=128200) - hosted by Creative-Tim
 - [Product Demo](https://demos.creative-tim.com/black-dashboard/examples/dashboard.html?AFFILIATE=128200) - LIVE Deploy
 - [Product Docs](https://demos.creative-tim.com/black-dashboard/docs/1.0/getting-started/introduction.html?AFFILIATE=128200) - official design docs
-- [Product Sources](https://github.com/creativetimofficial/black-dashboard) - published on Github (MIT License)
-
 
 ![Black Dashboard - Open-source Bootstrap 4 Admin Dashboard, animated presentation.](https://raw.githubusercontent.com/admin-dashboards/free-dashboard-black/master/media/free-dashboard-black-intro.gif)
 
@@ -56,9 +54,13 @@ Black Dashboard comes packed with all plugins that you might need inside a proje
 
 ![Black Dashboard - Main Dashboard screen.](https://raw.githubusercontent.com/admin-dashboards/free-dashboard-black/master/media/free-dashboard-black-screen.png)
 
+<br />
+
 **Black Dashboard - Google Maps**
 
 ![Black Dashboard - Google Maps screen.](https://raw.githubusercontent.com/admin-dashboards/free-dashboard-black/master/media/free-dashboard-black-screen-maps.png)
+
+<br />
 
 **Black Dashboard - RTL Support**
 
