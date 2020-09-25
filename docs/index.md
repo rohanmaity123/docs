@@ -18,6 +18,10 @@ All **staters are actively supported** via eMail < *support@appseed.us* >, Githu
 ### Latest changes
 ---
 
+- New [Bootstrap template](/bootstrap-template/) - [MaterialPro Bootstrap Admin](/bootstrap-template/material-pro-wpx/). This commercial design is used by:
+    - [Material PRO Wpx - Flask](/admin-dashboards/flask-material-dashboard-wpx-pro/), commercial product
+    - [Material PRO Wpx - Django](/admin-dashboards/django-material-dashboard-wpx-pro/), commercial product
+    - [Material PRO Wpx - Jinja](/jinja-template/jinja-template-material-dashboard-wpx-pro/), commercial product
 - New page - [What is Django](/what-is/django)
 - New section: [Bootstrap template](/bootstrap-template/) index with all UI Kits used by AppSeed
     - [Pixel PRO](/bootstrap-template/pixel-pro/) - a PREMIUM BS 5 Kit provided by Themesberg
@@ -25,9 +29,6 @@ All **staters are actively supported** via eMail < *support@appseed.us* >, Githu
     - [Black Dashboard](/bootstrap-template/black-dashboard/) - a free UI Kit provided by Creative-Tim
     - [Light Bootstrap Dashboard](/bootstrap-template/light-bootstrap-dashboard/) - a free UI Kit provided by Creative-Tim
 - New Jinja Template: [Light Bootstrap Jinja](/jinja-template/jinja-template-light-bootstrap/)
-- Update [Jinja Template - Black Dashboard](/jinja-template/jinja-template-black-dashboard/)    
-- [Django Azia PRO](/admin-dashboards/django-dashboard-azia-pro/) - commercial product 
-- [Django DattaAble PRO](/admin-dashboards/django-dashboard-dattaable-pro/) - commercial product 
 - [What is Flask](/what-is/flask/) - a short introduction (updated)
 - [What is Jinja](/what-is/jinja/) - a short introduction 
 - [What is HEROKU](/what-is/heroku/) - a short introduction and a sample app 
