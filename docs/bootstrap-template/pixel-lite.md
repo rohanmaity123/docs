@@ -32,7 +32,7 @@ Pixel is compliant with the latest UI design accessibility standards and passes 
 ---
 
 - [Pixel Lite - Flask](https://github.com/app-generator/flask-pixel-bootstrap-uikit)
-- [Pixel Lite - Django](https://github.com/app-generator/django-pixel-bootstrap-uikit)
+- [Pixel Lite - Django](/django/django-pixel-bootstrap-uikit/)
 - [Pixel Lite - Jinja Template](https://github.com/app-generator/jinja-template-pixel-uikit)
 
 <br />
