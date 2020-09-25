@@ -23,7 +23,6 @@ Pixel is compliant with the latest UI design accessibility standards and passes 
 - [Pixel Lite](https://themesberg.com/product/ui-kit/pixel-lite-free-bootstrap-4-ui-kit) - hosted by Themesberg
 - [Product Demo](https://demo.themesberg.com/pixel-lite/) - LIVE Deploy
 - [Product Docs](https://themesberg.com/docs/pixel-bootstrap/getting-started/overview/) - official design docs
-- [Product Sources](https://github.com/themesberg/pixel-bootstrap-ui-kit) - published on Github (MIT License)
 
 ![Pixel Lite - Open-source Bootstrap 4 Admin Dashboard.](https://raw.githubusercontent.com/admin-dashboards/bootstrap-template-pixel-lite/master/media/bootstrap-template-pixel-lite-screen.png)
 
