@@ -10,3 +10,5 @@ Pixel is compliant with the latest UI design accessibility standards and passes 
 
 - [Pixel Lite](https://themesberg.com/docs/pixel-bootstrap/getting-started/overview/) - the official documentation
 - [Pixel Lite](/bootstrap-template/pixel-lite/) - more information provided by AppSeed
+
+<br />
