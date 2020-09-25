@@ -8,8 +8,6 @@
 
 {!flask-dashboard/app-bootstrap-flow.md!}
 
-{!flask-dashboard/codebase-features.md!}
-
 {!flask-dashboard/app-config.md!}
 
 {!flask-dashboard/app-models.md!}
