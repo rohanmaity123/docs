@@ -11,13 +11,17 @@ Web App Generator - the official documentation.
 ---
 
 AppSeed is a platform that uses automation tools to convert flat HTML into simple, unopinionated starters enhanced with basic modules and features. 
-All **staters are actively supported** via eMail < *support@appseed.us* >, Github issue tracker and **24/7 LIVE support** via [Discord](https://discord.gg/fZC6hup).
+All **staters are actively supported** via eMail < *support@appseed.us* >, Github (issues tracker) and **24/7 LIVE support** via [Discord](https://discord.gg/fZC6hup).
 
 <br />
 
 ### Latest changes
 ---
 
+- New [Bootstrap template](/bootstrap-template/) - [Volt Dashboard](/bootstrap-template/volt-dashboard/), free design used by:
+    - [Volt Dashboard - Jinja Template](/jinja-template/jinja-template-volt-dashboard/)
+    - [Volt Dashboard - Flask](/admin-dashboards/flask-dashboard-volt/)
+    - [Volt Dashboard - Django](/admin-dashboards/django-dashboard-volt/)
 - New [Bootstrap template](/bootstrap-template/) - [MaterialPro Bootstrap Admin](/bootstrap-template/material-pro-wpx/). This commercial design is used by:
     - [Material PRO Wpx - Flask](/admin-dashboards/flask-material-dashboard-wpx-pro/), commercial product
     - [Material PRO Wpx - Django](/admin-dashboards/django-material-dashboard-wpx-pro/), commercial product
@@ -35,22 +39,22 @@ All **staters are actively supported** via eMail < *support@appseed.us* >, Githu
 
 <br />
 
-### Latest Product - [Django Pixel PRO](/django/django-pixel-uikit-pro/)
+### Latest Product - [Volt Dashboard - Django](/admin-dashboards/django-dashboard-volt/)
 ---
 
-Seed project coded in **[Django](/what-is/django/)** Framework with basic modules, database, ORM and deployment scripts on top of [Pixel PRO](/bootstrap-template/pixel-pro/) design.
+Seed project coded in **[Django](/what-is/django/)** Framework with basic modules, database, ORM and deployment scripts on top of [Volt Dashboard](/bootstrap-template/volt-dashboard/) design.
 
 **Codebase Features**
 
-{!django/codebase-features.md!}
+{!django-dashboard/codebase-features.md!}
 
 > **Links**
 
-- [Django - Pixel PRO](https://appseed.us/django/django-pixel-uikit-pro) - the product page
-- [Django - Pixel PRO Demo](https://django-pixel-uikit-pro.appseed.us/login/) - Default login credentials ** *test / ApS12_ZZs8* **
-- [Django - Pixel PRO Docs](/django/django-pixel-uikit-pro/) - official product documentation
+- [Django - Volt Dashboard](https://appseed.us/admin-dashboards/django-dashboard-volt) - the product page
+- [Django - Volt Dashboard Demo](https://django-dashboard-volt.appseed.us/) - Default login credentials ** *test / ApS12_ZZs8* **
+- [Django - Volt Dashboard Docs](/admin-dashboards/django-dashboard-volt/) - official product documentation
 
-![Django - Pixel PRO, simple seed project coded in Django Framework by AppSeed.](https://raw.githubusercontent.com/app-generator/django-pixel-uikit-pro/master/media/django-pixel-uikit-pro-intro.gif) 
+![Django - Volt Dashboard, simple seed project coded in Django Framework by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-volt/master/media/django-dashboard-volt-intro.gif) 
 
 <br />
 
