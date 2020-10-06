@@ -2,7 +2,7 @@
 title: Django Dashboard - Dashkit PRO
 ---
 
-# [Django Dashboard - Dashkit PRO](https://appseed.us/admin-dashboards/django-dashboard-dashkit-pro)
+# [Django Dashboard](http://appseed.us/admin-dashboards/django) - [Dashkit PRO](https://appseed.us/admin-dashboards/django-dashboard-dashkit-pro)
 
 Commercial Admin Dashboard coded in Django Framework by AppSeed - Features:
 

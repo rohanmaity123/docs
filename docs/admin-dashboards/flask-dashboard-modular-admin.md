@@ -1,6 +1,6 @@
 title: Flask Dashboard Modular Admin
 
-# [Flask Dashboard Modular Admin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin)
+# [Flask Dashboard](http://appseed.us/admin-dashboards/flask) - [Modular Admin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin)
 
 **Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** on top of **Modular Admin Dashboard** design (free version) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 

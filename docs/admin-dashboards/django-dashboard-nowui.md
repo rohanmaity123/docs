@@ -2,7 +2,7 @@
 title: Django Dashboard - NowUI
 ---
 
-# [Django Dashboard - NowUI](https://appseed.us/admin-dashboards/django-dashboard-nowui)
+# [Django Dashboard](http://appseed.us/admin-dashboards/django) - [Now UI](https://appseed.us/admin-dashboards/django-dashboard-nowui)
 
 Open-Source Admin Dashboard coded in Django Framework by AppSeed - Features:
 

@@ -2,7 +2,7 @@
 title: Django Dashboard - NowUI PRO
 ---
 
-# [Django Dashboard - NowUI PRO](https://appseed.us/admin-dashboards/django-dashboard-nowui-pro)
+# [Django Dashboard](http://appseed.us/admin-dashboards/django) - [Now UI PRO](https://appseed.us/admin-dashboards/django-dashboard-nowui-pro)
 
 Commercial Admin Dashboard coded in Django Framework by AppSeed - Features:
 

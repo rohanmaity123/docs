@@ -2,7 +2,7 @@
 title: Django Dashboard - Material Design
 ---
 
-# [Django Dashboard - Material Design](https://appseed.us/admin-dashboards/django-dashboard-material)
+# [Django Dashboard](http://appseed.us/admin-dashboards/django) - [Material Design](https://appseed.us/admin-dashboards/django-dashboard-material)
 
 Admin dashboard coded in Django Framework with basic modules, database, ORM and deployment scripts.
 

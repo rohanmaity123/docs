@@ -2,7 +2,7 @@
 title: Flask Dashboard - Light Bootstrap
 ---
 
-# [Flask Dashboard - Light Bootstrap](https://appseed.us/admin-dashboards/flask-dashboard-light-bootstrap)
+# [Flask Dashboard](http://appseed.us/admin-dashboards/flask) - [Light Bootstrap](https://appseed.us/admin-dashboards/flask-dashboard-light-bootstrap)
 
 Admin dashboard coded in Flask Framework with basic modules, database, ORM and deployment scripts.
 

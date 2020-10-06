@@ -2,7 +2,7 @@
 title: Django Dashboard - Light Blue
 ---
 
-# [Django Dashboard - Light Blue](https://appseed.us/admin-dashboards/django-dashboard-light-blue)
+# [Django Dashboard](http://appseed.us/admin-dashboards/django) - [Light Blue](https://appseed.us/admin-dashboards/django-dashboard-light-blue)
 
 Open-Source Admin Dashboard coded in Django Framework by AppSeed - Features:
 

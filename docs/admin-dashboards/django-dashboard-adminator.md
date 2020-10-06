@@ -2,7 +2,7 @@
 title: Django Dashboard - Adminator Design
 ---
 
-# [Django Dashboard - Adminator Design](https://appseed.us/admin-dashboards/django-dashboard-adminator)
+# [Django Dashboard](http://appseed.us/admin-dashboards/django) - [Adminator](https://appseed.us/admin-dashboards/django-dashboard-adminator)
 
 Open-Source Admin Dashboard coded in Django Framework by AppSeed - Features:
 

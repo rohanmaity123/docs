@@ -1,6 +1,6 @@
 title: Flask Atlantis Dark PRO
 
-# [Flask Atlantis Dark PRO](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark-pro)
+# [Flask Dashboard](http://appseed.us/admin-dashboards/flask) - [Atlantis Dark PRO](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark-pro)
 
 **Commercial** Admin Dashboard coded in [Flask Framework](https://palletsprojects.com/p/flask/) on top of [Atlantis Dark Dashboard](https://themekita.com/atlantis-bootstrap-dashboard.html) design (PRO Version) provided by ThemeKita Agency.
 

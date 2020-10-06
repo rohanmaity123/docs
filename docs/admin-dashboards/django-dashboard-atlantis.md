@@ -2,7 +2,7 @@
 title: Django Dashboard - Atlantis Design
 ---
 
-# [Django Dashboard - Atlantis Design](https://appseed.us/admin-dashboards/django-dashboard-atlantis)
+# [Django Dashboard](http://appseed.us/admin-dashboards/django) - [Atlantis Lite](https://appseed.us/admin-dashboards/django-dashboard-atlantis)
 
 Open-Source Admin Dashboard coded in Django Framework by AppSeed - Features:
 

@@ -2,7 +2,7 @@
 title: Flask Dashboard - Argon Design
 ---
 
-# [Flask Dashboard - Argon Design](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon)
+# [Flask Dashboard](http://appseed.us/admin-dashboards/flask) - [Argon Design](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon)
 
 Admin dashboard coded in Flask Framework with basic modules, database, ORM and deployment scripts.
 

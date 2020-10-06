@@ -2,7 +2,7 @@
 title: Django Dashboard - Shards Design
 ---
 
-# [Django Dashboard - Shards Design](https://appseed.us/admin-dashboards/django-dashboard-shards)
+# [Django Dashboard](http://appseed.us/admin-dashboards/django) - [Shards Design](https://appseed.us/admin-dashboards/django-dashboard-shards)
 
 Open-Source Admin Dashboard coded in Django Framework by AppSeed - Features:
 

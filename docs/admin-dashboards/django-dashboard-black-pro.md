@@ -2,7 +2,7 @@
 title: Django Dashboard - Black PRO Design
 ---
 
-# [Django Dashboard - Black PRO Design](https://appseed.us/admin-dashboards/django-dashboard-black-pro)
+# [Django Dashboard](http://appseed.us/admin-dashboards/django) - [Black PRO Design](https://appseed.us/admin-dashboards/django-dashboard-black-pro)
 
 Commercial Admin Dashboard coded in Django Framework by AppSeed - Features:
 

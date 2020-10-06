@@ -2,7 +2,7 @@
 title: Flask Dashboard - Material PRO Wpx
 ---
 
-# [Flask Dashboard - Material PRO Wpx](https://appseed.us/admin-dashboards/flask-material-dashboard-wpx-pro)
+# [Flask Dashboard](http://appseed.us/admin-dashboards/flask) - [Material PRO Wpx](https://appseed.us/admin-dashboards/flask-material-dashboard-wpx-pro)
 
 Admin dashboard coded in Flask Framework with basic modules, database, ORM and deployment scripts.
 

@@ -2,7 +2,7 @@
 title: Django Dashboard - Material PRO Wpx
 ---
 
-# [Django Dashboard - Material PRO Wpx](https://appseed.us/admin-dashboards/django-material-dashboard-wpx-pro)
+# [Django Dashboard](http://appseed.us/admin-dashboards/django) - [Material PRO Wpx](https://appseed.us/admin-dashboards/django-material-dashboard-wpx-pro)
 
 Admin dashboard coded in Django Framework with basic modules, database, ORM and deployment scripts.
 

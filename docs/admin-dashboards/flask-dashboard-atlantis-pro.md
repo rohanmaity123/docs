@@ -1,6 +1,6 @@
 title: Flask Atlantis PRO
 
-# [Flask Atlantis PRO](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-pro)
+# [Flask Dashboard](http://appseed.us/admin-dashboards/flask) - [Atlantis Lite PRO](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-pro)
 
 **Commercial** Admin Dashboard coded in [Flask Framework](https://palletsprojects.com/p/flask/) on top of [Atlantis Dashboard](https://themekita.com/atlantis-bootstrap-dashboard.html) design (PRO Version) provided by ThemeKita Agency.
 

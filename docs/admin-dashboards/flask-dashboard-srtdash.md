@@ -1,6 +1,6 @@
 title: Flask Dashboard SRTDash
 
-# [Flask Dashboard SRTDash](https://appseed.us/admin-dashboards/flask-dashboard-srtdash)
+# [Flask Dashboard](http://appseed.us/admin-dashboards/flask) - [SRTDash](https://appseed.us/admin-dashboards/flask-dashboard-srtdash)
 
 **Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** on top of **Black Dashboard** design (free version) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 

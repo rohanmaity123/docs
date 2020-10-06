@@ -1,6 +1,6 @@
 title: Flask Dashboard Datta Able
 
-# [Flask Dashboard Datta Able](https://appseed.us/admin-dashboards/flask-dashboard-dattaable)
+# [Flask Dashboard](http://appseed.us/admin-dashboards/flask) - [Datta Able](https://appseed.us/admin-dashboards/flask-dashboard-dattaable)
 
 **Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** on top of **Datta Able Dashboard** design (free version) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 

@@ -2,7 +2,7 @@
 title: Django Dashboard - CoreUI Design
 ---
 
-# [Django Dashboard - CoreUI Design](https://appseed.us/admin-dashboards/django-dashboard-coreui)
+# [Django Dashboard](http://appseed.us/admin-dashboards/django) - [CoreUI](https://appseed.us/admin-dashboards/django-dashboard-coreui)
 
 Open-Source Admin Dashboard coded in Django Framework by AppSeed - Features:
 

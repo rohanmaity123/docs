@@ -2,7 +2,7 @@
 title: Django Dashboard - DattaAble PRO
 ---
 
-# [Django Dashboard - DattaAble PRO](https://appseed.us/admin-dashboards/django-dashboard-dattaable-pro)
+# [Django Dashboard](http://appseed.us/admin-dashboards/django) - [Datta Able PRO](https://appseed.us/admin-dashboards/django-dashboard-dattaable-pro)
 
 Commercial Admin Dashboard coded in Django Framework by AppSeed - Features:
 

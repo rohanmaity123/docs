@@ -1,6 +1,6 @@
 title: Flask Dashboard Atlantis Dark
 
-# [Flask Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark)
+# [Flask Dashboard](http://appseed.us/admin-dashboards/flask) - [Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark)
 
 **Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** on top of **Atlantis Dark Dashboard** design (free version) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 

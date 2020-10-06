@@ -1,6 +1,6 @@
 title: Flask Dashboard Now UI
 
-# [Flask Dashboard Now UI](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design)
+# [Flask Dashboard](http://appseed.us/admin-dashboards/flask) - [Now UI](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design)
 
 **Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** on top of **NowUI Dashboard** design (free version) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 

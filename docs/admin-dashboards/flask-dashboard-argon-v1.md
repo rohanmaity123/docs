@@ -1,6 +1,6 @@
 title: Flask Dashboard Argon
 
-# [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-dashboard-argon)
+# [Flask Dashboard](http://appseed.us/admin-dashboards/flask) - [Argon](https://appseed.us/admin-dashboards/flask-dashboard-argon)
 
 **Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** on top of **Argon Dashboard** design (free version) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 

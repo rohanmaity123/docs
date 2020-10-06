@@ -2,7 +2,7 @@
 title: Django Dashboard - Light PRO
 ---
 
-# [Django Dashboard - Light PRO](https://appseed.us/admin-dashboards/django-dashboard-light-pro)
+# [Django Dashboard](http://appseed.us/admin-dashboards/django) - [Light PRO](https://appseed.us/admin-dashboards/django-dashboard-light-pro)
 
 Commercial Admin Dashboard coded in Django Framework by AppSeed - Features:
 

@@ -1,6 +1,6 @@
 title: Flask Dashboard Star Admin
 
-# [Flask Dashboard Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin)
+# [Flask Dashboard](http://appseed.us/admin-dashboards/flask) - [Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin)
 
 **Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** on top of **Star Admin Dashboard** design (free version) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 

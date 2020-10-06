@@ -2,7 +2,7 @@
 title: Django Dashboard - Material PRO
 ---
 
-# [Django Dashboard - Material PRO](https://appseed.us/admin-dashboards/django-dashboard-material-pro)
+# [Django Dashboard](http://appseed.us/admin-dashboards/django) - [Material PRO](https://appseed.us/admin-dashboards/django-dashboard-material-pro)
 
 Open-Source Admin Dashboard coded in Django Framework by AppSeed - Features:
 

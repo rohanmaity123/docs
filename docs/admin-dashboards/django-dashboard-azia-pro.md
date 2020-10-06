@@ -2,7 +2,7 @@
 title: Django Dashboard - Azia PRO
 ---
 
-# [Django Dashboard - Azia PRO](https://appseed.us/admin-dashboards/django-dashboard-azia-pro)
+# [Django Dashboard](http://appseed.us/admin-dashboards/django) - [Azia PRO](https://appseed.us/admin-dashboards/django-dashboard-azia-pro)
 ---
 
 Azia PRO is a PREMIUM Bootstrap 4 admin & dashboard template featuring components that are built to fit perfectly with each other. It offers a clean interface that can be easily adapted to fit your vision and branding. Azia features many essential utilities classes that can help cut down CSS bloat and modify CSS components instantly.

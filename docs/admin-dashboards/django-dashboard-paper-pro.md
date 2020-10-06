@@ -2,7 +2,7 @@
 title: Django Dashboard - Paper PRO
 ---
 
-# [Django Dashboard - Paper PRO](https://appseed.us/admin-dashboards/django-dashboard-paper-pro)
+# [Django Dashboard](http://appseed.us/admin-dashboards/django) - [Paper PRO](https://appseed.us/admin-dashboards/django-dashboard-paper-pro)
 
 Commercial Admin Dashboard coded in Django Framework by AppSeed - Features:
 

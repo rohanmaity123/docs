@@ -2,7 +2,7 @@
 title: Flask Dashboard - Material Design
 ---
 
-# [Flask Dashboard - Material Design](https://appseed.us/admin-dashboards/flask-dashboard-material-design)
+# [Flask Dashboard](http://appseed.us/admin-dashboards/flask) - [Material Design](https://appseed.us/admin-dashboards/flask-dashboard-material-design)
 
 Admin dashboard coded in Flask Framework with basic modules, database, ORM and deployment scripts.
 

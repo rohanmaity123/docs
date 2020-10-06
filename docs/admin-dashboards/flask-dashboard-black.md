@@ -2,7 +2,7 @@
 title: Flask Dashboard - Black Design
 ---
 
-# [Flask Dashboard - Black Design](https://appseed.us/admin-dashboards/flask-dashboard-black)
+# [Flask Dashboard](http://appseed.us/admin-dashboards/flask) - [Black Design](https://appseed.us/admin-dashboards/flask-dashboard-black)
 
 Admin dashboard coded in Flask Framework with basic modules, database, ORM and deployment scripts.
 

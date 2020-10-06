@@ -1,6 +1,6 @@
 title: Flask Dashboard CoreUI
 
-# [Flask Dashboard CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui)
+# [Flask Dashboard](http://appseed.us/admin-dashboards/flask) - [CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui)
 
 **Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** on top of **CoreUI Dashboard** design (free version) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 

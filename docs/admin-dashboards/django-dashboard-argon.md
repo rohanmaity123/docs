@@ -2,7 +2,7 @@
 title: Django Dashboard - Argon Design
 ---
 
-# [Django Dashboard - Argon Design](https://appseed.us/admin-dashboards/django-dashboard-argon)
+# [Django Dashboard](http://appseed.us/admin-dashboards/django) - [Argon Design](https://appseed.us/admin-dashboards/django-dashboard-argon)
 
 Admin dashboard coded in Django Framework with basic modules, database, ORM and deployment scripts.
 

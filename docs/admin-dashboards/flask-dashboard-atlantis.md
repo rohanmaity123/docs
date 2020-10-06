@@ -1,6 +1,6 @@
 title: Flask Dashboard Atlantis
 
-# [Flask Dashboard Atlantis](https://appseed.us/admin-dashboards/flask-dashboard-atlantis)
+# [Flask Dashboard](http://appseed.us/admin-dashboards/flask) - [Atlantis Lite](https://appseed.us/admin-dashboards/flask-dashboard-atlantis)
 
 **Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** on top of **Atlantis Dashboard** design (free version) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 

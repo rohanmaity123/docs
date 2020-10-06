@@ -1,6 +1,6 @@
 title: Flask Dashboard Light Blue
 
-# [Flask Dashboard Light Blue](https://appseed.us/admin-dashboards/flask-dashboard-light-blue)
+# [Flask Dashboard](http://appseed.us/admin-dashboards/flask) - [Light Blue](https://appseed.us/admin-dashboards/flask-dashboard-light-blue)
 
 **Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** on top of **Light Blue Dashboard** design (free version) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 

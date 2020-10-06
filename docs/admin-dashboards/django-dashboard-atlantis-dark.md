@@ -2,7 +2,7 @@
 title: Django Dashboard - Atlantis Dark
 ---
 
-# [Django Dashboard - Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark)
+# [Django Dashboard](http://appseed.us/admin-dashboards/django) - [Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark)
 
 Open-Source Admin Dashboard coded in Django Framework by AppSeed - Features:
 

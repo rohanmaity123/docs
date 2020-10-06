@@ -1,6 +1,6 @@
 title: Django Dashboard Tabler
 
-# [Django Dashboard Tabler](https://appseed.us/admin-dashboards/django-dashboard-tabler)
+# [Django Dashboard](http://appseed.us/admin-dashboards/django) - [Tabler](https://appseed.us/admin-dashboards/django-dashboard-tabler)
 
 **Open-Source Admin Dashboard** coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Tabler Dashboard** design (free version) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 

@@ -2,7 +2,7 @@
 title: Django Dashboard - Argon PRO
 ---
 
-# [Django Dashboard - Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro)
+# [Django Dashboard](http://appseed.us/admin-dashboards/django) - [Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro)
 
 Commercial Admin Dashboard coded in Django Framework by AppSeed - Features:
 

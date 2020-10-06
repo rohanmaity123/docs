@@ -1,6 +1,6 @@
 title: Flask Dashboard Purple Admin
 
-# [Flask Dashboard Purple Admin](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin)
+# [Flask Dashboard](http://appseed.us/admin-dashboards/flask) - [Purple Admin](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin)
 
 **Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** on top of **Purple Admin Dashboard** design (free version) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 

@@ -1,6 +1,6 @@
 title: Flask Dashboard AdminLTE
 
-# [Flask Dashboard AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte)
+# [Flask Dashboard](http://appseed.us/admin-dashboards/flask) - [AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte)
 
 **Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** on top of **AdminLTE Dashboard** design (free version) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 

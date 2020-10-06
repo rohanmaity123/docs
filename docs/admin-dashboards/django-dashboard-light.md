@@ -2,7 +2,7 @@
 title: Django Dashboard - Light Bootstrap
 ---
 
-# [Django Dashboard - Light Bootstrap](https://appseed.us/admin-dashboards/django-dashboard-light)
+# [Django Dashboard](http://appseed.us/admin-dashboards/django) - [Light Bootstrap](https://appseed.us/admin-dashboards/django-dashboard-light)
 
 Admin dashboard coded in Django Framework with basic modules, database, ORM and deployment scripts.
 

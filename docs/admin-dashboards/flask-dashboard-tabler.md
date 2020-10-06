@@ -1,6 +1,6 @@
 title: Flask Dashboard Tabler
 
-# [Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler)
+# [Flask Dashboard](http://appseed.us/admin-dashboards/flask) - [Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler)
 
 **Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** on top of **Tabler Dashboard** design (free version) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 
