@@ -29,12 +29,14 @@ With Bootstrap, web developers can concentrate on the development work, without 
 
 ### Free Bootstrap Templates
 
+- [Volt Dashboard](./volt-dashboard/) - Free Bootstrap4 admin template provided by [Themesberg](https://appseed.us/agency/themesberg).
 - [Argon Dashboard](./argon-dashboard/) - Free Bootstrap4 admin template provided by Creative-Tim.
 - [Material Dashboard](./material-dashboard/) - Free Bootstrap4 admin template provided by Creative-Tim.
 - [Black Dashboard](./black-dashboard/) - Free Bootstrap4 admin template provided by Creative-Tim.
 - [Light Bootstrap Dashboard](./light-bootstrap-dashboard/) - Free Bootstrap4 admin template provided by Creative-Tim.
 - [Pixel Lite](./pixel-lite/) - Open source Bootstrap 4 UI Kit
 - [Tabler](./tabler/) - Open-source Bootstrap 4 UI Kit
+- [Atlantis Lite](./atlantis-lite/) - Open-source Bootstrap template provided by ThemeKita. 
 
 <br />
 
