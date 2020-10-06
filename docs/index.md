@@ -18,6 +18,7 @@ All **staters are actively supported** via eMail < *support@appseed.us* >, Githu
 ### Latest changes
 ---
 
+- New [Bootstrap template](/bootstrap-template/) - [Volt Dashboard PRO](/bootstrap-template/volt-dashboard-pro/)
 - New [Bootstrap template](/bootstrap-template/) - [Volt Dashboard](/bootstrap-template/volt-dashboard/), free design used by:
     - [Volt Dashboard - Jinja Template](/jinja-template/jinja-template-volt-dashboard/)
     - [Volt Dashboard - Flask](/admin-dashboards/flask-dashboard-volt/)
