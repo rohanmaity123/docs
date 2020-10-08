@@ -18,6 +18,7 @@ All **staters are actively supported** via eMail < *support@appseed.us* >, Githu
 ### Latest changes
 ---
 
+- [What is Svelte](/what-is/svelte-js/) - a short introduction 
 - New [Bootstrap template](/bootstrap-template/) - [Volt Dashboard PRO](/bootstrap-template/volt-dashboard-pro/) - used by:
     - [Volt Dashboard PRO - Jinja Template](/jinja-template/jinja-template-volt-pro/)
 - New [Bootstrap template](/bootstrap-template/) - [Volt Dashboard](/bootstrap-template/volt-dashboard/), free design used by:

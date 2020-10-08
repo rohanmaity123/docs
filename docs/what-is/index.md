@@ -49,6 +49,7 @@ Technical terms used by geeks, programmers, and hackers.
     - [Panini SSG](./panini/)
 - R terms
 - S terms
+    - [Svelte JS](./svelte-js/)
     - [Static Site](./static-site/)
     - [Single Tier Architecture](./single-tier-architecture)
 - T terms
