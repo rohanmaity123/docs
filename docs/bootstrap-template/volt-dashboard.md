@@ -4,7 +4,7 @@ title: Volt Dashboard
 # Volt Dashboard
 ---
 
-Volt is a free and open source **Bootstrap 5** powered admin dashboard with components, pages and plugins that you can use to create an awesome admin interfaces. It also comes with a PRO Version with more pages, plugins and components.
+Volt is a free and open-source **Bootstrap 5** powered admin dashboard with components, pages and plugins that you can use to create an awesome admin interfaces. It also comes with a PRO Version with more pages, plugins and components.
 
 This product is built using the following widely used technologies:
 
