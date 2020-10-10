@@ -1,12 +1,15 @@
 title: What is JAMstack 
 
-# JAMstack
+# What is JAMstack
+---
+
 Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup
 
 <br />
 
-## What is the JAMstack
+## JAMstack - Short Introduction
 ---
+
 Apps built in Jamstack architecture met the following criteria:
  - **JavaScript**, any dynamic programming during the request/response cycle is handled by JavaScript, running entirely on the client
  - **APIs**, all server-side processes or database actions are abstracted into reusable APIs, accessed over HTTPS with JavaScript
@@ -16,6 +19,7 @@ Apps built in Jamstack architecture met the following criteria:
 
 ## Why using a JAMstack app? 
 ---
+
 The major advantages met by the JAMstack pattern are: 
  - Apps are much faster because there is no more dynamic build of the pages
  - Security - a static app with less API endpoints reduce allot the risk of being hacked
@@ -25,6 +29,7 @@ The major advantages met by the JAMstack pattern are:
 
 ## Sample JAMstack App
 ---
+
 For instance, let's build a sample JAMstack app by getting the source code from [Github](https://github.com/search?q=jamstack+fractal).
 Let's pick up the first result, open the [README](https://github.com/app-generator/jamstack-fractal/blob/master/README.md) file and follow the intructions provided:
 
@@ -45,6 +50,7 @@ As we can see, building an app in JAMstack architecture is quite an easy job.
 
 ## Related Resources
 ---
+
  - [JAMstack](https://jamstack.org/) - the website 
  - [WTF is JAMstack](https://jamstack.wtf/) - an well known resource fpr JAMstack developers 
  - A Curated List of [Apps coded in JAMstack](https://blog.appseed.us/what-is-jamstack/)

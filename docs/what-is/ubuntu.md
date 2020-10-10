@@ -1,7 +1,6 @@
 title: What is Ubuntu
 
-# What is [CentOS](https://ubuntu.com/)
-
+# What is [Ubuntu](https://ubuntu.com/)
 ---
 
 Ubuntu is a free and open-source Linux distribution based on Debian. Ubuntu is officially released in three editions: Desktop, Server, and Core for the internet of things devices and robots. All the editions can run on the computer alone, or in a virtual machine.

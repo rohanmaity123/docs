@@ -1,6 +1,6 @@
 title: What is Nginx
 
-# [Nginx](https://www.nginx.com/)
+# What is [Nginx](https://www.nginx.com/)
 ---
 
 Nginx (pronounced "engine X", /ˌɛndʒɪnˈɛks/ EN-jin-EKS) (stylized as NGINX or nginx or NginX) is a web server which can also be used as a reverse proxy, load balancer, mail proxy and HTTP cache. Nginx is free and open-source software, released under the terms of a BSD-like license.

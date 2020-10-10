@@ -1,13 +1,15 @@
-title: What is an App Generator
+title: What is App Generator (AppSeed)
 
-# App Generator
+# What is [App Generator](https://appseed.us/app-generator)
+---
 
-Software or system that generates application programs based on specific input parameters
+Software or system that generates application programs based on specific input parameters.
 
 <br />
 
-## What is an App Generator
+## General Information
 ---
+
 By using an app generator, a developer can build automatically a big part of a future product using basic input specifications.  
 
 <br />

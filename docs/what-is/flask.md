@@ -3,6 +3,7 @@ title: What is Flask
 ---
 
 # What is [Flask](https://palletsprojects.com/p/flask/)
+---
 
 **Flask** is a lightweight [WSGI](/what-is/wsgi/) web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications.
 Classified as a microframework, Flask is written in Python and it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.
@@ -12,6 +13,7 @@ Compared to his older brother [Django](https://www.djangoproject.com/), Flask pr
 <br />
 
 ## Set up PC for [Flask](https://palletsprojects.com/p/flask/)
+---
 
 Being a Python framework, Flask requires Python to run and expose his magic. Flask is compatible with Python2, Python3 (the recommended version).
 
@@ -27,6 +29,7 @@ To get started working with Python3, you’ll need to have access to the Python 
 <br />
 
 ### Install Python on Windows
+---
 
 To install Python on our windows workstation, a few simple steps should be followed:
 
@@ -38,6 +41,7 @@ To install Python on our windows workstation, a few simple steps should be follo
 <br />
 
 ### Install Python on Linux
+---
 
 There is a very good chance your Linux distribution has Python installed already, but it probably won’t be the latest version, and it may be Python 2 instead of Python3. To check the installed versions, just type:
 
@@ -49,6 +53,7 @@ $ python3 --version
 <br />
 
 ### Install on CentOS
+---
 
 To install, you should first update your system with the `yum` package manager:
 
@@ -69,6 +74,7 @@ If you still have issues set up your workstation for Python, feel free to join t
 <br />
 
 ## Install [Flask](https://palletsprojects.com/p/flask/)
+---
 
 To install Flask, we can use `PIP`, the official Python package manager:
 
@@ -87,6 +93,7 @@ During Flask installation, other modules will be installed under-the-hood:
 <br />
 
 ## [Flask](https://palletsprojects.com/p/flask/) - A minimal Application
+---
 
 To code a super simple app with Flask we need to create a new file `hello.py` and write a few lines of code:
 
@@ -141,6 +148,7 @@ With this minimal example in mind, we can extend this app with more features. A 
 <br />
 
 ## [Flask](https://palletsprojects.com/p/flask/) Dashboard Sample
+---
 
 [Flask Dashboard - Black](https://appseed.us/admin-dashboards/flask-dashboard-black) is a simple, open-source Flask starter coded with basic modules, database and deployment scripts for Docker, HEROKU and Gunicorn. 
 
@@ -162,6 +170,7 @@ With this minimal example in mind, we can extend this app with more features. A 
 <br />
 
 ## [Flask](https://palletsprojects.com/p/flask/) App Sample
+---
 
 [Flask App - IraDesign](https://appseed.us/apps/flask-apps/flask-illustrations-iradesign) is a simple, open-source Flask codebase coded with basic modules, database and deployment scripts for Docker, HEROKU and Gunicorn. 
 
@@ -183,6 +192,7 @@ With this minimal example in mind, we can extend this app with more features. A 
 <br />
 
 ## [Flask](https://palletsprojects.com/p/flask/) - Resources & Support
+---
 
 - [Flask](https://palletsprojects.com/p/flask/) - the official page
 - For assistance, feel free to join [AppSeed](https://appseed.us/) platform

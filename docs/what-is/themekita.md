@@ -1,6 +1,6 @@
 title: ThemeKita Agency
 
-# What is [ThemeKita](https://www.themekita.com/)
+# [ThemeKita](https://www.themekita.com/)
 ---
 
 ThemKita is a small web agency that provides Premium and Free Bootstrap themes, Wordpress themes, Html templates, and Ui Kits.

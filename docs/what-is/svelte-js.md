@@ -1,6 +1,6 @@
-title: Svelte JS
+title: What is Svelte
 
-# What is [Svelte JS](https://svelte.dev/)
+# What is [Svelte](https://svelte.dev/)
 ---
 
 This is a short introduction to [Svelte](https://svelte.dev/) a JS Framework that provides a new approach to code user interfaces. Whereas traditional frameworks like React and Vue do the bulk of their work in the browser, Svelte shifts that work into a compile step that happens when you build your app.
@@ -52,9 +52,7 @@ $ npm run dev
 ## Svelte Starter - [Notus Admin Template](https://www.creative-tim.com/product/notus-svelte?AFFILIATE=128200)
 ---
 
-Notus Admin Template is an open-source product provided by Creative-Tim on top of Svelte and Tailwind CSS. 
-Notus Svelte is Free and Open Source. It features multiple HTML and Svelte elements and it comes with dynamic components for Svelte.
-It is based on Tailwind Starter Kit by Creative Tim, and it is build with both presentation pages, and pages for an admin dashboard.
+Notus Admin Template is an open-source product provided by Creative-Tim on top of Svelte and Tailwind CSS. It features multiple HTML and Svelte elements and it comes with dynamic components for Svelte. It is based on Tailwind Starter Kit by Creative Tim, and it is build with both presentation pages, and pages for an admin dashboard.
 
 - [Svelte Admin Template - Notus](https://www.creative-tim.com/product/notus-svelte?AFFILIATE=128200) - product page
 - [Svelte Admin Template - Notus Demo](https://demos.creative-tim.com/notus-svelte/?AFFILIATE=128200)

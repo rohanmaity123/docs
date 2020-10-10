@@ -1,6 +1,7 @@
 title: What is uWSGI
 
 # [uWSGI](https://uwsgi-docs.readthedocs.io/en/latest/)
+---
 
 The uWSGI project aims at developing a full stack for building hosting services. Application servers (for various programming languages and protocols), proxies, process managers and monitors are all implemented using a common api and a common configuration style.
 
@@ -9,7 +10,6 @@ Thanks to its pluggable architecture it can be extended to support more platform
 <br />
 
 ## uWSGI Components
-
 ---
 
 - The Core (implements configuration, processes management, sockets creation, monitoring, logging, shared memory areas, ipc, cluster membership)
@@ -19,7 +19,6 @@ Thanks to its pluggable architecture it can be extended to support more platform
 <br />
 
 ## Quickstart for Python
-
 ---
 
 This quickstart will show you how to deploy simple WSGI applications and common web frameworks. In order to start using uWSGI we need the `build-essential python-dev` tooling.
@@ -39,7 +38,6 @@ $ yum install build-essential python-dev
 <br />
 
 ## Install uWSGI
-
 ---
 
 > Before installing uWSGI module, make sure the workstation has the Python development installed.
@@ -77,6 +75,7 @@ $ curl http://uwsgi.it/install | bash -s default /tmp/uwsgi
 <br />
 
 ## Simple uWSGI application
+---
 
 Let’s start with a simple “Hello World” example:
 
@@ -112,7 +111,6 @@ By visiting port `9090` in the browser, we should see `Hello World` message serv
 <br />
 
 ## Resources
-
 ---
 
 - [uWSGI](https://uwsgi-docs.readthedocs.io/en/latest/) - the official website

@@ -1,6 +1,7 @@
 title: What is HEROKU
 
-# [HEROKU](https://gunicorn.org/)
+# What is [HEROKU](https://gunicorn.org/)
+---
 
 HEROKU is a popular Platform-as-a-Service provider (PaaS) which makes it easy for developers to deploy apps in different technologies and frameworks using a short learning curve. The platform support all major languages like Python, Ruby, Java, PHP, and popular frameworks: Flask, Django, Express.
 
@@ -9,7 +10,6 @@ To use effectively HEROKU we need to install the CLI, the command line interface
 <br />
 
 ## How to start
-
 ---
 
 - Create a FREE account on [HEROKU](https://signup.heroku.com/) platform
@@ -42,6 +42,7 @@ $ # The sample output returned by HEROKU CLI on a Windows PC
 <br />
 
 ## HEROKU Sample Deployment
+---
 
 We can see HEROKU in action by using two samples FREE apps provided by AppSeed - [Flask Black Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-black). This popular **Flask** starter is provided with all assets required by HEROKU to be deployed in seconds. The relevant files: 
 
@@ -141,6 +142,7 @@ At this point, the sample app should be visible in the browser.
 <br />
 
 ## HEROKU troubleshooting
+---
 
 - First, make sure HEROKU CLI is accessible in the terminal. To check this type `heroku -v` in the terminal.
 - Make sure the commands are typed inside source code directory
@@ -149,6 +151,7 @@ At this point, the sample app should be visible in the browser.
 <br />
 
 ## HEROKU-ready apps
+---
 
 Starters provided by AppSeed are deployment-ready by default for many popular platforms - Docker, HEROKU and Gunicorn/Nginx.
 

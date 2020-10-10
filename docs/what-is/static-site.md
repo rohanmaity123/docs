@@ -1,7 +1,6 @@
 title: What is a Static Site
 
 # What is a [Static Site](https://appseed.us/static-site)
-
 ---
 
 A static website contains Web pages with fixed content. Each page is coded in HTML and displays the same information to every visitor.  
@@ -10,7 +9,6 @@ The term "static" does not mean that your site has no dynamic capabilities. It s
 <br />
 
 ## How to build a Static Site
-
 ---
 
 A static site is usually generated from a variety of sources like: Headless CMS, Markdown files, Text files storedon the filesystem. There are manu static site genarators capable to build, manage and generate static content. We will mention only a few on this page:
@@ -22,7 +20,6 @@ A static site is usually generated from a variety of sources like: Headless CMS,
 <br />
 
 ## Static Site Samples
-
 ---
 
 - [Static Site Eleventy Ethereal](https://appseed.us/static-site/eleventy-html5up-ethereal) - Static Site prototyped in Eleventy SSG
@@ -36,7 +33,6 @@ A static site is usually generated from a variety of sources like: Headless CMS,
 <br />
 
 ## Resources
-
 ---
 
 - [Static Website](https://techterms.com/definition/staticwebsite) - the definiton provided by TechTerms.com

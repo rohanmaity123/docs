@@ -1,6 +1,7 @@
 title: What is WSGI
 
 # [WSGI](https://wsgi.readthedocs.io/en/latest/)
+---
 
 WSGI is the Web Server Gateway Interface. It is a specification that describes how a web server communicates with web applications, and how web applications can be chained together to process one request. WSGI is a Python standard described in detail in [PEP 3333](https://www.python.org/dev/peps/pep-3333/).
 
@@ -14,7 +15,6 @@ Python 2.5 and later comes with a WSGI server which will be used in this tutoria
 <br />
 
 ## WSGI Frameworks
-
 ---
 
 A short-list with web frameworks with native WSGI support:
@@ -27,6 +27,7 @@ A short-list with web frameworks with native WSGI support:
 <br />
 
 ## Links & Resources
+---
 
 - [WSGI](https://wsgi.readthedocs.io/en/latest/)
 - [An introduction to WSGI](http://ivory.idyll.org/articles/wsgi-intro/what-is-wsgi.html) by Titus Brown
