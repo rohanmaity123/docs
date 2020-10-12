@@ -17,8 +17,11 @@ All **staters are actively supported** via eMail < *support@appseed.us* >, Githu
 
 ### Latest changes
 ---
-
-- New [Bootstrap template](/bootstrap-template/) - [Volt Dashboard PRO](/bootstrap-template/volt-dashboard-pro/) - used by:
+- [What is Eleventy (11ty)](/what-is/eleventy/) - a short introduction (updated)
+- New [Bootstrap Template](/bootstrap-template/) - [Azia Dashboard PRO](/bootstrap-template/azia-dashboard-pro/) - used by:
+    - [Volt Dashboard PRO - Flask](/admin-dashboards/flask-dashboard-azia-pro/)
+    - [Volt Dashboard PRO - Django](/admin-dashboards/django-dashboard-azia-pro/)
+- New [Bootstrap Template](/bootstrap-template/) - [Volt Dashboard PRO](/bootstrap-template/volt-dashboard-pro/) - used by:
     - [Volt Dashboard PRO - Jinja Template](/jinja-template/jinja-template-volt-pro/)
     - [Volt Dashboard PRO - Flask](/admin-dashboards/flask-dashboard-volt-pro/)
 - New [Bootstrap Template](/bootstrap-template/) - [Argon Dashboard PRO](/bootstrap-template/argon-dashboard-pro/), premium design used by:
