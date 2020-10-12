@@ -27,16 +27,27 @@ With Bootstrap, web developers can concentrate on the development work, without 
 
 <br />
 
-## Latest Template - [Argon Dashboard PRO](./argon-dashboard-pro/)
+## Latest Template - [Azia Dashboard PRO](./azia-dashboard-pro/)
 ---
 
-{!ui-kit/argon-dashboard-pro.md!}
+{!ui-kit/azia-dashboard-pro.md!}
 
-![Argon Dashboard PRO - Premium Bootstrap 4 Admin Template, the dashboard page.](https://raw.githubusercontent.com/admin-dashboards/argon-dashboard-pro/main/media/argon-dashboard-pro-screen.png)
+![Azia Dashboard - Main Dashboard Screen.](https://raw.githubusercontent.com/admin-dashboards/azia-dashboard-pro/main/media/azia-dashboard-pro-screen.png)
+
+<br />
+
+### Premium Bootstrap Templates
+---
+
+- [Azia Dashboard PRO](./azia-dashboard-pro/) - Premium Bootstrap 4 Admin Template (BootstrapDash)
+- [Argon Dashboard PRO](./argon-dashboard-pro/) - Premium Bootstrap 4 Admin Template (Creative-Tim)
+- [Pixel PRO](./pixel-pro/) - Premium Bootstrap template (Themesberg)
+- [Material PRO Wpx](./material-pro-wpx/) - Premium admin dashboard (WrapPixel)
 
 <br />
 
 ### Free Bootstrap Templates
+---
 
 - [Volt Dashboard](./volt-dashboard/) - Free Bootstrap4 admin template provided by [Themesberg](https://appseed.us/agency/themesberg).
 - [Argon Dashboard](./argon-dashboard/) - Free Bootstrap4 admin template provided by Creative-Tim.
@@ -49,9 +60,5 @@ With Bootstrap, web developers can concentrate on the development work, without 
 
 <br />
 
-### Premium Bootstrap Templates
-
-- [Argon Dashboard PRO](./argon-dashboard-pro/) - Premium Bootstrap 4 Admin Template
-- [Pixel PRO](./pixel-pro/) - Premium Bootstrap template
-- [Material PRO Wpx](./material-pro-wpx/) - Premium admin dashboard crafted by WrapPixel
-
+---
+[Bootstrap](https://getbootstrap.com/) Templates - used by AppSeed to generate `development-ready` starters
