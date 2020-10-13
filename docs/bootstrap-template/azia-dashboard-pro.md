@@ -13,7 +13,7 @@ You will save a lot of time going from prototyping to full-functional code, beca
 
 **Tooling**
 
-Build on top of Bootstrap 4, the open source CSS framework that ensure fast prototyping. SASS, a Preprocessor that outputs well formated standard CSS, SASS is extremely usefull for fast coding.
+Build on top of Bootstrap 4, the open-source CSS framework that ensure fast prototyping. SASS, a Preprocessor that outputs well formated standard CSS, SASS is extremely useful for fast coding.
 
 <br />
 
