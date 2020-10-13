@@ -50,6 +50,7 @@ With Bootstrap, web developers can concentrate on the development work, without 
 ### Free Bootstrap Templates
 ---
 
+- [Datta Able](./datta-able/) - Free Bootstrap4 admin template provided by CodedThemes.
 - [Volt Dashboard](./volt-dashboard/) - Free Bootstrap4 admin template provided by [Themesberg](https://appseed.us/agency/themesberg).
 - [Argon Dashboard](./argon-dashboard/) - Free Bootstrap4 admin template provided by Creative-Tim.
 - [Material Dashboard](./material-dashboard/) - Free Bootstrap4 admin template provided by Creative-Tim.
