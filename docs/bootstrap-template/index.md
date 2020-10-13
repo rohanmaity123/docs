@@ -39,6 +39,7 @@ With Bootstrap, web developers can concentrate on the development work, without 
 ### Premium Bootstrap Templates
 ---
 
+- [Black Dashboard PRO](./black-dashboard-pro/) - Premium Bootstrap 4 Admin Template (Creative-Tim)
 - [Azia Dashboard PRO](./azia-dashboard-pro/) - Premium Bootstrap 4 Admin Template (BootstrapDash)
 - [Argon Dashboard PRO](./argon-dashboard-pro/) - Premium Bootstrap 4 Admin Template (Creative-Tim)
 - [Pixel PRO](./pixel-pro/) - Premium Bootstrap template (Themesberg)
