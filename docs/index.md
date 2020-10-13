@@ -17,13 +17,21 @@ All **staters are actively supported** via eMail < *support@appseed.us* >, Githu
 
 ### Latest changes
 ---
+
 - [What is Eleventy (11ty)](/what-is/eleventy/) - a short introduction (updated)
+- [What is Svelte](/what-is/svelte-js/) - a short introduction 
+- [What is Flask](/what-is/flask/) - a short introduction (updated)
+- [What is Jinja](/what-is/jinja/) - a short introduction 
+- [What is HEROKU](/what-is/heroku/) - a short introduction and a sample app 
+- New [Bootstrap template](/bootstrap-template/) - [Datta Able](/bootstrap-template/datta-able/), free design used by:
+    - [Datta Able - Flask](/admin-dashboards/flask-dashboard-dattaable/)
+    - [Datta Able - Django](/admin-dashboards/django-dashboard-dattaable/)
 - New [Bootstrap Template](/bootstrap-template/) - [Black Dashboard PRO](/bootstrap-template/black-dashboard-pro/) - used by:
     - [Black Dashboard PRO - Flask](/admin-dashboards/flask-dashboard-black-pro/)
     - [Black Dashboard PRO - Django](/admin-dashboards/django-dashboard-black-pro/)
 - New [Bootstrap Template](/bootstrap-template/) - [Azia Dashboard PRO](/bootstrap-template/azia-dashboard-pro/) - used by:
-    - [Volt Dashboard PRO - Flask](/admin-dashboards/flask-dashboard-azia-pro/)
-    - [Volt Dashboard PRO - Django](/admin-dashboards/django-dashboard-azia-pro/)
+    - [Azia Dashboard PRO - Flask](/admin-dashboards/flask-dashboard-azia-pro/)
+    - [Azia Dashboard PRO - Django](/admin-dashboards/django-dashboard-azia-pro/)
 - New [Bootstrap Template](/bootstrap-template/) - [Volt Dashboard PRO](/bootstrap-template/volt-dashboard-pro/) - used by:
     - [Volt Dashboard PRO - Jinja Template](/jinja-template/jinja-template-volt-pro/)
     - [Volt Dashboard PRO - Flask](/admin-dashboards/flask-dashboard-volt-pro/)
@@ -31,16 +39,12 @@ All **staters are actively supported** via eMail < *support@appseed.us* >, Githu
     - [Argon Dashboard PRO - Jinja Template](/jinja-template/jinja-template-argon-pro/)
     - [Argon Dashboard PRO - Flask](/admin-dashboards/flask-dashboard-argon-pro/)
     - [Argon Dashboard PRO - Django](/admin-dashboards/django-dashboard-argon-pro/)
-- [What is Svelte](/what-is/svelte-js/) - a short introduction 
 - New [Bootstrap template](/bootstrap-template/) - [Volt Dashboard](/bootstrap-template/volt-dashboard/), free design used by:
     - [Volt Dashboard - Jinja Template](/jinja-template/jinja-template-volt-dashboard/)
     - [Volt Dashboard - Flask](/admin-dashboards/flask-dashboard-volt/)
     - [Volt Dashboard - Django](/admin-dashboards/django-dashboard-volt/)
 - New page - [What is Django](/what-is/django)
 - New Jinja Template: [Light Bootstrap Jinja](/jinja-template/jinja-template-light-bootstrap/)
-- [What is Flask](/what-is/flask/) - a short introduction (updated)
-- [What is Jinja](/what-is/jinja/) - a short introduction 
-- [What is HEROKU](/what-is/heroku/) - a short introduction and a sample app 
 
 <br />
 
