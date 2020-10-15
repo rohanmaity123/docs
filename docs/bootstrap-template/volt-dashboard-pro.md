@@ -30,9 +30,9 @@ This product is built using the following widely used technologies:
 ## User by starters
 ---
 
-- Volt Dashboard PRO - Jinja - @WIP
-- Volt Dashboard PRO - Flask - @WIP
-- Volt Dashboard PRO - Django - @WIP
+- [Volt Dashboard PRO - Django](/admin-dashboards/django-dashboard-volt-pro/) - Admin Dashboard starter coded in Django
+- [Volt Dashboard PRO - Flask](/admin-dashboards/flask-dashboard-volt-pro/) - Admin Dashboard starter coded in Flask
+- [Volt Dashboard PRO - Jinja](/jinja-template/jinja-template-volt-pro/) - Provided as a simple Jinja/Flask seed project
 
 <br />
 
