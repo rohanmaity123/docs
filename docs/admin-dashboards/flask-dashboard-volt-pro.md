@@ -1,4 +1,4 @@
-title: Flask Dashboard - Argon Dashboard PRO
+title: Flask Dashboard - Volt Dashboard PRO
 ---
 
 # [Flask Dashboard](http://appseed.us/admin-dashboards/flask) - Volt Dashboard PRO
