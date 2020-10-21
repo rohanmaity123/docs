@@ -27,18 +27,19 @@ With Bootstrap, web developers can concentrate on the development work, without 
 
 <br />
 
-## Latest Template - [Azia Dashboard PRO](./azia-dashboard-pro/)
+## Latest Template - [Datta Able PRO](./datta-able-pro/)
 ---
 
-{!ui-kit/azia-dashboard-pro.md!}
+{!ui-kit/datta-able-pro.md!}
 
-![Azia Dashboard - Main Dashboard Screen.](https://raw.githubusercontent.com/admin-dashboards/azia-dashboard-pro/main/media/azia-dashboard-pro-screen.png)
+![Datta Able PRO - Free Bootstrap Template, main product screen.](https://raw.githubusercontent.com/admin-dashboards/bootstrap-template-datta-able-pro/main/media/bootstrap-template-datta-able-pro-intro.gif)
 
 <br />
 
 ### Premium Bootstrap Templates
 ---
 
+- [Datta Able PRO](./datta-able-pro/) - Premium Bootstrap 4 Admin Template (CodedThemes)
 - [Black Dashboard PRO](./black-dashboard-pro/) - Premium Bootstrap 4 Admin Template (Creative-Tim)
 - [Azia Dashboard PRO](./azia-dashboard-pro/) - Premium Bootstrap 4 Admin Template (BootstrapDash)
 - [Argon Dashboard PRO](./argon-dashboard-pro/) - Premium Bootstrap 4 Admin Template (Creative-Tim)
