@@ -32,19 +32,19 @@ Comes with error/bug-free, well structured, well-commented code and regularly wi
 
 **Datta Able** - Dashboard Screen
 
-![Pixel Lite - Dashboard Screen.](https://raw.githubusercontent.com/admin-dashboards/bootstrap-template-datta-able/main/media/bootstrap-template-datta-able-screen.png)
+![Datta Able - Dashboard Screen.](https://raw.githubusercontent.com/admin-dashboards/bootstrap-template-datta-able/main/media/bootstrap-template-datta-able-screen.png)
 
 <br />
 
 **Datta Able** - Widgets
 
-![Pixel Lite - Widgets.](https://raw.githubusercontent.com/admin-dashboards/bootstrap-template-datta-able/main/media/bootstrap-template-datta-able-screen-widgets.png)
+![Datta Able - Widgets.](https://raw.githubusercontent.com/admin-dashboards/bootstrap-template-datta-able/main/media/bootstrap-template-datta-able-screen-widgets.png)
 
 <br />
 
 **Datta Able** - Charts
 
-![Pixel Lite - UI Buttons.](https://raw.githubusercontent.com/admin-dashboards/bootstrap-template-datta-able/main/media/bootstrap-template-datta-able-screen-charts.png)
+![Datta Able - UI Buttons.](https://raw.githubusercontent.com/admin-dashboards/bootstrap-template-datta-able/main/media/bootstrap-template-datta-able-screen-charts.png)
 
 ---
 [Datta Able](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-pro) - Bootstrap UI Kit provided by **CodedThemes**.
