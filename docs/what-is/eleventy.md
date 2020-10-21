@@ -1,6 +1,6 @@
 title: What is Eleventy (11ty)
 
-# What is Eleventy [Eleventy](https://www.11ty.io/)
+# What is [Eleventy (11ty)](https://www.11ty.io/)
 ---
 
 Eleventy was created to be a JavaScript alternative to Jekyll. It’s zero-config by default but has flexible configuration options. Eleventy works with your project’s existing directory structure.
