@@ -23,7 +23,11 @@ All **staters are actively supported** via eMail < *support@appseed.us* >, Githu
 - [What is Flask](/what-is/flask/) - a short introduction (updated)
 - [What is Jinja](/what-is/jinja/) - a short introduction 
 - [What is HEROKU](/what-is/heroku/) - a short introduction and a sample app 
-- New [Bootstrap Template](/bootstrap-template/) - [Azia Dashboard PRO](/bootstrap-template/jinja-azia-dashboard-pro/) - used by:
+- New [Bootstrap Template](/bootstrap-template/) - [Datta Able PRO](/bootstrap-template/datta-able-pro/) - used by:
+    - [Datta Able PRO - Jinja Template](/jinja-template/jinja-datta-able-pro/)
+    - [Datta Able PRO - Flask](/admin-dashboards/flask-dashboard-dattaable-pro/)
+    - [Datta Able PRO - Django](/admin-dashboards/django-dashboard-dattaable-pro/)
+- New [Bootstrap Template](/bootstrap-template/) - [Azia Dashboard PRO](/bootstrap-template/azia-dashboard-pro/) - used by:
     - [Azia Dashboard PRO - Jinja Template](/jinja-template/jinja-azia-dashboard-pro/)
     - [Azia Dashboard PRO - Flask](/admin-dashboards/flask-dashboard-azia-pro/)
     - [Azia Dashboard PRO - Django](/admin-dashboards/django-dashboard-azia-pro/)
