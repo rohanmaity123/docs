@@ -24,6 +24,7 @@ All **staters are actively supported** via eMail < *support@appseed.us* >, Githu
 - [What is Jinja](/what-is/jinja/) - a short introduction 
 - [What is HEROKU](/what-is/heroku/) - a short introduction and a sample app 
 - New [Bootstrap Template](/bootstrap-template/) - [Datta Able PRO](/bootstrap-template/datta-able-pro/) - used by:
+    - [Datta Dark PRO - Jinja Template](/jinja-template/jinja-datta-able-dark-pro/)
     - [Datta Able PRO - Jinja Template](/jinja-template/jinja-datta-able-pro/)
     - [Datta Able PRO - Flask](/admin-dashboards/flask-dashboard-dattaable-pro/)
     - [Datta Able PRO - Django](/admin-dashboards/django-dashboard-dattaable-pro/)
