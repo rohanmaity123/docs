@@ -30,6 +30,15 @@ How to do stuff in programming, simple guide.
 - [Install Pyhton 3.8 on Ubuntu](/how-to/install-python38-ubuntu/)
 - [Install Flask](/how-to/install-flask/)
 
+<br />
+
+## Django
+
+- [Customize Django Admin Interface](./django-admin-customization/)
+
+<br />
+
 ## Deployments
 
 - [Flask Deploy on Apache](/how-to/flask-apache-centos-virtualenv-minimal-configuration/)
+
