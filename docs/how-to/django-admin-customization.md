@@ -77,7 +77,7 @@ admin_black/
 
 <br>
 
-## Let's Override Admin Template
+## Let's Override Django Admin Templates
 * In the previous, we added all the required information to our project. Now we want to override the Django admin template and add our template.
 To do this, you need to know that all Django admin template files are located at:
 
@@ -88,4 +88,110 @@ venv/lib64/python3.6/site-packages/django/contrib/admin/templates
 In this section you will see two folders that include **admin** and **registration**.
 As it is clear from the name, the **admin** folder is related to the admin templates and the **registration** folder is related to registration, such as *password_reset_form.html*, *logged_out.html* and etc templates.
 
+* In Django admin, to override the templates, just create the same files with the same address in your application. For example, to change the *base.html*, just create such a file in your application:
 
+```
+admin_black/
+    ...
+    templates/
+        admin/
+            base.html  # change this
+        registration/
+    ...
+```
+
+> Note that you must pay attention to the blocks.
+
+* base.html is a file that you can start with. All other files import this file to use assets. So, you can add your own template files in it.
+> Note you can create your own blocks.
+
+**base.html:** *meta*, *css*, *fonts* and etc
+```html
+<!DOCTYPE html>
+<html lang="{{ LANGUAGE_CODE|default:"en-us" }}">
+
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="apple-touch-icon" sizes="76x76" href="{% static "admin_black/assets/img/apple-icon.png" %}">
+    <link rel="icon" type="image/png" href="{% static "admin_black/assets/img/favicon.png" %}">
+
+    <title>{% block title %}{% endblock %}</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,600,700,800" rel="stylesheet"/>
+    <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+
+    {% if LANGUAGE_BIDI %}
+        <link href="{% static "admin_black/assets/css/bootstrap-rtl.css" %}" rel="stylesheet"/>
+    {% endif %}
+
+    <link href="{% static "admin_black/assets/css/nucleo-icons.css" %}" rel="stylesheet"/>
+    <link href="{% static "admin_black/assets/css/black-dashboard.css" %}" rel="stylesheet"/>
+    <link href="{% static "admin_black/assets/demo/demo.css" %}" rel="stylesheet"/>
+    <link href="{% static "admin_black/assets/css/styles.css" %}" rel="stylesheet"/>
+
+    {% block extrastyle %}{% endblock %}
+    {% block extrahead %}{% endblock %}
+    {% block blockbots %}
+        <meta name="robots" content="NONE,NOARCHIVE">
+    {% endblock %}
+</head>
+```
+
+**base.html:** *Javascripts*, *jQuery* and etc.
+```html
+...
+<script src="{% static "admin_black/assets/js/core/jquery.min.js" %}"></script>
+<script src="{% static "admin_black/assets/js/core/popper.min.js" %}"></script>
+<script src="{% static "admin_black/assets/js/core/bootstrap.min.js" %}"></script>
+<script src="{% static "admin_black/assets/js/plugins/perfect-scrollbar.jquery.min.js" %}"></script>
+<script src="{% static "admin_black/assets/js/plugins/chartjs.min.js" %}"></script>
+<script src="{% static "admin_black/assets/js/plugins/bootstrap-notify.js" %}"></script>
+<script src="{% static "admin_black/assets/js/black-dashboard.min.js" %}"></script>
+<script src="{% static "admin_black/assets/demo/demo.js" %}"></script>
+<script src="https://cdn.trackjs.com/agent/v3/latest/t.js"></script>
+<script src="{% static "admin_black/assets/js/scripts.js" %}"></script>
+
+{% block extrascript %}{% endblock %}
+</body>
+</html>
+```
+
+> Note that in sections head and footer I created a new block so that I can make changes to these sections on other pages.
+
+* **You see**. It is not very difficult. You can do this on other pages as well, and even change parts of HTML.
+You can also use **templatetags** to do some things. For example, I used a **templatetags** to create dashboards sidebar and navigation.
+To do this, I created a file with the name in admin_black.py in templatetags folder and I import it wherever I want to use it, like this:
+
+```
+admin_black/
+    ...
+    templatetags/
+        __init__.py
+        admin_black.py
+    ...
+```
+
+**sidebar.html**
+```html
+{% load admin_black %}
+
+<div class="sidebar">
+    <div class="sidebar-wrapper">
+        ...
+        {% admin_black_get_menu as app_list %}
+        {% if app_list %}
+            ...
+        {% endif %}
+        ...
+    </div>
+</div>
+```
+
+* This way you can override the Django admin template and import your own template.
+
+
+<br>
+
+## Author
+* This part was written by **[Iman Karimi](https://www.linkedin.com/in/iman-karimi/)**.
