@@ -47,6 +47,7 @@ Technical terms used by geeks, programmers, and hackers.
 - P terms
     - [Python](./python/)
     - [Panini SSG](./panini/)
+    - [Pipenv](./pipenv/)
 - R terms
 - S terms
     - [Svelte JS](./svelte-js/)
