@@ -3,7 +3,7 @@
 <br>
 
 ## Download your favorite template
-Download your favorite template. Which usually contains files **css**, **js**, **images** and **fonts**.
+Download your favorite template which usually contains **css**, **js**, **images** and **fonts** files.
 For example, I used one of the ready-made and very beautiful [Creative-Tim](https://www.creative-tim.com/) templates.
 
 I used the free version of **[Black Dashboard](https://www.creative-tim.com/product/black-dashboard)** Template.
