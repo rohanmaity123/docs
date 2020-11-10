@@ -12,7 +12,8 @@ In this docs, we want to explain how to override Django admin and import our cus
 
 <br>
 
-## Download your favorite template
+## Let's Start
+### Download your favorite template
 Download your favorite template which usually contains **css**, **js**, **images** and **fonts** files.
 For example, I used one of the ready-made and very beautiful [Creative-Tim](https://www.creative-tim.com/) templates.
 
@@ -24,8 +25,8 @@ I used the free version of **[Black Dashboard](https://www.creative-tim.com/prod
 
 <br>
 
-## Let's Start
-Create a Django project to start. Then make a new application in it with the a name (note it can be anything like 'admin_black'):
+### Create Your Django Project
+Create a Django project. Then make a new application in it with the a name (note it can be anything like 'admin_black'):
 
 ```bash
 $ python manage.py startapp admin_black
@@ -89,7 +90,7 @@ admin_black/
 
 <br>
 
-## Let's Override Django Admin Templates
+### Let's Override Django Admin Templates
 * In the previous, we added all the required information to our project. Now we want to override the Django admin template and add our template.
 To do this, you need to know that all Django admin template files are located at:
 
