@@ -75,6 +75,7 @@ admin_black/
 
 > This is my structure and you can make your own structure.
 
+<br>
 
 ## Let's Override Admin Template
 * In the previous, we added all the required information to our project. Now we want to override the Django admin template and add our template.
