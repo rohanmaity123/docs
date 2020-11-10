@@ -1,4 +1,5 @@
 # Customize Django Admin Interface
+In this docs, we want to explain how to override Django admin and import our custom template to it.
 
 <br>
 
