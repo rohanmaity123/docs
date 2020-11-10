@@ -7,7 +7,7 @@ In this docs, we want to explain how to override Django admin and import our cus
 
 **Links & Resources**
 
-- [Django Admin Black](https://github.com/app-generator/django-admin-black)
+- [Django Admin Black](https://github.com/app-generator/django-admin-black) - Source Code
 - [Django Black Dashboard - DEMO](https://django-dashboard-black.appseed.us/login/) - LIVE Deployment
 
 <br>
