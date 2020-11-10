@@ -76,3 +76,15 @@ admin_black/
 > This is my structure and you can make your own structure.
 
 
+## Let's Override Admin Template
+* In the previous, we added all the required information to our project. Now we want to override the Django admin template and add our template.
+To do this, you need to know that all Django admin template files are located at:
+
+```djangourlpath
+venv/lib64/python3.6/site-packages/django/contrib/admin/templates
+```
+
+In this section you will see two folders that include **admin** and **registration**.
+As it is clear from the name, the **admin** folder is related to the admin templates and the **registration** folder is related to registration, such as *password_reset_form.html*, *logged_out.html* and etc templates.
+
+
