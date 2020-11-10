@@ -1,6 +1,15 @@
 # Customize Django Admin Interface
 In this docs, we want to explain how to override Django admin and import our custom template to it.
 
+> Originally coded by [Iman Karimi](https://github.com/imankarimi), actively versioned and supported by [AppSeed](https://appseed.us/) via Github (issues tracker) and [Discord](https://discord.gg/fZC6hup) - 24/7 LIVE Service.
+
+<br>
+
+**Links & Resources**
+
+- [Django Admin Black](https://github.com/app-generator/django-admin-black)
+- [Django Black Dashboard - DEMO](https://django-dashboard-black.appseed.us/login/) - LIVE Deployment
+
 <br>
 
 ## Download your favorite template
