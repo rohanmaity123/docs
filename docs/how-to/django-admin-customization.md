@@ -8,6 +8,8 @@ For example, I used one of the ready-made and very beautiful [Creative-Tim](http
 
 I used the free version of **[Black Dashboard](https://www.creative-tim.com/product/black-dashboard)** Template.
 
+![Django Admin Black](https://raw.githubusercontent.com/app-generator/django-dashboard-black/master/media/django-dashboard-black-screen.png)
+
 > Please note that you may have to change the template slightly to do this. Because the relevant template must be usable for Django Admin features.
 
 <br>
