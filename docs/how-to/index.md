@@ -38,6 +38,7 @@ How to do stuff in programming, simple guide.
 Django is a Python Web framework built with "batteries-included" support for common tasks used in modern web development: database access, authentication, security, routes, forms, templates and much more.
 
 - [Customize Django Admin Interface](./django-admin-customization/)
+- [Django Chart Example](./django-chart-example/)
 
 <br />
 
