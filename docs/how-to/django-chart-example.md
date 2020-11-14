@@ -24,7 +24,7 @@ class Sale(models.Model):
 ```
 
 ### Import Data
-* In this part, I used [```django-import-export```](https://django-import-export.readthedocs.io/en/latest/installation.html) package to add data through csv, xls, and etc.
+* I used [```django-import-export```](https://django-import-export.readthedocs.io/en/latest/installation.html) package to add data through csv, xls, and etc.
 
 
 ### Extract Data
