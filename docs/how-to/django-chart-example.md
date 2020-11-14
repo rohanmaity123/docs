@@ -1,6 +1,6 @@
 # Django Chart Example
 
-To display information on a chart, you must extract data from your model or anywhere else and send it to the JS function as JSON.
+To display data on a chart, you must extract data from your model or anywhere else and send it to the JS function as JSON.
 For example, I did this through the following method:
 
 ## Let's Start
