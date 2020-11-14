@@ -13,9 +13,9 @@ from django.db import models
 
 
 class Sale(models.Model):
-    amount = models.FloatField(db_index=True)
-    product_name = models.CharField(max_length=40, db_index=True)
-    created_time = models.DateTimeField(db_index=True)
+    amount = models.FloatField()
+    product_name = models.CharField(max_length=40)
+    created_time = models.DateTimeField()
     updated_time = models.DateTimeField(auto_now=True)
 
     class Meta:
