@@ -4,7 +4,7 @@
 
 In this quick tutorial I will use the Material PRO Bootstrap Template so that you can get started quickly and easily, with the ability to reuse this approach and code on other pages that also use WTFORMs, SQLAlchemy Models, and other tools commonly used in the AppSeed.us configuration.
 
-This tutorial assumes you have installed Flask and the Appseed template for Material, Material PRO, or any Admin Dashboard that has a User Profile page
+This tutorial assumes you have installed Flask and the AppSeed template for Material, Material PRO, or any Admin Dashboard that has a User Profile page
 
 First, your Jinga2 User Profile page, should be located in the /app/home/templates folder. I am running on Windows machine so my file names appear with forward slashes and filenames are not case-sensitive, where a UNIX-OS workstation is going show back-slashes and have case-sensitive filenames. I've added a couple of additional database fields, that you might want to also consider, but here is a basic that works with the AppSeed.us template.
 

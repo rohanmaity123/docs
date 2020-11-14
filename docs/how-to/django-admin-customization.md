@@ -1,23 +1,162 @@
-# Customize Django Admin Interface
-In this docs, we want to explain how to override Django admin and import our custom template to it.
+title: Django Admin Customization
 
-> Originally coded by [Iman Karimi](https://github.com/imankarimi), actively versioned and supported by [AppSeed](https://appseed.us/) via Github (issues tracker) and [Discord](https://discord.gg/fZC6hup) - 24/7 LIVE Service.
+---
 
-<br>
+# Django Admin Customization
+---
+
+This page explains how to override Django admin and import a custom template to it. Along with the tutorial, we provide a working sample coded on top of Black Dashboard design (free version) designed by Creative-Tim. 
+
+<br />
 
 **Links & Resources**
 
-- [Django Admin Black](https://github.com/app-generator/django-admin-black) - Source Code
-- [Django Black Dashboard - DEMO](https://django-dashboard-black.appseed.us/login/) - LIVE Deployment
+- [Django Black Dashboard](https://appseed.us/admin-dashboards/django-dashboard-black) - the product page
+- [Django Admin Black](https://github.com/app-generator/django-admin-black) - admin section customized using Black Design 
 
 <br>
 
-## Let's Start
-### Download your favorite template
-Download your favorite template which usually contains **css**, **js**, **images** and **fonts** files.
-For example, I used one of the ready-made and very beautiful [Creative-Tim](https://www.creative-tim.com/) templates.
+## The Basics
+---
 
-I used the free version of **[Black Dashboard](https://www.creative-tim.com/product/black-dashboard)** Template.
+Django provides default pages for login, registration, 404 and 500 pages (etc) the full list can be found in the `site-packages/django` folder:
+
+```bash
+
+.../site-packages/django/contrib/admin/templates/
+│
+├── admin/
+│   │
+│   ├── auth/
+│   │   └── user/
+│   │       ├── add_form.html
+│   │       └── change_password.html
+│   │
+│   ├── 404.html
+│   ├── 500.html
+│   ├── actions.html
+│   ├── app_index.html
+│   ├── base.html
+│   ├── base_site.html
+│   ├── index.html
+│   ├── invalid_setup.html
+│   ├── login.html
+│   ├── pagination.html
+│   ├── popup_response.html
+│   └── submit_line.html
+│
+└── registration/
+    ├── logged_out.html
+    ├── password_change_done.html
+    ├── password_change_form.html
+    ├── password_reset_complete.html
+    ├── password_reset_confirm.html
+    ├── password_reset_done.html
+    ├── password_reset_email.html
+    └── password_reset_form.html
+```
+
+To customize a template, we need to provide the page in a custom templates directory and inform Django to use it. 
+When a template page is used, Django will try to resolve the file by scanning the templates provided by the user and after this step, it defaults to ones provided by the Django core. 
+
+<br />
+
+### Customize 404 page
+---
+
+The admin templates come in two directories:
+
+- admin is for the model object pages.
+- registration is for password changes and logging in and out.
+
+To customize the `404` page, you need to override the right file. The relative path leading to the file has to be the same as the one being overridden. The file you’re interested in is `404.html`. 
+
+<br />
+
+** Step #1 - Create template directory**
+
+```bash
+# Django Root Project <-- you are here
+mkdir -p templates/
+```
+
+<br />
+
+** Step #2 - Update Django Settings**
+
+To use the new templates the project settings file should be updated as bellow to use it.
+
+```python
+# core/settings.py
+# ...
+
+TEMPLATES = [
+    {
+        "BACKEND": "django.template.backends.django.DjangoTemplates",
+
+        # Add the templates directory to the DIR option:
+        "DIRS": [os.path.join(BASE_DIR, "templates"), ],
+        "APP_DIRS": True,
+        "OPTIONS": {
+            "context_processors": [
+                "django.template.context_processors.debug",
+                "django.template.context_processors.request",
+                "django.contrib.auth.context_processors.auth",
+                "django.contrib.messages.context_processors.messages",
+            ],
+        },
+    },
+]
+```
+
+As mentioned before, Django will try to resolve a template file by scanning the directories defined by the user in the settings file. 
+If nothing is found, the default version will be used from `site-packages/django/contrib/admin/templates/` directory. 
+
+<br />
+
+** Step #3 - Customize 404 page**
+
+The custom version of our 404 page can be easily done by copying the default version from `admin/templates/` directory and save it in the directory created in **Step #2**
+
+```bash
+# Django Root Project <-- you are here
+vi templates/404.html
+```
+
+<br />
+
+```html
+<!-- templates/404.html --> 
+
+{% extends "admin/base_site.html" %}
+{% load i18n %}
+
+{% block title %}{% trans 'Page not found' %}{% endblock %}
+
+{% block content %}
+
+<h2>{% trans 'Page not found' %} - Custom File</h2>
+
+<p>{% trans "We're sorry, but the requested page could not be found." %}</p>
+
+{% endblock %}
+```
+
+Once we save the file, Django will use it when a 404 error case occur when users interacts with our application.
+
+<br />
+
+## A complete example
+---
+
+This section explains the process of integrating Black Dashboard design (free version) to style the default admin section for Django.
+
+<br />
+
+**Download UI Kit & Assets**
+
+Download your favorite template which usually contains **css**, **js**, **images** and **fonts** files. 
+The sample we are using here (Black Dashboard) can be downloaded from the [product page](https://www.creative-tim.com/product/black-dashboard?AFFILIATE=128200).  
 
 ![Django Admin Black](https://raw.githubusercontent.com/app-generator/django-dashboard-black/master/media/django-dashboard-black-screen.png)
 
@@ -25,14 +164,15 @@ I used the free version of **[Black Dashboard](https://www.creative-tim.com/prod
 
 <br>
 
-### Create Your Django Project
-Create a Django project. Then make a new application in it with the a name (note it can be anything like 'admin_black'):
+**Create Your Django Project**
+
+Create a Django project and a new application inside using a descriptive name `admin_black`, for instance.
 
 ```bash
 $ python manage.py startapp admin_black
 ```
 
-* Make a 'templates', 'static' and 'templatetages' folders in it. The application folders structure is like this:
+Create new directories `templates`, `static` and `templatetages` inside. The application folders structure should look as below:
 
 ```
 admin_black/
@@ -54,7 +194,9 @@ admin_black/
     views.py
 ```
 
-* Add your application (admin_black) to the INSTALLED_APPS setting of your Django project settings.py file (note it should be before 'django.contrib.admin'):
+<br />
+
+Add your application (admin_black) to the INSTALLED_APPS setting of your Django project settings.py file (note it should be before 'django.contrib.admin'):
 
 ```python
 INSTALLED_APPS = [
@@ -64,7 +206,9 @@ INSTALLED_APPS = [
 ]
 ```
 
-* Now your application is ready to add a template. To do this, you need to add your template assets files like **css**, **js**, **images** and **fonts** in your application static folder.
+
+Now your application is ready to add a template. To do this, you need to add your template assets files like **css**, **js**, **images** and **fonts** in your application static folder.
+
 > The folders' structure of this section is completely arbitrary.
 
 ```
@@ -90,18 +234,21 @@ admin_black/
 
 <br>
 
-### Let's Override Django Admin Templates
-* In the previous, we added all the required information to our project. Now we want to override the Django admin template and add our template.
+**Define new Django templates**
+
+In the previous, we added all the required information to our project. Now we want to override the Django admin template and add our template.
 To do this, you need to know that all Django admin template files are located at:
 
-```djangourlpath
-venv/lib64/python3.6/site-packages/django/contrib/admin/templates
+```python
+.../site-packages/django/contrib/admin/templates
 ```
 
 In this section you will see two folders that include **admin** and **registration**.
 As it is clear from the name, the **admin** folder is related to the admin templates and the **registration** folder is related to registration, such as *password_reset_form.html*, *logged_out.html* and etc templates.
 
-* In Django admin, to override the templates, just create the same files with the same address in your application. For example, to change the *base.html*, just create such a file in your application:
+<br />
+
+In Django admin, to override the templates, just create the same files with the same address in your application. For example, to change the *base.html*, just create such a file in your application:
 
 ```
 admin_black/
@@ -113,12 +260,16 @@ admin_black/
     ...
 ```
 
+<br />
+
 > Note that you must pay attention to the blocks.
 
-* base.html is a file that you can start with. All other files import this file to use assets. So, you can add your own template files in it.
+**base.html** is a file that you can start with. All other files import this file to use assets. So, you can add your own template files in it.
+
 > Note you can create your own blocks.
 
 **base.html:** *meta*, *css*, *fonts* and etc
+
 ```html
 <!DOCTYPE html>
 <html lang="{{ LANGUAGE_CODE|default:"en-us" }}">
@@ -151,7 +302,10 @@ admin_black/
 </head>
 ```
 
+<br />
+
 **base.html:** *Javascripts*, *jQuery* and etc.
+
 ```html
 ...
 <script src="{% static "admin_black/assets/js/core/jquery.min.js" %}"></script>
@@ -172,11 +326,11 @@ admin_black/
 
 > Note that in sections head and footer I created a new block so that I can make changes to these sections on other pages.
 
-* **You see**. It is not very difficult. You can do this on other pages as well, and even change parts of HTML.
-You can also use **templatetags** to do some things. For example, I used a **templatetags** to create dashboards sidebar and navigation.
-To do this, I created a file with the name in admin_black.py in templatetags folder and I import it wherever I want to use it, like this:
+<br />
 
-```
+You can also use **templatetags** to provide more customization like a custom `sidebar` and `navigation`. To do this create a new file inside the `templatetags` as below:
+
+```basj
 admin_black/
     ...
     templatetags/
@@ -185,8 +339,11 @@ admin_black/
     ...
 ```
 
-**sidebar.html**
+<br />
+
 ```html
+<!-- sidebar.html -->
+
 {% load admin_black %}
 
 <div class="sidebar">
@@ -201,10 +358,12 @@ admin_black/
 </div>
 ```
 
-* This way you can override the Django admin template and import your own template.
-
+This way you can override the Django admin template and import your own template.
 
 <br>
 
-## Author
-* This part was written by **[Iman Karimi](https://www.linkedin.com/in/iman-karimi/)**.
+### Links & Resource
+
+- Page editor and `Django Admin Black` author - **[Iman Karimi](https://www.linkedin.com/in/iman-karimi/)**
+- [Django Black Dashboard](https://appseed.us/admin-dashboards/django-dashboard-black) - free Django product that uses the same UI Kit
+- Access the [AppSeed](https://appseed.us/) platform for support and more [Django Templates](https://appseed.us/admin-dashboards/django)

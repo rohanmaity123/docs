@@ -18,6 +18,7 @@ All **staters are actively supported** via eMail < *support@appseed.us* >, Githu
 ### Latest changes
 ---
 
+- [Django Admin Customization](/how-to/django-admin-customization/) - explains how to customize Django Admin section
 - [What is Pipenv](/what-is/pipenv/) - a short introduction 
 - [What is Eleventy (11ty)](/what-is/eleventy/) - a short introduction (updated)
 - [What is Svelte](/what-is/svelte-js/) - a short introduction 
