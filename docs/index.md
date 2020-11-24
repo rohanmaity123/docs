@@ -15,6 +15,17 @@ All **staters are actively supported** via eMail < *support@appseed.us* >, Githu
 
 <br />
 
+## [Black Friday](https://appseed.us/bundles/black-friday) - ONLY $99
+---
+
+FIVE Premium dashboards coded by experts on top of premium UI Kits, FREE updates for 12 months and 24/7 LIVE Support via [Discord](https://discord.gg/fZC6hup).
+
+**Regular Price $365 (Discount 73%)** - See [Offer](https://appseed.us/bundles/black-friday) (limited to 100 sales).
+
+![Black Friday Offer - AppSeed.](https://raw.githubusercontent.com/black-friday-deals/black-friday-deals/main/media/bf-appseed-intro.gif)
+
+<br />
+
 ### Latest changes
 ---
 
