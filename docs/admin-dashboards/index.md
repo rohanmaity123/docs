@@ -58,8 +58,8 @@ App web apps and dashboards are actively supported and versioned by the AppSeed 
 - [Django Dashboard NowUI](./django-dashboard-nowui/) - Free, MIT License, **[PRO Version](./django-dashboard-nowui-pro/)** available
 - [Django Dashboard Light](./django-dashboard-light/) - Free, MIT License, **[PRO Version](./django-dashboard-light-pro/)** available
 ---
-- [Django Dashboard Atlantis](./django-dashboard-atlantis/) - Free, MIT License
-- [Django Dashboard Atlantis Dark](./django-dashboard-atlantis-dark/) - Free, MIT License
+- [Django Dashboard Atlantis](./django-dashboard-atlantis/) - Free, MIT License, **[PRO Version](./django-dashboard-atlantis-dark-pro/)** available
+- [Django Dashboard Atlantis Dark](./django-dashboard-atlantis-dark/) - Free, MIT License, **[PRO Version](./django-dashboard-atlantis-dark-pro/)** available
 - [Django Dashboard Light Blue](./django-dashboard-light-blue/) - Free, MIT License
 - [Django Dashboard Shards](./django-dashboard-shards/) - Free, MIT License
 - [Django Dashboard Tabler](./django-dashboard-tabler/) - Free, MIT License

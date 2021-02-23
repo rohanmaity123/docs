@@ -16,6 +16,7 @@ nav:
   - 'How To'               : '/how-to/'   
   - 'Tutorials'            : '/tutorials/'   
   - 'Bootstrap Templates'  : '/bootstrap-template/'   
+  - 'UI Kits'              : '/ui-kits/'   
 
 - Starters:  
   - 'Admin Dashboards'     : '/admin-dashboards/'   

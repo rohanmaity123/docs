@@ -15,50 +15,15 @@ All **staters are actively supported** via eMail < *support@appseed.us* >, Githu
 
 <br />
 
-## [Black Friday](https://appseed.us/bundles/black-friday) - ONLY $99
----
-
-FIVE Premium dashboards coded by experts on top of premium UI Kits, FREE updates for 12 months and 24/7 LIVE Support via [Discord](https://discord.gg/fZC6hup).
-
-**Regular Price $365 (Discount 73%)** - See [Offer](https://appseed.us/bundles/black-friday) (limited to 100 sales).
-
-![Black Friday Offer - AppSeed.](https://raw.githubusercontent.com/black-friday-deals/black-friday-deals/main/media/bf-appseed-intro.gif)
-
-<br />
-
 ### Latest changes
 ---
 
-- [Django Admin Customization](/how-to/django-admin-customization/) - explains how to customize Django Admin section
-- [What is Pipenv](/what-is/pipenv/) - a short introduction 
+
+- New Section: [UI Kits](/ui-kits/) with [AdminLTE](/ui-kits/adminlte/) as first listed product
 - [What is Eleventy (11ty)](/what-is/eleventy/) - a short introduction (updated)
 - [What is Svelte](/what-is/svelte-js/) - a short introduction 
 - [What is Flask](/what-is/flask/) - a short introduction (updated)
 - [What is Jinja](/what-is/jinja/) - a short introduction 
-- [What is HEROKU](/what-is/heroku/) - a short introduction and a sample app 
-- New [Bootstrap Template](/bootstrap-template/) - [Datta Able PRO](/bootstrap-template/datta-able-pro/) - used by:
-    - [Datta Dark PRO - Jinja Template](/jinja-template/jinja-datta-able-dark-pro/)
-    - [Datta Able PRO - Jinja Template](/jinja-template/jinja-datta-able-pro/)
-    - [Datta Able PRO - Flask](/admin-dashboards/flask-dashboard-dattaable-pro/)
-    - [Datta Able PRO - Django](/admin-dashboards/django-dashboard-dattaable-pro/)
-- New [Bootstrap Template](/bootstrap-template/) - [Azia Dashboard PRO](/bootstrap-template/azia-dashboard-pro/) - used by:
-    - [Azia Dashboard PRO - Jinja Template](/jinja-template/jinja-azia-dashboard-pro/)
-    - [Azia Dashboard PRO - Flask](/admin-dashboards/flask-dashboard-azia-pro/)
-    - [Azia Dashboard PRO - Django](/admin-dashboards/django-dashboard-azia-pro/)
-- New [Bootstrap Template](/bootstrap-template/) - [Volt Dashboard PRO](/bootstrap-template/volt-dashboard-pro/) - used by:
-    - [Volt Dashboard PRO - Jinja Template](/jinja-template/jinja-template-volt-pro/)
-    - [Volt Dashboard PRO - Flask](/admin-dashboards/flask-dashboard-volt-pro/)
-    - [Volt Dashboard PRO - Django](/admin-dashboards/django-dashboard-volt-pro/)
-- New [Bootstrap template](/bootstrap-template/) - [Datta Able](/bootstrap-template/datta-able/), free design used by:
-    - [Datta Able - Flask](/admin-dashboards/flask-dashboard-dattaable/)
-    - [Datta Able - Django](/admin-dashboards/django-dashboard-dattaable/)
-- New [Bootstrap Template](/bootstrap-template/) - [Black Dashboard PRO](/bootstrap-template/black-dashboard-pro/) - used by:
-    - [Black Dashboard PRO - Flask](/admin-dashboards/flask-dashboard-black-pro/)
-    - [Black Dashboard PRO - Django](/admin-dashboards/django-dashboard-black-pro/)
-- New [Bootstrap Template](/bootstrap-template/) - [Argon Dashboard PRO](/bootstrap-template/argon-dashboard-pro/), premium design used by:
-    - [Argon Dashboard PRO - Jinja Template](/jinja-template/jinja-template-argon-pro/)
-    - [Argon Dashboard PRO - Flask](/admin-dashboards/flask-dashboard-argon-pro/)
-    - [Argon Dashboard PRO - Django](/admin-dashboards/django-dashboard-argon-pro/)
 
 <br />
 
