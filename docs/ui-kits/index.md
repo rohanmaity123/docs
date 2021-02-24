@@ -13,5 +13,6 @@ Popular UI Kits and design systems integrated by AppSeed.
 <br />
 
 - [AdminLTE](./adminlte/)
+- [Datta Able](./datta-able/)
 
 

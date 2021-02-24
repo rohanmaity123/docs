@@ -19,7 +19,12 @@ All **staters are actively supported** via eMail < *support@appseed.us* >, Githu
 ---
 
 
-- New Section: [UI Kits](/ui-kits/) with [AdminLTE](/ui-kits/adminlte/) as first listed product
+- New Product: [AdminLTE](/ui-kits/adminlte/) - the iconic design from ColorLib
+    - [AdminLTE Flask](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) - product page
+    - [AdminLTE Django](https://appseed.us/admin-dashboards/django-dashboard-adminlte) - product page
+- New Product: [Datta Able](/ui-kits/datta-able/) - a modern UI Kit crafted by [CodedThemes](https://appseed.us/agency/codedthemes)
+    - [Datta Able Flask](https://appseed.us/admin-dashboards/flask-dashboard-dattaable) - product page
+    - [Datta Able Django](https://appseed.us/admin-dashboards/django-dashboard-dattaable) - product page
 - [What is Eleventy (11ty)](/what-is/eleventy/) - a short introduction (updated)
 - [What is Svelte](/what-is/svelte-js/) - a short introduction 
 - [What is Flask](/what-is/flask/) - a short introduction (updated)
