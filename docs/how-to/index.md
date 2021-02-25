@@ -22,6 +22,7 @@ How to do stuff in programming, simple guide.
 - [Setup CentOS for development](/how-to/setup-centos-for-development/)
 - [Setup Ubuntu for development](/how-to/setup-ubuntu-for-development/)
 - [Setup Windows for development](/how-to/setup-windows-for-development/)
+- [Getting Started with Python](/how-to/getting-started-with-python/)
 
 <br />
 

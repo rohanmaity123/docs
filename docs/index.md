@@ -18,7 +18,7 @@ All **staters are actively supported** via eMail < *support@appseed.us* >, Githu
 ### Latest changes
 ---
 
-
+- New tutorial: [Getting Started with Python](/how-to/getting-started-with-python/)
 - New Product: [AdminLTE](/ui-kits/adminlte/) - the iconic design from ColorLib
     - [AdminLTE Flask](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) - product page
     - [AdminLTE Django](https://appseed.us/admin-dashboards/django-dashboard-adminlte) - product page

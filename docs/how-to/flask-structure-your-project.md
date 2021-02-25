@@ -4,7 +4,7 @@ title: How to structure your project in Flask
 
 # [Flask](https://palletsprojects.com/p/flask/) - Structure your project
 
-This page advise how to structure your project in Flask.
+This page advises how to structure your project in Flask.
 
 <br />
 
