@@ -61,9 +61,10 @@ The *pull request* triggered by the change will be merged in the documentation a
 
 ## Latest Products
 
-- [Flask Dashboard StarAdmin PRO](https://docs.appseed.us/admin-dashboards/flask-dashboard-staradmin-pro/) - product help, [LIVE Demo](https://flask-dashboard-staradmin-pro.appseed.us/)
-- [Flask Dashboard StarAdmin Black PRO](https://docs.appseed.us/admin-dashboards/flask-dashboard-staradmin-black-pro/) - product help, [LIVE Demo](https://flask-dashboard-staradmin-black-pro.appseed.us/)
-- [Flask Dashboard StarAdmin Boxed PRO](https://docs.appseed.us/admin-dashboards/flask-dashboard-staradmin-boxed-pro/) - product help, [LIVE Demo](https://flask-dashboard-staradmin-boxed-pro.appseed.us/)
+- [Flask Bootstrap 5](https://docs.appseed.us/admin-dashboards/flask-dashboard-volt/) Volt Dashboard (free product)
+- [Flask Star Admin PRO](https://docs.appseed.us/admin-dashboards/flask-dashboard-staradmin-pro/) - product help, [LIVE Demo](https://flask-dashboard-staradmin-pro.appseed.us/)
+- [Flask Star Admin Black PRO](https://docs.appseed.us/admin-dashboards/flask-dashboard-staradmin-black-pro/) - product help, [LIVE Demo](https://flask-dashboard-staradmin-black-pro.appseed.us/)
+- [Flask Star Admin Boxed PRO](https://docs.appseed.us/admin-dashboards/flask-dashboard-staradmin-boxed-pro/) - product help, [LIVE Demo](https://flask-dashboard-staradmin-boxed-pro.appseed.us/)
 
 <br />
 

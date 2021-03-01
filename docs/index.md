@@ -18,6 +18,7 @@ All **staters are actively supported** via eMail < *support@appseed.us* >, Githu
 ### Latest changes
 ---
 
+- Update: [Flask Bootstrap 5](/admin-dashboards/flask-dashboard-volt) Volt (free product)
 - New tutorial: [Getting Started with Python](/how-to/getting-started-with-python/)
 - New Product: [AdminLTE](/ui-kits/adminlte/) - the iconic design from ColorLib
     - [AdminLTE Flask](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) - product page
