@@ -61,6 +61,7 @@ The *pull request* triggered by the change will be merged in the documentation a
 
 ## Latest Products
 
+- [Django Bootstrap 5](https://docs.appseed.us/admin-dashboards/django-dashboard-volt/) Volt Dashboard (free product)
 - [Flask Bootstrap 5](https://docs.appseed.us/admin-dashboards/flask-dashboard-volt/) Volt Dashboard (free product)
 - [Flask Star Admin PRO](https://docs.appseed.us/admin-dashboards/flask-dashboard-staradmin-pro/) - product help, [LIVE Demo](https://flask-dashboard-staradmin-pro.appseed.us/)
 - [Flask Star Admin Black PRO](https://docs.appseed.us/admin-dashboards/flask-dashboard-staradmin-black-pro/) - product help, [LIVE Demo](https://flask-dashboard-staradmin-black-pro.appseed.us/)
