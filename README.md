@@ -4,18 +4,6 @@ The official documentation repo for all web apps and boilerplate code
 
 <br />
 
-## Black Friday Offer
-
-FIVE Premium dashboards coded by experts on top of premium UI Kits, FREE updates for 12 months and 24/7 LIVE Support via Discord.
-
-**Regular Price $365 - 73% Discount** 
-
-<br />
-
-![Black Friday Offer - AppSeed.](https://raw.githubusercontent.com/black-friday-deals/black-friday-deals/main/media/bf-appseed-intro.gif)
-
-<br />
-
 ## How to build the docs
 
 The project uses [Mkdocs](https://www.mkdocs.org/) to generate the HTML pages from Markdown files. To build locally the project, Nodejs must be installed.
