@@ -37,6 +37,7 @@ How to do stuff in programming, simple guide.
 
 
 ### [Django](/what-is/django/)
+---
 
 Django is a Python Web framework built with "batteries-included" support for common tasks used in modern web development: database access, authentication, security, routes, forms, templates and much more.
 
@@ -46,6 +47,7 @@ Django is a Python Web framework built with "batteries-included" support for com
 <br />
 
 ### [Flask](/what-is/flask/)
+---
 
 Flask is a lightweight WSGI web application framework designed to get started quickly and easily, with the ability to scale up to complex applications.
 
@@ -54,7 +56,15 @@ Flask is a lightweight WSGI web application framework designed to get started qu
 
 <br />
 
-## Deployments
+### Code
+---
+
+- [Get Website Title in Python](./python-crawl-website/)
+
+<br />
+
+### Deployments
+---
 
 - [Flask Deploy on Apache](/how-to/flask-apache-centos-virtualenv-minimal-configuration/)
 
