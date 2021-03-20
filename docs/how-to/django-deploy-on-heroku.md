@@ -1,4 +1,4 @@
-title: How to deploy Flask on Heroku
+title: How to deploy Django on Heroku
 
 # [Django](https://www.djangoproject.com/) Deploy on [Heroku](https://www.heroku.com/)
 
@@ -43,7 +43,7 @@ As mentioned, the project comes pre-configured for Heroku. The relevant files ar
 ### Requirements.txt update
 ---
 
-To have a successfull deployment on Heroku, the usual requirements.txt file should be updated to contain soem new modules:
+To have a successfull deployment on Heroku, the usual requirements.txt file should be updated to contain some new modules:
 
 - `gunicorn` - the Gunicorn server to start our app
 - `django-heroku` - a helper bundle provided by the Heroku development team to make the deployment much easier.
