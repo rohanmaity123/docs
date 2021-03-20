@@ -19,7 +19,7 @@ This page explains how to get started with Python and execute simple code using 
 
 **What is Python**
 
-Python is an `interpreted`, high-level and general-purpose programming language. Interpreted means that the instructions are executed one-by-one at runtime. This pattern is different from compiled languages like C++, where the code is initially `compiled` and later executed in the operating system. 
+Python is an `interpreted` high-level and general-purpose programming language. Interpreted means that the instructions are executed one-by-one at runtime. This pattern is different from compiled languages like C++, where the code is initially `compiled` and later executed in the operating system. 
 
 <br />
 
