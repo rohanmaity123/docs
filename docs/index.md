@@ -18,6 +18,8 @@ All **staters are actively supported** via eMail < *support@appseed.us* >, Githu
 ### Latest changes
 ---
 
+- New tutorial: [Python Crawl Website](/how-to/python-crawl-website/)
+- Update [What is Python](/what-is/python/) page 
 - Update: [Django Bootstrap 5](/admin-dashboards/django-dashboard-volt) Volt (free product)
 - Update: [Flask Bootstrap 5](/admin-dashboards/flask-dashboard-volt) Volt (free product)
 - New tutorial: [Getting Started with Python](/how-to/getting-started-with-python/)
