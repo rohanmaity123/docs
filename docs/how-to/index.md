@@ -59,7 +59,7 @@ Flask is a lightweight WSGI web application framework designed to get started qu
 ### Code
 ---
 
-- [Get Website Title in Python](./python-crawl-website/)
+- [Crawl Website in Python](./python-crawl-website/) - Read title from a page
 
 <br />
 
