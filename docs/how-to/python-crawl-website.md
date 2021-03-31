@@ -1,8 +1,8 @@
-title: Python Crawl Website
+title: Crawl Website in Python
 
 ---
 
-# Python Crawl Website
+# Crawl Website in Python
 ---
 
 This page explains how to use Python and extract (title) information from a LIVE website. The code provided is fairly simple and to use it we need to be comfortable using a terminal and have basic programming knowledge. Resources and libraries used: 
